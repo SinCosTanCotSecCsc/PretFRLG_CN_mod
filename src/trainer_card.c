@@ -424,7 +424,7 @@ static const struct TrainerCard sLinkPlayerTrainerCardTemplate2 =
         .pokemonTrades = 33333,
         .money = 999999,
         .easyChatProfile = {0, 0, 0, 0},
-        .playerName = _("るびさふぁこ！")
+        .playerName = _("るびさふぁこ!")
     },
     .version = 0,
     .hasAllFrontierSymbols = FALSE,
