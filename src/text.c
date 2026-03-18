@@ -5,6 +5,7 @@
 #include "graphics.h"
 #include "dynamic_placeholder_text_util.h"
 #include "constants/songs.h"
+#include "chinese_text.h"
 
 #define TAG_CURSOR 0x8000
 
@@ -814,6 +815,15 @@ u16 RenderText(struct TextPrinter *textPrinter)
             return RENDER_FINISH;
         }
 
+        if (IsChineseChar(currChar, *textPrinter->printerTemplate.currentChar, subStruct->glyphId, textPrinter->japanese))
+        {   
+            //合并字节获取汉字双字节编码
+            currChar = (currChar << 8) | *textPrinter->printerTemplate.currentChar;
+            textPrinter->printerTemplate.currentChar++;
+            DecompressGlyph_Chinese(currChar, subStruct->glyphId);
+        }
+        else
+        {
         switch (subStruct->glyphId)
         {
         case FONT_SMALL:
@@ -834,6 +844,7 @@ u16 RenderText(struct TextPrinter *textPrinter)
         case FONT_FEMALE:
             DecompressGlyph_Female(currChar, textPrinter->japanese);
             break;
+        }
         }
 
         CopyGlyphToWindow(textPrinter);
@@ -1155,7 +1166,15 @@ s32 GetStringWidth(u8 fontId, const u8 *str, s16 letterSpacing)
             lineWidth += glyphWidth;
             break;
         default:
+            if (IsChineseChar(*str, str[1], fontId, isJapanese))
+            {
+                glyphWidth = GetChineseFontWidthFunc(fontId);
+                ++str;
+            }
+            else
+            {
             glyphWidth = func(*str, isJapanese);
+            }
             if (minGlyphWidth > 0)
             {
                 if (glyphWidth < minGlyphWidth)

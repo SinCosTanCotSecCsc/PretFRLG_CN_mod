@@ -310,6 +310,7 @@ SECTIONS {
         src/berry_powder.o(.text);
         src/minigame_countdown.o(.text);
         src/berry_fix_program.o(.text);
+        src/chinese_text.o(.text);
     } > ROM =0
 
     script_data :
@@ -611,6 +612,7 @@ SECTIONS {
         data/mystery_event_msg.o(.rodata);
         src/m4a_tables.o(.rodata);
         data/sound_data.o(.rodata);
+        src/chinese_text.o(.rodata);
     } > ROM =0
 
     song_data :
