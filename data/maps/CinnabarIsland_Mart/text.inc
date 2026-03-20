@@ -1,9 +1,9 @@
 CinnabarIsland_Mart_Text_DontTheyHaveXAttack::
-    .string "Don't they have X ATTACK?\p"
-    .string "I like it because it raises the\n"
-    .string "ATTACK stat in battle.$"
+    .string "他们这里没有卖力量强化？\p"
+    .string "我喜欢这个道具\n"
+    .string "因为它能在战斗中提升攻击。$"
 
 CinnabarIsland_Mart_Text_ExtraItemsNeverHurt::
-    .string "It never hurts to have extra items.\n"
-    .string "You never know what might happen.$"
+    .string "道具到用时方恨少，\n"
+    .string "多买一些备着好！$"
 

@@ -1,4 +1,4 @@
 Route7_Text_UndergroundPathSign::
-    .string "UNDERGROUND PATH\n"
-    .string "CELADON CITY - LAVENDER TOWN$"
+    .string "地下通道\n"
+    .string "玉虹市-紫苑镇$"
 

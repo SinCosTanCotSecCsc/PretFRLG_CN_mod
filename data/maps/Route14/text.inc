@@ -1,156 +1,156 @@
 Route14_Text_CarterIntro::
-    .string "You need to use TMs to teach good\n"
-    .string "moves to POKéMON.$"
+    .string "要想让你的宝可梦学到更强\n"
+    .string "的招式就要善用招式学习器。$"
 
 Route14_Text_CarterDefeat::
-    .string "Not good enough quite yet.$"
+    .string "我觉得我还有待加强。$"
 
 Route14_Text_CarterPostBattle::
-    .string "You have some HMs, right? POKéMON\n"
-    .string "can't forget those moves easily.$"
+    .string "你已经得到秘传学习器了吗？宝可梦不会\n"
+    .string "轻易忘记从上面学得的招式。$"
 
 Route14_Text_MitchIntro::
-    .string "My bird POKéMON should be ready\n"
-    .string "for battle.$"
+    .string "我的鸟宝可梦已经\n"
+    .string "备战完毕。$"
 
 Route14_Text_MitchDefeat::
-    .string "Not ready yet!$"
+    .string "还没准备好！$"
 
 Route14_Text_MitchPostBattle::
-    .string "My bird POKéMON need to learn\n"
-    .string "better moves.$"
+    .string "我的鸟宝可梦需要\n"
+    .string "学习更强的招式。$"
 
 Route14_Text_BeckIntro::
-    .string "They have TMs on sale at the\n"
-    .string "CELADON DEPT. STORE.\p"
-    .string "TMs aren't really rare, but not\n"
-    .string "many people have HMs.$"
+    .string "玉虹百货公司\n"
+    .string "出售好几种招式学习器。\p"
+    .string "招式学习器并不是什么稀有物品，\n"
+    .string "但是拥有它的人也不多。$"
 
 Route14_Text_BeckDefeat::
-    .string "Aww, bummer!$"
+    .string "真是丢人丢到家了。$"
 
 Route14_Text_BeckPostBattle::
-    .string "Try teaching POKéMON a move that's\n"
-    .string "the same type as it.\p"
-    .string "That apparently boosts the power\n"
-    .string "of the move.$"
+    .string "让宝可梦学习与它自身属性\n"
+    .string "相符的招式。\p"
+    .string "这样招式的伤害会有显著提升。$"
 
 Route14_Text_MarlonIntro::
-    .string "Have you taught your bird POKéMON\n"
-    .string "how to FLY?\p"
-    .string "You'll be able to soar with it into\n"
-    .string "the sky!$"
+    .string "你教过你的鸟宝可梦\n"
+    .string "如何飞翔了吗？\p"
+    .string "你可以跟它一同在天空中\n"
+    .string "翱翔！$"
 
 Route14_Text_MarlonDefeat::
-    .string "Shot down in flames!$"
+    .string "在火焰中击落它！$"
 
 Route14_Text_MarlonPostBattle::
-    .string "Bird POKéMON are my one true love.\n"
-    .string "I don't want to raise anything else.$"
+    .string "飞行属性的宝可梦是我最钟爱的。\n"
+    .string "任何其他的宝可梦都让我兴趣索然。$"
 
 Route14_Text_DonaldIntro::
-    .string "Have you heard the legend of the\n"
-    .string "winged mirages?$"
+    .string "你听说过传说中\n"
+    .string "飞行的幻影吗？$"
 
 Route14_Text_DonaldDefeat::
-    .string "Why?\n"
-    .string "Why'd I lose?$"
+    .string "为什么？\n"
+    .string "我为什么输了？$"
 
 Route14_Text_DonaldPostBattle::
-    .string "Well, the winged mirages are the\n"
-    .string "legendary bird POKéMON.\p"
-    .string "There are three of them: ARTICUNO,\n"
-    .string "ZAPDOS, and MOLTRES.$"
+    .string "飞行的幻影指的是\n"
+    .string "传说中的鸟宝可梦。\p"
+    .string "有三只：急冻鸟，\n"
+    .string "闪电鸟和火焰鸟。$"
 
 Route14_Text_BennyIntro::
-    .string "I'm not into it, but okay.\n"
-    .string "Let's go!$"
+    .string "我没有进去过，不过没关系。\n"
+    .string "我们出发吧！$"
 
 Route14_Text_BennyDefeat::
-    .string "I knew it!$"
+    .string "啊……果然是这样。$"
 
 Route14_Text_BennyPostBattle::
-    .string "Winning, losing… It's insignificant\n"
-    .string "under this huge sky.$"
+    .string "输与赢……\n"
+    .string "在宽广的天空下皆是浮云。$"
 
 Route14_Text_LukasIntro::
-    .string "C'mon, c'mon.\n"
-    .string "Let's go, let's go, let's go!$"
+    .string "来吧，开战。\n"
+    .string "擂鼓，呐喊，冲锋！$"
 
 Route14_Text_LukasDefeat::
-    .string "Arrg!\n"
-    .string "Lost! Get lost!$"
+    .string "哎！\n"
+    .string "迷路了！走开！$"
 
 Route14_Text_LukasPostBattle::
-    .string "What, what, what?\n"
-    .string "What do you want still?$"
+    .string "啊？什么？怎么了？\n"
+    .string "你还想干嘛？$"
 
 Route14_Text_IsaacIntro::
-    .string "I need to burn some time.\n"
-    .string "Shut up and battle.$"
+    .string "来得正好！\n"
+    .string "别废话，快来对战！$"
 
 Route14_Text_IsaacDefeat::
-    .string "What?\n"
-    .string "You!?$"
+    .string "什么？\n"
+    .string "你！？$"
 
 Route14_Text_IsaacPostBattle::
-    .string "Raising POKéMON is a drag, man.$"
+    .string "总觉得我不擅长\n"
+    .string "慢慢培育宝可梦！$"
 
 Route14_Text_GeraldIntro::
-    .string "We ride out here because of the\n"
-    .string "wide-open spaces.$"
+    .string "这里地方很宽敞，\n"
+    .string "所以我们就骑车过来了。$"
 
 Route14_Text_GeraldDefeat::
-    .string "Wipeout!$"
+    .string "哎呀，被绊倒了！$"
 
 Route14_Text_GeraldPostBattle::
-    .string "It's cool you made your POKéMON so\n"
-    .string "strong.\p"
-    .string "Might is right!\n"
-    .string "And you know it!$"
+    .string "你把你的宝可梦培育得这么厉害，\n"
+    .string "实在太酷了。\p"
+    .string "速度即是力量！\n"
+    .string "看来你已经领悟到了！$"
 
 Route14_Text_MalikIntro::
-    .string "POKéMON battle?\n"
-    .string "Cool! Rumble!$"
+    .string "宝可梦对决么！\n"
+    .string "有意思！那就陪你玩玩！$"
 
 Route14_Text_MalikDefeat::
-    .string "Blown away!$"
+    .string "我不接受！$"
 
 Route14_Text_MalikPostBattle::
-    .string "You know who'd win, you and me\n"
-    .string "one-on-one!$"
+    .string "你知道谁是胜者，\n"
+    .string "不是你就是我！$"
 
 Route14_Text_RouteSign::
-    .string "ROUTE 14\n"
-    .string "West to FUCHSIA CITY$"
+    .string "14号道路\n"
+    .string "往西到浅红市$"
 
 Route14_Text_KiriIntro::
-    .string "KIRI: JAN, let's try really,\n"
-    .string "really hard together.$"
+    .string "阿雾：惠娜，我们一起试试，\n"
+    .string "两个人一起胜率会更高点。$"
 
 Route14_Text_KiriDefeat::
-    .string "KIRI: Whimper…\n"
-    .string "We lost, didn't we?$"
+    .string "阿雾：呜，呜……\n"
+    .string "我们输了么？$"
 
 Route14_Text_KiriPostBattle::
-    .string "KIRI: Did we lose because of me?$"
+    .string "阿雾：是因为我太弱的关系么？$"
 
 Route14_Text_KiriNotEnoughMons::
-    .string "KIRI: We can battle if you have\n"
-    .string "two POKéMON.$"
+    .string "阿雾：如果你有两只宝可梦\n"
+    .string "我们就可以战斗啦。$"
 
 Route14_Text_JanIntro::
-    .string "JAN: KIRI, here we go!\n"
-    .string "We have to try hard!$"
+    .string "惠娜：走吧，阿雾！\n"
+    .string "我们得再度投入修炼！$"
 
 Route14_Text_JanDefeat::
-    .string "JAN: Eeeeh!\n"
-    .string "No fair!$"
+    .string "惠娜：不！\n"
+    .string "这不公平！$"
 
 Route14_Text_JanPostBattle::
-    .string "JAN: KIRI, don't cry!\n"
-    .string "We'll just try harder next time.$"
+    .string "惠娜：阿雾，别哭了！\n"
+    .string "我们下次要更加努力才行。$"
 
 Route14_Text_JanNotEnoughMons::
-    .string "JAN: You want to battle?\n"
-    .string "You don't have enough POKéMON.$"
+    .string "惠娜：你想战斗吗？\n"
+    .string "你没有足够的宝可梦。$"

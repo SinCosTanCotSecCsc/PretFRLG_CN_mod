@@ -270,7 +270,8 @@
       "x": 4,
       "y": 11,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "真新镇"
     },
     {
       "id": "MAPSEC_VIRIDIAN_CITY",
@@ -278,7 +279,8 @@
       "x": 4,
       "y": 8,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "常青市"
     },
     {
       "id": "MAPSEC_PEWTER_CITY",
@@ -286,7 +288,8 @@
       "x": 4,
       "y": 4,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "深灰市"
     },
     {
       "id": "MAPSEC_CERULEAN_CITY",
@@ -294,7 +297,8 @@
       "x": 14,
       "y": 3,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "华蓝市"
     },
     {
       "id": "MAPSEC_LAVENDER_TOWN",
@@ -302,7 +306,8 @@
       "x": 18,
       "y": 6,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "紫苑镇"
     },
     {
       "id": "MAPSEC_VERMILION_CITY",
@@ -310,7 +315,8 @@
       "x": 14,
       "y": 9,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "枯叶市"
     },
     {
       "id": "MAPSEC_CELADON_CITY",
@@ -318,7 +324,8 @@
       "x": 11,
       "y": 6,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "玉虹市"
     },
     {
       "id": "MAPSEC_FUCHSIA_CITY",
@@ -326,7 +333,8 @@
       "x": 12,
       "y": 12,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "浅红市"
     },
     {
       "id": "MAPSEC_CINNABAR_ISLAND",
@@ -334,7 +342,8 @@
       "x": 4,
       "y": 14,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "红莲镇"
     },
     {
       "id": "MAPSEC_INDIGO_PLATEAU",
@@ -342,7 +351,8 @@
       "x": 2,
       "y": 3,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "石英高原"
     },
     {
       "id": "MAPSEC_SAFFRON_CITY",
@@ -350,7 +360,8 @@
       "x": 14,
       "y": 6,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "金黄市"
     },
     {
       "id": "MAPSEC_ROUTE_4_POKECENTER",
@@ -359,7 +370,8 @@
       "x": 8,
       "y": 3,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "4号道路"
     },
     {
       "id": "MAPSEC_ROUTE_10_POKECENTER",
@@ -368,7 +380,8 @@
       "x": 18,
       "y": 3,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "10号道路"
     },
     {
       "id": "MAPSEC_ROUTE_1",
@@ -376,7 +389,8 @@
       "x": 4,
       "y": 9,
       "width": 1,
-      "height": 2
+      "height": 2,
+      "name_zh": "1号道路"
     },
     {
       "id": "MAPSEC_ROUTE_2",
@@ -384,7 +398,8 @@
       "x": 4,
       "y": 5,
       "width": 1,
-      "height": 3
+      "height": 3,
+      "name_zh": "2号道路"
     },
     {
       "id": "MAPSEC_ROUTE_3",
@@ -392,7 +407,8 @@
       "x": 5,
       "y": 4,
       "width": 4,
-      "height": 1
+      "height": 1,
+      "name_zh": "3号道路"
     },
     {
       "id": "MAPSEC_ROUTE_4",
@@ -400,7 +416,8 @@
       "x": 8,
       "y": 3,
       "width": 6,
-      "height": 1
+      "height": 1,
+      "name_zh": "4号道路"
     },
     {
       "id": "MAPSEC_ROUTE_5",
@@ -408,7 +425,8 @@
       "x": 14,
       "y": 4,
       "width": 1,
-      "height": 2
+      "height": 2,
+      "name_zh": "5号道路"
     },
     {
       "id": "MAPSEC_ROUTE_6",
@@ -416,7 +434,8 @@
       "x": 14,
       "y": 7,
       "width": 1,
-      "height": 2
+      "height": 2,
+      "name_zh": "6号道路"
     },
     {
       "id": "MAPSEC_ROUTE_7",
@@ -424,7 +443,8 @@
       "x": 12,
       "y": 6,
       "width": 2,
-      "height": 1
+      "height": 1,
+      "name_zh": "7号道路"
     },
     {
       "id": "MAPSEC_ROUTE_8",
@@ -432,7 +452,8 @@
       "x": 15,
       "y": 6,
       "width": 3,
-      "height": 1
+      "height": 1,
+      "name_zh": "8号道路"
     },
     {
       "id": "MAPSEC_ROUTE_9",
@@ -440,7 +461,8 @@
       "x": 15,
       "y": 3,
       "width": 3,
-      "height": 1
+      "height": 1,
+      "name_zh": "9号道路"
     },
     {
       "id": "MAPSEC_ROUTE_10",
@@ -448,7 +470,8 @@
       "x": 18,
       "y": 3,
       "width": 1,
-      "height": 3
+      "height": 3,
+      "name_zh": "10号道路"
     },
     {
       "id": "MAPSEC_ROUTE_11",
@@ -456,7 +479,8 @@
       "x": 15,
       "y": 9,
       "width": 3,
-      "height": 1
+      "height": 1,
+      "name_zh": "11号道路"
     },
     {
       "id": "MAPSEC_ROUTE_12",
@@ -464,7 +488,8 @@
       "x": 18,
       "y": 7,
       "width": 1,
-      "height": 5
+      "height": 5,
+      "name_zh": "12号道路"
     },
     {
       "id": "MAPSEC_ROUTE_13",
@@ -472,7 +497,8 @@
       "x": 16,
       "y": 11,
       "width": 2,
-      "height": 1
+      "height": 1,
+      "name_zh": "13号道路"
     },
     {
       "id": "MAPSEC_ROUTE_14",
@@ -480,7 +506,8 @@
       "x": 15,
       "y": 11,
       "width": 1,
-      "height": 2
+      "height": 2,
+      "name_zh": "14号道路"
     },
     {
       "id": "MAPSEC_ROUTE_15",
@@ -488,7 +515,8 @@
       "x": 13,
       "y": 12,
       "width": 2,
-      "height": 1
+      "height": 1,
+      "name_zh": "15号道路"
     },
     {
       "id": "MAPSEC_ROUTE_16",
@@ -496,7 +524,8 @@
       "x": 7,
       "y": 6,
       "width": 4,
-      "height": 1
+      "height": 1,
+      "name_zh": "16号道路"
     },
     {
       "id": "MAPSEC_ROUTE_17",
@@ -504,7 +533,8 @@
       "x": 7,
       "y": 7,
       "width": 1,
-      "height": 5
+      "height": 5,
+      "name_zh": "17号道路"
     },
     {
       "id": "MAPSEC_ROUTE_18",
@@ -512,7 +542,8 @@
       "x": 7,
       "y": 12,
       "width": 5,
-      "height": 1
+      "height": 1,
+      "name_zh": "18号道路"
     },
     {
       "id": "MAPSEC_ROUTE_19",
@@ -520,7 +551,8 @@
       "x": 12,
       "y": 13,
       "width": 1,
-      "height": 2
+      "height": 2,
+      "name_zh": "19号水路"
     },
     {
       "id": "MAPSEC_ROUTE_20",
@@ -528,7 +560,8 @@
       "x": 5,
       "y": 14,
       "width": 7,
-      "height": 1
+      "height": 1,
+      "name_zh": "20号水路"
     },
     {
       "id": "MAPSEC_ROUTE_21",
@@ -536,7 +569,8 @@
       "x": 4,
       "y": 12,
       "width": 1,
-      "height": 2
+      "height": 2,
+      "name_zh": "21号水路"
     },
     {
       "id": "MAPSEC_ROUTE_22",
@@ -544,7 +578,8 @@
       "x": 2,
       "y": 8,
       "width": 2,
-      "height": 1
+      "height": 1,
+      "name_zh": "22号道路"
     },
     {
       "id": "MAPSEC_ROUTE_23",
@@ -552,7 +587,8 @@
       "x": 2,
       "y": 4,
       "width": 1,
-      "height": 4
+      "height": 4,
+      "name_zh": "23号道路"
     },
     {
       "id": "MAPSEC_ROUTE_24",
@@ -560,7 +596,8 @@
       "x": 14,
       "y": 1,
       "width": 1,
-      "height": 2
+      "height": 2,
+      "name_zh": "24号道路"
     },
     {
       "id": "MAPSEC_ROUTE_25",
@@ -568,7 +605,8 @@
       "x": 15,
       "y": 1,
       "width": 2,
-      "height": 1
+      "height": 1,
+      "name_zh": "25号道路"
     },
     {
       "id": "MAPSEC_VIRIDIAN_FOREST",
@@ -576,7 +614,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "常青森林"
     },
     {
       "id": "MAPSEC_MT_MOON",
@@ -584,7 +623,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "月见山"
     },
     {
       "id": "MAPSEC_S_S_ANNE",
@@ -592,7 +632,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "圣特安努号"
     },
     {
       "id": "MAPSEC_UNDERGROUND_PATH",
@@ -600,7 +641,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "地下通道"
     },
     {
       "id": "MAPSEC_UNDERGROUND_PATH_2",
@@ -609,7 +651,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "地下通道"
     },
     {
       "id": "MAPSEC_DIGLETTS_CAVE",
@@ -617,7 +660,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "地鼠洞"
     },
     {
       "id": "MAPSEC_KANTO_VICTORY_ROAD",
@@ -625,7 +669,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "冠军之路"
     },
     {
       "id": "MAPSEC_ROCKET_HIDEOUT",
@@ -633,7 +678,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "火箭队基地"
     },
     {
       "id": "MAPSEC_SILPH_CO",
@@ -641,7 +687,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "西尔佛公司"
     },
     {
       "id": "MAPSEC_POKEMON_MANSION",
@@ -649,7 +696,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "宝可梦屋"
     },
     {
       "id": "MAPSEC_KANTO_SAFARI_ZONE",
@@ -657,7 +705,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "狩猎地带"
     },
     {
       "id": "MAPSEC_POKEMON_LEAGUE",
@@ -665,7 +714,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "宝可梦联盟"
     },
     {
       "id": "MAPSEC_ROCK_TUNNEL",
@@ -673,7 +723,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "岩山隧道"
     },
     {
       "id": "MAPSEC_SEAFOAM_ISLANDS",
@@ -681,7 +732,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "双子岛"
     },
     {
       "id": "MAPSEC_POKEMON_TOWER",
@@ -689,7 +741,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "宝可梦塔"
     },
     {
       "id": "MAPSEC_CERULEAN_CAVE",
@@ -697,7 +750,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "华蓝洞窟"
     },
     {
       "id": "MAPSEC_POWER_PLANT",
@@ -705,7 +759,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "无人发电厂"
     },
     {
       "id": "MAPSEC_ONE_ISLAND",
@@ -713,7 +768,8 @@
       "x": 1,
       "y": 8,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "一之岛"
     },
     {
       "id": "MAPSEC_TWO_ISLAND",
@@ -721,7 +777,8 @@
       "x": 9,
       "y": 9,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "二之岛"
     },
     {
       "id": "MAPSEC_THREE_ISLAND",
@@ -729,7 +786,8 @@
       "x": 18,
       "y": 12,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "三之岛"
     },
     {
       "id": "MAPSEC_FOUR_ISLAND",
@@ -737,7 +795,8 @@
       "x": 3,
       "y": 4,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "四之岛"
     },
     {
       "id": "MAPSEC_FIVE_ISLAND",
@@ -745,7 +804,8 @@
       "x": 16,
       "y": 11,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "五之岛"
     },
     {
       "id": "MAPSEC_SEVEN_ISLAND",
@@ -753,7 +813,8 @@
       "x": 5,
       "y": 8,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "七之岛"
     },
     {
       "id": "MAPSEC_SIX_ISLAND",
@@ -761,7 +822,8 @@
       "x": 17,
       "y": 5,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "六之岛"
     },
     {
       "id": "MAPSEC_KINDLE_ROAD",
@@ -769,7 +831,8 @@
       "x": 2,
       "y": 3,
       "width": 1,
-      "height": 6
+      "height": 6,
+      "name_zh": "热气之路"
     },
     {
       "id": "MAPSEC_TREASURE_BEACH",
@@ -777,7 +840,8 @@
       "x": 1,
       "y": 9,
       "width": 1,
-      "height": 2
+      "height": 2,
+      "name_zh": "宝物海滩"
     },
     {
       "id": "MAPSEC_CAPE_BRINK",
@@ -785,7 +849,8 @@
       "x": 9,
       "y": 7,
       "width": 1,
-      "height": 2
+      "height": 2,
+      "name_zh": "边缘海岬"
     },
     {
       "id": "MAPSEC_BOND_BRIDGE",
@@ -793,7 +858,8 @@
       "x": 13,
       "y": 12,
       "width": 4,
-      "height": 1
+      "height": 1,
+      "name_zh": "索桥"
     },
     {
       "id": "MAPSEC_THREE_ISLE_PORT",
@@ -801,7 +867,8 @@
       "x": 18,
       "y": 13,
       "width": 2,
-      "height": 1
+      "height": 1,
+      "name_zh": "三之岛港口"
     },
     {
       "id": "MAPSEC_SEVII_ISLE_6",
@@ -809,7 +876,8 @@
       "x": 4,
       "y": 3,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "6号七岛"
     },
     {
       "id": "MAPSEC_SEVII_ISLE_7",
@@ -817,7 +885,8 @@
       "x": 5,
       "y": 4,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "7号七岛"
     },
     {
       "id": "MAPSEC_SEVII_ISLE_8",
@@ -825,7 +894,8 @@
       "x": 1,
       "y": 4,
       "width": 3,
-      "height": 1
+      "height": 1,
+      "name_zh": "8号七岛"
     },
     {
       "id": "MAPSEC_SEVII_ISLE_9",
@@ -833,7 +903,8 @@
       "x": 4,
       "y": 5,
       "width": 1,
-      "height": 2
+      "height": 2,
+      "name_zh": "9号七岛"
     },
     {
       "id": "MAPSEC_RESORT_GORGEOUS",
@@ -841,7 +912,8 @@
       "x": 16,
       "y": 9,
       "width": 3,
-      "height": 1
+      "height": 1,
+      "name_zh": "高级度假中心"
     },
     {
       "id": "MAPSEC_WATER_LABYRINTH",
@@ -849,7 +921,8 @@
       "x": 14,
       "y": 10,
       "width": 3,
-      "height": 1
+      "height": 1,
+      "name_zh": "水之迷宫"
     },
     {
       "id": "MAPSEC_FIVE_ISLE_MEADOW",
@@ -857,7 +930,8 @@
       "x": 17,
       "y": 10,
       "width": 1,
-      "height": 3
+      "height": 3,
+      "name_zh": "五之岛空地"
     },
     {
       "id": "MAPSEC_MEMORIAL_PILLAR",
@@ -865,7 +939,8 @@
       "x": 18,
       "y": 12,
       "width": 1,
-      "height": 3
+      "height": 3,
+      "name_zh": "回忆之塔"
     },
     {
       "id": "MAPSEC_OUTCAST_ISLAND",
@@ -873,7 +948,8 @@
       "x": 15,
       "y": 0,
       "width": 1,
-      "height": 3
+      "height": 3,
+      "name_zh": "流放之岛"
     },
     {
       "id": "MAPSEC_GREEN_PATH",
@@ -881,7 +957,8 @@
       "x": 15,
       "y": 3,
       "width": 3,
-      "height": 1
+      "height": 1,
+      "name_zh": "绿色小径"
     },
     {
       "id": "MAPSEC_WATER_PATH",
@@ -889,7 +966,8 @@
       "x": 18,
       "y": 3,
       "width": 1,
-      "height": 5
+      "height": 5,
+      "name_zh": "水之小径"
     },
     {
       "id": "MAPSEC_RUIN_VALLEY",
@@ -897,7 +975,8 @@
       "x": 16,
       "y": 7,
       "width": 2,
-      "height": 2
+      "height": 2,
+      "name_zh": "遗迹山谷"
     },
     {
       "id": "MAPSEC_TRAINER_TOWER",
@@ -905,7 +984,8 @@
       "x": 5,
       "y": 6,
       "width": 1,
-      "height": 2
+      "height": 2,
+      "name_zh": "训练家之塔"
     },
     {
       "id": "MAPSEC_CANYON_ENTRANCE",
@@ -913,7 +993,8 @@
       "x": 5,
       "y": 9,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "溪谷入口"
     },
     {
       "id": "MAPSEC_SEVAULT_CANYON",
@@ -921,7 +1002,8 @@
       "x": 6,
       "y": 9,
       "width": 1,
-      "height": 3
+      "height": 3,
+      "name_zh": "七宝溪谷"
     },
     {
       "id": "MAPSEC_TANOBY_RUINS",
@@ -929,7 +1011,8 @@
       "x": 3,
       "y": 12,
       "width": 7,
-      "height": 1
+      "height": 1,
+      "name_zh": "阿斯卡纳遗迹"
     },
     {
       "id": "MAPSEC_SEVII_ISLE_22",
@@ -937,7 +1020,8 @@
       "x": 9,
       "y": 12,
       "width": 1,
-      "height": 3
+      "height": 3,
+      "name_zh": "22号七岛"
     },
     {
       "id": "MAPSEC_SEVII_ISLE_23",
@@ -945,7 +1029,8 @@
       "x": 3,
       "y": 14,
       "width": 6,
-      "height": 1
+      "height": 1,
+      "name_zh": "23号七岛"
     },
     {
       "id": "MAPSEC_SEVII_ISLE_24",
@@ -953,7 +1038,8 @@
       "x": 2,
       "y": 12,
       "width": 1,
-      "height": 3
+      "height": 3,
+      "name_zh": "24号七岛"
     },
     {
       "id": "MAPSEC_NAVEL_ROCK",
@@ -961,7 +1047,8 @@
       "x": 10,
       "y": 8,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "肚脐岩"
     },
     {
       "id": "MAPSEC_MT_EMBER",
@@ -969,7 +1056,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "灯火山"
     },
     {
       "id": "MAPSEC_BERRY_FOREST",
@@ -977,7 +1065,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "树果森林"
     },
     {
       "id": "MAPSEC_ICEFALL_CAVE",
@@ -985,7 +1074,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "冻瀑洞窟"
     },
     {
       "id": "MAPSEC_ROCKET_WAREHOUSE",
@@ -993,7 +1083,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "火箭队仓库"
     },
     {
       "id": "MAPSEC_TRAINER_TOWER_2",
@@ -1002,7 +1093,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "训练家之塔"
     },
     {
       "id": "MAPSEC_DOTTED_HOLE",
@@ -1010,7 +1102,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "点之穴"
     },
     {
       "id": "MAPSEC_LOST_CAVE",
@@ -1018,7 +1111,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "不归之穴"
     },
     {
       "id": "MAPSEC_PATTERN_BUSH",
@@ -1026,7 +1120,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "记号树林"
     },
     {
       "id": "MAPSEC_ALTERING_CAVE",
@@ -1034,7 +1129,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "变化洞窟"
     },
     {
       "id": "MAPSEC_TANOBY_CHAMBERS",
@@ -1042,7 +1138,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "阿斯卡纳石室"
     },
     {
       "id": "MAPSEC_THREE_ISLE_PATH",
@@ -1050,7 +1147,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "三之岛小径"
     },
     {
       "id": "MAPSEC_TANOBY_KEY",
@@ -1058,7 +1156,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "阿斯卡纳的钥匙"
     },
     {
       "id": "MAPSEC_BIRTH_ISLAND",
@@ -1066,7 +1165,8 @@
       "x": 18,
       "y": 13,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "诞生之岛"
     },
     {
       "id": "MAPSEC_MONEAN_CHAMBER",
@@ -1074,7 +1174,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "伊莱斯石室"
     },
     {
       "id": "MAPSEC_LIPTOO_CHAMBER",
@@ -1082,7 +1183,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "那藏石室"
     },
     {
       "id": "MAPSEC_WEEPTH_CHAMBER",
@@ -1090,7 +1192,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "由格石室"
     },
     {
       "id": "MAPSEC_DILFORD_CHAMBER",
@@ -1098,7 +1201,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "阿利波卡石室"
     },
     {
       "id": "MAPSEC_SCUFIB_CHAMBER",
@@ -1106,7 +1210,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "科斗石室"
     },
     {
       "id": "MAPSEC_RIXY_CHAMBER",
@@ -1114,7 +1219,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "阿努泽石室"
     },
     {
       "id": "MAPSEC_VIAPOIS_CHAMBER",
@@ -1122,7 +1228,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "澳利弗石室"
     },
     {
       "id": "MAPSEC_EMBER_SPA",
@@ -1130,7 +1237,8 @@
       "x": 0,
       "y": 0,
       "width": 1,
-      "height": 1
+      "height": 1,
+      "name_zh": "灯火温泉"
     },
     {
       "id": "MAPSEC_SPECIAL_AREA",
@@ -1138,7 +1246,8 @@
       "x": 0,
       "y": 0,
       "width": 0,
-      "height": 0
+      "height": 0,
+      "name_zh": "玉虹百货公司"
     }
   ]
 }

@@ -1,47 +1,47 @@
 Text_ObtainedTheX::
-	.string "Obtained the {STR_VAR_2}!$"
+	.string "获得了{B_COPY_VAR_2}！$"
 
 Text_BagIsFull::
-	.string "The BAG is full…$"
+	.string "包包满了……$"
 
 Text_PutItemAway::
-	.string "{PLAYER} put the {STR_VAR_2}\n"
-	.string "in the {STR_VAR_3}.$"
+	.string "{PLAYER}把{B_COPY_VAR_2}\n"
+	.string "放到了{B_COPY_VAR_3}。$"
 
 Text_FoundOneItem::
-	.string "{PLAYER} found one {STR_VAR_2}!$"
+	.string "{PLAYER}找到一个{B_COPY_VAR_2}！$"
 
 Text_TooBadBagFull::
-	.string "Too bad!\n"
-	.string "The BAG is full…$"
+	.string "糟糕！\n"
+	.string "包包满了……$"
 
 Text_FoundXCoins::
-	.string "{PLAYER} found\n"
-	.string "{STR_VAR_1} {STR_VAR_2}!$"
+	.string "{PLAYER}找到了\n"
+	.string "{B_COPY_VAR_1}{B_COPY_VAR_2}！$"
 
 Text_PutCoinsAwayInCoinCase::
-	.string "{PLAYER} put the COINS away in\n"
-	.string "the COIN CASE.$"
+	.string "{PLAYER}把代币放到\n"
+	.string "代币盒里面。$"
 
 Text_CoinCaseIsFull::
-	.string "Too bad!\n"
-	.string "The COIN CASE is full…$"
+	.string "糟糕！\n"
+	.string "代币盒满了……$"
 
 Text_NothingToPutThemIn::
-	.string "Too bad!\n"
-	.string "There's nothing to put them in…$"
+	.string "糟糕！\n"
+	.string "没有能放下它们的地方了……$"
 
 Text_FoundXItems::
-	.string "{PLAYER} found\n"
-	.string "{STR_VAR_1} {STR_VAR_2}(s)!$"
+	.string "{PLAYER}找到了\n"
+	.string "{B_COPY_VAR_1}{B_COPY_VAR_2}！$"
 
 Text_ObtainedTheDecor::
-	.string "Obtained the {STR_VAR_2}!$"
+	.string "得到了{B_COPY_VAR_2}！$"
 
 Text_NoRoomForAnotherDecor::
-	.string "Too bad! There's no room left for\n"
-	.string "another {STR_VAR_2}…$"
+	.string "糟糕！已经没有\n"
+	.string "再放下另一个{B_COPY_VAR_2}的空间了……$"
 
 Text_DecorTransferredToPC::
-	.string "The {STR_VAR_2} was transferred\n"
-	.string "to the PC.$"
+	.string "{B_COPY_VAR_2}已经传送\n"
+	.string "到电脑去了。$"

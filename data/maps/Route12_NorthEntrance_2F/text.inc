@@ -1,36 +1,36 @@
 @ Male and female text identical, differ (presumably) in JP
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreMale::
-    .string "My POKéMON's ashes are stored in\n"
-    .string "POKéMON TOWER.\p"
-    .string "You can have this TM.\n"
-    .string "I don't need it anymore…$"
+    .string "我宝可梦的骨灰寄存在\n"
+    .string "宝可梦塔。\p"
+    .string "把这个招式学习器拿走吧。\n"
+    .string "我不再需要它了……$"
 
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreFemale::
-    .string "My POKéMON's ashes are stored in\n"
-    .string "POKéMON TOWER.\p"
-    .string "You can have this TM.\n"
-    .string "I don't need it anymore…$"
+    .string "我宝可梦的骨灰寄存在\n"
+    .string "宝可梦塔。\p"
+    .string "把这个招式学习器拿走吧。\n"
+    .string "我不再需要它了……$"
 
 Route12_NorthEntrance_2F_Text_ReceivedTM27FromLittleGirl::
-    .string "{PLAYER} received TM27\n"
-    .string "from the little girl.$"
+    .string "{PLAYER}从小女孩那\n"
+    .string "得到了招式学习器27。$"
 
 Route12_NorthEntrance_2F_Text_ExplainTM27::
-    .string "TM27 is a move called RETURN…\p"
-    .string "If you treat your POKéMON good,\n"
-    .string "it will return your love by working\l"
-    .string "its hardest in battle.$"
+    .string "招式学习器27记录着报恩……\p"
+    .string "如果你把宝可梦照顾得很好，\n"
+    .string "它将会在战斗中\l"
+    .string "以最大的力量回馈你的爱。$"
 
 Route12_NorthEntrance_2F_Text_DontHaveRoomForThis::
-    .string "You don't have room for this.$"
+    .string "你包包的空间不足以存放此道具。$"
 
 Route12_NorthEntrance_2F_Text_TheresManFishing::
-    .string "Let's see what the binoculars have\n"
-    .string "to show…\p"
-    .string "There's a man fishing!$"
+    .string "有架望远镜……\n"
+    .string "我来看看……\p"
+    .string "一个正在钓鱼的男人……！$"
 
 Route12_NorthEntrance_2F_Text_ItsPokemonTower::
-    .string "Let's see what the binoculars have\n"
-    .string "to show…\p"
-    .string "It's POKéMON TOWER!$"
+    .string "有架望远镜……\n"
+    .string "我来看看……\p"
+    .string "那是一座宝可梦塔！$"
 

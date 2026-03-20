@@ -1,123 +1,120 @@
 PokedexRating_Text_HowIsPokedexComingAlong::
-	.string "OAK: Good to see you!\n"
-	.string "How is your POKéDEX coming along?\p"
-	.string "Here, let me take a look.$"
+	.string "大木：见到你真高兴啊！\n"
+	.string "宝可梦图鉴完成得怎么样了？\p"
+	.string "来，给我看看吧。$"
 
 PokedexRating_Text_SeenXOwnedY::
-	.string "The amount of progress you've made\n"
-	.string "on your POKéDEX is:\p"
-	.string "{STR_VAR_1} POKéMON seen and\n"
-	.string "{STR_VAR_2} POKéMON owned.\p"
-	.string "{FONT_NORMAL}PROF. OAK's rating:$"
+	.string "到目前为止，你的宝可梦图鉴\n"
+	.string "所含的数据是：\p"
+	.string "发现了{B_COPY_VAR_1}种宝可梦，\n"
+	.string "拥有了{B_COPY_VAR_2}种宝可梦。\p"
+	.string "{FONT_NORMAL}大木博士的评价：$"
 
 PokedexRating_Text_LessThan10::
-	.string "You still have lots to do.\p"
-	.string "Go into every patch of grass you\n"
-	.string "see and look for POKéMON!$"
+	.string "你要做的还有很多啊！\p"
+	.string "去每一片草地，\n"
+	.string "寻找宝可梦吧！$"
 
 PokedexRating_Text_LessThan20::
-	.string "It looks as if you're getting on\n"
-	.string "the right track!\p"
-	.string "I've given one of my AIDES a FLASH\n"
-	.string "HM. Make sure you go get it!$"
+	.string "看起来你做的不错，\n"
+	.string "至少你的路线是对的。\p"
+	.string "我已经把秘传学习器闪光，交给了\n"
+	.string "我的助手之一，去找他要吧！$"
 
 PokedexRating_Text_LessThan30::
-	.string "Your POKéDEX could use a bit more\n"
-	.string "volume still!\p"
-	.string "Try to catch other species of\n"
-	.string "POKéMON!$"
+	.string "你的宝可梦图鉴仍需多加努力。\p"
+	.string "试着收服其它种类的\n"
+	.string "宝可梦！$"
 
 PokedexRating_Text_LessThan40::
-	.string "Good, it's apparent that you're\n"
-	.string "trying hard!\p"
-	.string "I've given one of my AIDES an\n"
-	.string "ITEMFINDER. Be sure to collect it!$"
+	.string "不错！可得出来\n"
+	.string "你一定是下了不少功夫。\p"
+	.string "我已经把探宝器交给了\n"
+	.string "我一个的助手，快去找他要吧！$"
 
 PokedexRating_Text_LessThan50::
-	.string "Your POKéDEX is coming along quite\n"
-	.string "well!\p"
-	.string "I've given one of my AIDES an\n"
-	.string "AMULET COIN. Be sure to get it!$"
+	.string "你的宝可梦图鉴完成得很好啊！\p"
+	.string "我已经把护身金币，交给了\n"
+	.string "我的助手之一，去找他要吧！$"
 
 PokedexRating_Text_LessThan60::
-	.string "Ah, you've finally topped 50\n"
-	.string "species!\p"
-	.string "I've given one of my AIDES an EXP.\n"
-	.string "SHARE. Be sure to go get it!$"
+	.string "啊，你已经收集了50种！\p"
+	.string "我已经把学习装置交给了我的\n"
+	.string "助手之一。去找他要吧！$"
 
 PokedexRating_Text_LessThan70::
-	.string "Hoho! This is turning into quite the\n"
-	.string "respectable POKéDEX!$"
+	.string "嗯！你的宝可梦图鉴\n"
+	.string "收集得真是相当优秀！$"
 
 PokedexRating_Text_LessThan80::
-	.string "Very good!\p"
-	.string "I think you'll collect even more\n"
-	.string "POKéMON by going fishing!$"
+	.string "非常好！\p"
+	.string "不过如果你去钓鱼的话\n"
+	.string "你会得到更多种宝可梦！$"
 
 PokedexRating_Text_LessThan90::
-	.string "Wonderful! Let me guess… You\n"
-	.string "like to collect things, don't you?$"
+	.string "干得好！我想你一定\n"
+	.string "很喜欢收集东西，对吗？$"
 
 PokedexRating_Text_LessThan100::
-	.string "I'm impressed!\n"
-	.string "It must have been difficult to do!$"
+	.string "真厉害！\n"
+	.string "这做起来一定不简单！$"
 
 PokedexRating_Text_LessThan110::
-	.string "You've finally hit 100 species!\n"
-	.string "I can't believe how good you are!$"
+	.string "你已经收集了100种！\n"
+	.string "你简直是太厉害了！$"
 
 PokedexRating_Text_LessThan120::
-	.string "You even have the evolved forms\n"
-	.string "of POKéMON! Super!$"
+	.string "你甚至还有进化型的\n"
+	.string "宝可梦！真棒！$"
 
 PokedexRating_Text_LessThan130::
-	.string "Excellent! Trade with friends to\n"
-	.string "get some more!$"
+	.string "太棒了！和朋友通讯吧，\n"
+	.string "能收集到更多哦！$"
 
 PokedexRating_Text_LessThan140::
-	.string "Outstanding!\n"
-	.string "You've become a real pro at this!$"
+	.string "你真伟大！\n"
+	.string "你在这方面可真是个专家啊！$"
 
 PokedexRating_Text_LessThan150::
-	.string "I have nothing left to say!\n"
-	.string "You're the POKéMON PROFESSOR now!$"
+	.string "我已经没什么可说的了。\n"
+	.string "现在，你就是宝可梦博士！$"
 
 PokedexRating_Text_Complete::
-	.string "Your POKéDEX is entirely complete!\n"
-	.string "Congratulations!!$"
+	.string "你的宝可梦图鉴已经全部完成了！\n"
+	.string "恭喜！$"
 
 PokedexRating_Text_NationalDexSeenXOwnedY::
-	.string "And your NATIONAL POKéDEX is:\p"
-	.string "{STR_VAR_1} POKéMON seen and\n"
-	.string "{STR_VAR_2} POKéMON owned.$"
+	.string "你的全国宝可梦图鉴现在是：\p"
+	.string "发现了{B_COPY_VAR_1}种宝可梦，\n"
+	.string "拥有了{B_COPY_VAR_2}种宝可梦。$"
 
 PokedexRating_Text_LookForwardToFilledNationalDex::
-	.string "I'll be looking forward to seeing\n"
-	.string "you fill the NATIONAL POKéDEX!$"
+	.string "真希望你能\n"
+	.string "完成全国宝可梦图鉴！$"
 
 PokedexRating_Text_YouveCompletedDex::
-	.string "Finally…\p"
-	.string "You've finally completed the\n"
-	.string "POKéDEX!\p"
-	.string "It's magnificent!\n"
-	.string "Truly, this is a fantastic feat!$"
+	.string "终于……\p"
+	.string "你完成了\n"
+	.string "宝可梦图鉴！\p"
+	.string "这真是太伟大了！\n"
+	.string "真的，这真的是一个伟大的功绩！$"
 
 PokedexRating_Text_Wroooaaarrr::
-	.string "Wroooooooaaaaaarrrr!$"
+	.string "喔噢噢噢噢～！$"
 
 PokedexRating_Text_HaHa::
 	.string "はあ はあ‥$"
 
 PokedexRating_Text_ThankYouMadeDreamReality::
-	.string "Thank you, {PLAYER}!\n"
-	.string "Sincerely, thank you!\l"
-	.string "You've made my dream a reality!$"
+	.string "谢谢你，{PLAYER}。\n"
+	.string "真的谢谢你！\l"
+	.string "谢谢你实现了我的梦想！$"
 
 PokedexRating_Text_LoveSeeingYourPokedex::
-	.string "OAK: Ah, welcome!\p"
-	.string "Tell me, how is your POKéDEX\n"
-	.string "coming along?\p"
-	.string "Wahaha!\p"
-	.string "Actually, I know how it is, but I\n"
-	.string "love seeing it anyway!\p"
-	.string "Let's see…$"
+	.string "大木：啊，欢迎！\p"
+	.string "告诉我，你的宝可梦图鉴\n"
+	.string "收集得怎么样了？\p"
+	.string "哇！\p"
+	.string "事实上，我早就知道了……\n"
+	.string "但我无论如何还是想看看！\p"
+	.string "让我看看……$"

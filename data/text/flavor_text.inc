@@ -1,122 +1,122 @@
 @ Flavor text for interacting with various background objects
 
 Text_Bookshelf::
-	.string "It's crammed full of POKéMON\n"
-	.string "books.$"
+	.string "上面放满了关于\n"
+	.string "宝可梦的书。$"
 
 Text_NothingButPokemonBooks::
 	.string "ほんだなに　ならんでいるのは\n"
 	.string "ポケモンの　ほん　ばかりだ$"
 
 Text_ATownMap::
-	.string "A TOWN MAP.$"
+	.string "一份地图。$"
 
 Text_PokeMartShelf::
-	.string "Wow!\n"
-	.string "Tons of POKéMON stuff!$"
+	.string "哇喔！\n"
+	.string "好多宝可梦娃娃！$"
 
 Text_DishesPlatesNeatlyLinedUp::
-	.string "Dishes and plates are neatly\n"
-	.string "lined up.$"
+	.string "盘子和碗洗得干干净净\n"
+	.string "整齐的放在一起。$"
 
 Text_Kitchen::
-	.string "It smells delicious!\n"
-	.string "Somebody's been cooking here.$"
+	.string "有人在这里做饭！\n"
+	.string "闻起来真香啊。$"
 
 Text_Dresser::
-	.string "It's a nicely made dresser.\n"
-	.string "It will hold a lot of stuff.$"
+	.string "一个精美的梳妆台。\n"
+	.string "能放得下很多东西。$"
 
 Text_Snacks::
-	.string "There's a pile of snacks here.$"
+	.string "这里放着许多好吃的点心。$"
 
 Text_PokemartSign::
-	.string "All your item needs fulfilled!\n"
-	.string "POKéMON MART$"
+	.string "您想要的道具应有尽有！\n"
+	.string "宝可梦商店$"
 
 Text_PokecenterSign::
-	.string "Heal Your POKéMON!\n"
-	.string "POKéMON CENTER$"
+	.string "回复宝可梦的体力！\n"
+	.string "宝可梦中心$"
 
 Text_Indigo_UltimateGoal::
-	.string "INDIGO PLATEAU\p"
-	.string "The ultimate goal of TRAINERS!\n"
-	.string "POKéMON LEAGUE HQ$"
+	.string "石英高原\p"
+	.string "训练家的终级目标！\n"
+	.string "宝可梦联盟总部$"
 
 Text_Indigo_HighestAuthority::
-	.string "INDIGO PLATEAU\p"
-	.string "The highest POKéMON authority!\n"
-	.string "POKéMON LEAGUE HQ$"
+	.string "石英高原\p"
+	.string "宝可梦界的最高权威！\n"
+	.string "宝可梦联盟总部$"
 
 Text_Food::
-	.string "It should be packed with all kinds\n"
-	.string "of delicious things to eat.$"
+	.string "看起来它把所有好吃的东西\n"
+	.string "都装了进去。$"
 
 Text_Blueprints::
-	.string "It's a blueprint of some sort.\n"
-	.string "It's filled with diagrams and text.$"
+	.string "是一张什么东西的设计图。\n"
+	.string "上面画满了表格写满了字。$"
 
 Text_Painting::
-	.string "It's a pretty picture of a POKéMON.\n"
-	.string "It looks like it's feeling good.$"
+	.string "是一张宝可梦漂亮的图片。\n"
+	.string "看起来它感觉不错。$"
 
 Text_PowerPlantMachine::
-	.string "What could this machine be?\n"
-	.string "Better not mess around with it!$"
+	.string "这是某种机器吗！？\n"
+	.string "还是别随便乱碰比较好！$"
 
 Text_Telephone::
-	.string "It's a telephone.\n"
-	.string "Better not use it.$"
+	.string "是电话。\n"
+	.string "最好别去用它。$"
 
 Text_Computer::
-	.string "It's all complicated words and\n"
-	.string "numbers that make no sense…$"
+	.string "一些既杂乱无章又毫无意义的\n"
+	.string "文字和数字……$"
 
 Text_AdvertisingPoster::
-	.string "It's an advertising poster about\n"
-	.string "all kinds of products.$"
+	.string "一张关于所有产品的\n"
+	.string "广告海报。$"
 
 Text_TastyFood::
-	.string "Oh, that smells tasty!\n"
-	.string "It might get the stomach growling!$"
+	.string "好香的味道！\n"
+	.string "肚子都咕咕叫了！$"
 
 Text_TrashBin::
-	.string "Inside this…\n"
+	.string "这里面……\n"
 	.string "……\p"
-	.string "There's nothing here!$"
+	.string "什么都没有嘛！$"
 
 Text_Cup::
-	.string "It's a cup with a POKéMON mark\n"
-	.string "on it.$"
+	.string "在这上面全是\n"
+	.string "宝可梦的图案。$"
 
 Text_PolishedWindow::
-	.string "The window is very well polished.$"
+	.string "擦得非常干净的窗子！$"
 
 Text_BeautifulSkyWindow::
-	.string "Outside the window…\p"
-	.string "The sky looks fantastically\n"
-	.string "beautiful.$"
+	.string "窗户外面……\p"
+	.string "天空看起来\n"
+	.string "是如此绚丽。$"
 
 Text_BlinkingLights::
-	.string "Lights in different colors are\n"
-	.string "flashing on and off.$"
+	.string "光线一闪一闪地\n"
+	.string "变化着颜色。$"
 
 Text_NeatlyLinedUpTools::
-	.string "All sorts of tools are lined up\n"
-	.string "neatly.$"
+	.string "各种各样的道具\n"
+	.string "摆放得整整齐齐$"
 
 Text_ImpressiveMachine::
-	.string "It's a machine of some sort.\n"
-	.string "It sure is impressive.$"
+	.string "虽然不知道这是什么机器。\n"
+	.string "但是感觉很厉害的样子。$"
 
 Text_VideoGame::
-	.string "It's the latest video game!\n"
-	.string "It sure looks fun!$"
+	.string "这是最强的家用机游戏了！\n"
+	.string "看起来真好玩！$"
 
 Text_Burglary::
-	.string "There are obvious signs of burglary\n"
-	.string "here…$"
+	.string "这儿有一个小偷做的\n"
+	.string "很明显的记号……$"
 
 Text_PlayerFacingTVScreen::
-	.string "There's a POKéMON on TV!\n"
-	.string "It looks like it's having fun.$"
+	.string "有宝可梦在电视上！\n"
+	.string "它们看起来很高兴。$"

@@ -1,73 +1,73 @@
 Route6_Text_RickyIntro::
-    .string "Who's there?\n"
-    .string "Quit listening in on us!$"
+    .string "是谁？\n"
+    .string "竟敢偷听我们讲话！$"
 
 Route6_Text_RickyDefeat::
-    .string "I just can't win!$"
+    .string "我老是赢不了！$"
 
 Route6_Text_RickyPostBattle::
-    .string "Whisper…\n"
-    .string "Whisper…$"
+    .string "悄悄话……\n"
+    .string "悄悄话……$"
 
 Route6_Text_NancyIntro::
-    .string "Excuse me!\n"
-    .string "This is a private conversation!$"
+    .string "喂，我说你！\n"
+    .string "可别偷听人家的谈话啊。$"
 
 Route6_Text_NancyDefeat::
-    .string "Ugh!\n"
-    .string "I hate losing.$"
+    .string "呀啊！\n"
+    .string "被打败了，好丢人。$"
 
 Route6_Text_NancyPostBattle::
-    .string "Whisper…\n"
-    .string "Whisper…$"
+    .string "悄悄话……\n"
+    .string "悄悄话……$"
 
 Route6_Text_KeigoIntro::
-    .string "There aren't many bugs out here.$"
+    .string "这外面没有什么虫子。$"
 
 Route6_Text_KeigoDefeat::
-    .string "No!\n"
-    .string "You're kidding!$"
+    .string "不！\n"
+    .string "你在开玩笑吧！$"
 
 Route6_Text_KeigoPostBattle::
-    .string "I like bugs, so I'm going back to\n"
-    .string "VIRIDIAN FOREST.$"
+    .string "我喜欢虫子，\n"
+    .string "所以我要回到常青森林。$"
 
 Route6_Text_JeffIntro::
-    .string "Huh?\n"
-    .string "You want to talk to me?$"
+    .string "干吗？\n"
+    .string "你找我有什么事？$"
 
 Route6_Text_JeffDefeat::
-    .string "This stinks…\n"
-    .string "I couldn't beat your challenge…$"
+    .string "太糟糕了……\n"
+    .string "我输掉了这场对决……$"
 
 Route6_Text_JeffPostBattle::
-    .string "I should bring more POKéMON with\n"
-    .string "me. I'll feel safer that way.$"
+    .string "我要带更多的宝可梦，\n"
+    .string "这样我才会有安全感。$"
 
 Route6_Text_IsabelleIntro::
-    .string "Me?\n"
-    .string "Well, okay. I'll play!$"
+    .string "我？\n"
+    .string "好的，那就来吧！$"
 
 Route6_Text_IsabelleDefeat::
-    .string "Things just didn't work…$"
+    .string "事情并没有进展……$"
 
 Route6_Text_IsabellePostBattle::
-    .string "I want to get stronger.\n"
-    .string "What's your secret?$"
+    .string "我想变得更强。\n"
+    .string "你的秘诀是什么？$"
 
 Route6_Text_ElijahIntro::
-    .string "I've never seen you around.\n"
-    .string "Are you good?$"
+    .string "我在这附近没见过你。\n"
+    .string "你厉害吗？$"
 
 Route6_Text_ElijahDefeat::
-    .string "You're too good!$"
+    .string "你太厉害了！$"
 
 Route6_Text_ElijahPostBattle::
-    .string "Are my POKéMON weak?\n"
-    .string "Or, am I just bad?\l"
-    .string "Which do you think?$"
+    .string "是我的宝可梦很弱？\n"
+    .string "还是我很差劲？\l"
+    .string "你觉得是哪个？$"
 
 Route6_Text_UndergroundPathSign::
-    .string "UNDERGROUND PATH\n"
-    .string "CERULEAN CITY - VERMILION CITY$"
+    .string "地下通道\n"
+    .string "华蓝市-枯叶市$"
 

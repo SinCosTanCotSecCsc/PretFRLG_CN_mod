@@ -1,45 +1,45 @@
 SilphCo_4F_Text_CantYouSeeImHiding::
-    .string "Sssh!\n"
-    .string "Can't you see I'm hiding?$"
+    .string "嘘！\n"
+    .string "你看不见我在躲人吗？$"
 
 SilphCo_4F_Text_TeamRocketIsGone::
-    .string "Huh?\n"
-    .string "TEAM ROCKET is gone?$"
+    .string "什么……\n"
+    .string "火箭队已经不在这里了？$"
 
 SilphCo_4F_Text_Grunt1Intro::
-    .string "TEAM ROCKET has taken control\n"
-    .string "of SILPH CO.!$"
+    .string "火箭队已经控制了\n"
+    .string "整个西尔佛公司！$"
 
 SilphCo_4F_Text_Grunt1Defeat::
-    .string "Arrgh!$"
+    .string "啊！$"
 
 SilphCo_4F_Text_Grunt1PostBattle::
-    .string "Fwahahaha!\n"
-    .string "My BOSS has been after this place!$"
+    .string "哇哈哈哈！\n"
+    .string "我的老大一直都想占领这地方！$"
 
 SilphCo_4F_Text_RodneyIntro::
-    .string "My POKéMON is my loyal servant.$"
+    .string "我的宝可梦是我忠实的仆人。$"
 
 SilphCo_4F_Text_RodneyDefeat::
-    .string "Darn!\n"
-    .string "You weak POKéMON!$"
+    .string "可恶啊！\n"
+    .string "你这虚弱的宝可梦！$"
 
 SilphCo_4F_Text_RodneyPostBattle::
-    .string "The doors are electronically\n"
-    .string "locked.\p"
-    .string "It takes a CARD KEY to open the\n"
-    .string "doors here.$"
+    .string "这些门都是用电子锁\n"
+    .string "来锁定的。\p"
+    .string "看来需要一张钥匙卡来打开\n"
+    .string "这些门。$"
 
 SilphCo_4F_Text_Grunt2Intro::
-    .string "Intruder spotted!$"
+    .string "发现可疑人员！$"
 
 SilphCo_4F_Text_Grunt2Defeat::
-    .string "Who are you?$"
+    .string "你是谁？$"
 
 SilphCo_4F_Text_Grunt2PostBattle::
-    .string "I better tell the BOSS on 11F!$"
+    .string "我最好去报告在11楼的老大！$"
 
 SilphCo_4F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
+    .string "西尔佛公司总部\n"
     .string "4F$"
 

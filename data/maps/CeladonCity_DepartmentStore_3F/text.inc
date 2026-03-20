@@ -1,70 +1,67 @@
 CeladonCity_DepartmentStore_3F_Text_OTStandsForOriginalTrainer::
-    .string "Captured POKéMON are registered\n"
-    .string "with an ID No. and the OT.\p"
-    .string "OT stands for “Original TRAINER” -\n"
-    .string "the TRAINER that caught it first.$"
+    .string "收服后的宝可梦会生成\n"
+    .string "“ID No.”和“初训家”。\p"
+    .string "初训家是“初始训练家”的简称——\n"
+    .string "指的是最初收服它的训练家。$"
 
 CeladonCity_DepartmentStore_3F_Text_BuddyTradingKangaskhanForHaunter::
-    .string "All right!\p"
-    .string "My buddy's going to trade me his\n"
-    .string "KANGASKHAN for my HAUNTER!$"
+    .string "好极了！\p"
+    .string "我的朋友打算用他的\n"
+    .string "袋兽和我的鬼斯通交换！$"
 
 CeladonCity_DepartmentStore_3F_Text_HaunterEvolvedOnTrade::
-    .string "Come on, HAUNTER!\p"
-    .string "I love HAUNTER!\n"
-    .string "I collect them!\p"
-    .string "Huh?\p"
-    .string "HAUNTER turned into a different\n"
-    .string "POKéMON while being traded!$"
+    .string "来吧，鬼斯通！\p"
+    .string "我喜欢鬼斯通！\n"
+    .string "我一直在收集它！\p"
+    .string "啊？\p"
+    .string "鬼斯通在通讯后变成了\n"
+    .string "另一种宝可梦！$"
 
 CeladonCity_DepartmentStore_3F_Text_CanIdentifyTradeMonsByID::
-    .string "You can identify POKéMON you get\n"
-    .string "in trades by their ID Numbers.$"
+    .string "你可以通过ID No.\n"
+    .string "来辨识连接交换来的宝可梦。$"
 
 CeladonCity_DepartmentStore_3F_Text_ItsSuperNES::
-    .string "It's a Super NES.$"
+    .string "这是一台Super Famicom。$"
 
 CeladonCity_DepartmentStore_3F_Text_AnRPG::
-    .string "An RPG!\n"
-    .string "There's no time for that!$"
+    .string "一款角色扮演游戏！\n"
+    .string "没有时间玩这个！$"
 
 CeladonCity_DepartmentStore_3F_Text_SportsGame::
-    .string "A sports game!\n"
-    .string "Dad'll like that!$"
+    .string "一款体育游戏！\n"
+    .string "是爸爸喜欢的游戏！$"
 
 CeladonCity_DepartmentStore_3F_Text_PuzzleGame::
-    .string "A puzzle game!\n"
-    .string "Looks addictive!$"
+    .string "一款拼图游戏！\n"
+    .string "看起来很有趣！$"
 
 CeladonCity_DepartmentStore_3F_Text_FightingGame::
-    .string "A fighting game!\n"
-    .string "Looks tough!$"
+    .string "一款格斗游戏！\n"
+    .string "看上去很过瘾！$"
 
 CeladonCity_DepartmentStore_3F_Text_TVGameShop::
-    .string "3F: TV GAME SHOP$"
+    .string "三楼：电玩商店$"
 
 CeladonCity_DepartmentStore_3F_Text_RedGreenBothArePokemon::
-    .string "Red and Green!\n"
-    .string "Both are POKéMON!$"
+    .string "红版和绿版！\n"
+    .string "都是宝可梦游戏！$"
 
 Text_CounterTeach::
-    .string "Oh, hi!\n"
-    .string "I finally finished POKéMON.\p"
-    .string "Not done yet? How about I teach\n"
-    .string "you a good move?\p"
-    .string "The move I have in mind is\n"
-    .string "COUNTER.\p"
-    .string "Not like the one I'm leaning on,\n"
-    .string "mind you!$"
+    .string "嗨，你好！\n"
+    .string "我终于把宝可梦通关了。\p"
+    .string "你还没通关吗？\n"
+    .string "我教你个不错的招式怎么样？\p"
+    .string "这个招式叫作双倍奉还。\p"
+    .string "提醒你，\n"
+    .string "这不是我唯一依靠的招式！$"
 
 Text_CounterDeclined::
-    .string "You're not interested? Come see\n"
-    .string "me if you change your mind.$"
+    .string "你没兴趣学啊？\n"
+    .string "要是改变主意了就来找我吧。$"
 
 Text_CounterWhichMon::
-    .string "Which POKéMON should I teach\n"
-    .string "COUNTER to?$"
+    .string "要让哪只宝可梦学双倍奉还呢？$"
 
 Text_CounterTaught::
-    .string "Are you using that COUNTER move\n"
-    .string "I taught your POKéMON?$"
+    .string "我教给你宝可梦的双倍奉很好用吧！$"

@@ -1,15 +1,16 @@
 SafariZone_East_Text_KeepAnyItemFoundOnSafari::
-    .string "You can keep any item you find in\n"
-    .string "the SAFARI ZONE.\p"
-    .string "But, you'll run out of time if you\n"
-    .string "try for all of them at once.$"
+    .string "你能拿走任何你在狩猎地带\n"
+    .string "找到的东西。\p"
+    .string "但是如果你想要一次把\n"
+    .string "所有东西都拿走的话，\p"
+    .string "你的时间会耗尽的。$"
 
 SafariZone_East_Text_PrizeInDeepestPartOfSafariZone::
-    .string "Go to the deepest part of the\n"
-    .string "SAFARI ZONE. You will win a prize!$"
+    .string "走到狩猎地带的最深处。\n"
+    .string "你就会赢得奖品！$"
 
 SafariZone_East_Text_MyEeveeEvolvedIntoFlareon::
-    .string "My EEVEE evolved into FLAREON.\p"
-    .string "But, a friend's EEVEE turned into a\n"
-    .string "VAPOREON. I wonder why?$"
+    .string "我的伊布进化成了火伊布。\p"
+    .string "但是，我一个朋友的伊布进化成了\n"
+    .string "水伊布。我不知道这是为什么？$"
 

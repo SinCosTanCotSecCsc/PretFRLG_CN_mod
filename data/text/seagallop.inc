@@ -3,5 +3,5 @@ Text_WhereDoYouWantToGo::
 	.string "どこに　いきたいんだ？$"
 
 Text_AllAboardSeagallopNum::
-	.string "All right!\n"
-	.string "All aboard SEAGALLOP HI-SPEED {STR_VAR_1}!$"
+	.string "好了！\n"
+	.string "海烈焰马号将以{B_COPY_VAR_1}倍的高速前进！$"

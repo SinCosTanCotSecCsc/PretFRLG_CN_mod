@@ -32,10 +32,10 @@ MysteryEventScript_StampCard::
 	end
 
 sText_MysteryGiftStampCard:
-	.string "Thank you for using the STAMP CARD\n"
-	.string "System.\p"
-	.string "You have {STR_VAR_1} more to collect to\n"
-	.string "fill your STAMP CARD.$"
+	.string "感谢使用\n"
+	.string "印章卡片系统。\p"
+	.string "你需要收集更多{B_COPY_VAR_1}\n"
+	.string "来填满图章卡片。$"
 
 MysteryEventScript_SurfPichu::
 	setvaddress MysteryEventScript_SurfPichu
@@ -98,17 +98,17 @@ SurfPichu_Slot5:
 	return
 
 sText_MysteryGiftEgg:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "From the POKéMON CENTER we\n"
-	.string "have a gift - a POKéMON EGG!\p"
-	.string "Please raise it with love and\n"
-	.string "kindness.$"
+	.string "感谢使用\n"
+	.string "神秘礼物系统。\p"
+	.string "我们从宝可梦中心收到了\n"
+	.string "一件礼物--宝可梦的蛋！\p"
+	.string "请用爱和关怀\n"
+	.string "尽心照顾它吧。$"
 
 sText_FullParty:
-	.string "Oh, your party appears to be full.\p"
-	.string "Please come see me after storing\n"
-	.string "a POKéMON on a PC.$"
+	.string "你的队伍好像满了。\p"
+	.string "请存一只宝可梦到pc后\n"
+	.string "再到我这里来。$"
 
 MysteryEventScript_VisitingTrainer::
 	setvaddress MysteryEventScript_VisitingTrainer
@@ -132,32 +132,30 @@ MysteryEventScript_VisitingTrainerArrived:
 	end
 
 sText_MysteryGiftVisitingTrainer:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "By holding this WONDER CARD, you\n"
-	.string "may take part in a survey at a\l"
-	.string "POKéMON MART.\p"
-	.string "Use these surveys to invite\n"
-	.string "TRAINERS to the SEVII ISLANDS.\p"
-	.string "…Let me give you a secret\n"
-	.string "password for a survey:\p"
+	.string "感谢使用\n"
+	.string "神秘礼物系统。\p"
+	.string "因为你持有神秘卡片，\n"
+	.string "你可以参与一项在\l"
+	.string "宝可梦商店进行的调查。\p"
+	.string "通过这些调查你可以\n"
+	.string "训练家们来到七岛。\p"
+	.string "…我来给你一个\n"
+	.string "用于调查的密码吧：\p"
 	.string "“GIVE ME\n"
 	.string "AWESOME TRAINER”\p"
-	.string "Write that in on a survey and send\n"
-	.string "it to the WIRELESS\l"
-	.string "COMMUNICATION SYSTEM.$"
+	.string "把这个写在调查上\n"
+	.string "并发送至无线通讯系统。$"
 
 sText_MysteryGiftVisitingTrainer_2:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "A TRAINER has arrived in the SEVII\n"
-	.string "ISLANDS looking for you.\p"
-	.string "We hope you will enjoy\n"
-	.string "battling the visiting TRAINER.\p"
-	.string "You may invite other TRAINERS by\n"
-	.string "entering other passwords.\p"
-	.string "Try looking for other passwords\n"
-	.string "that may work.$"
+	.string "感谢使用\n"
+	.string "神秘礼物系统。\p"
+	.string "有一位训练家为了找你，\n"
+	.string "已经抵达了七岛。\p"
+	.string "希望你能尽情享受\n"
+	.string "与这位来访训练家的对战。\p"
+	.string "你也可以输入其他密码来\n"
+	.string "邀请其他训练家。\p"
+	.string "试着找到其他可能有用的密码吧。$"
 
 MysteryEventScript_BattleCard::
 	setvaddress MysteryEventScript_BattleCard
@@ -185,25 +183,25 @@ MysteryEventScript_BattleCardInfo:
 	end
 
 sText_MysteryGiftBattleCountCard:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "Your BATTLE COUNT CARD keeps\n"
-	.string "track of your battle record against\l"
-	.string "TRAINERS with the same CARD.\p"
-	.string "Look for and battle TRAINERS who\n"
-	.string "have the same CARD as you.\p"
-	.string "You may check the overall rankings\n"
-	.string "by reading the NEWS.\p"
-	.string "Please do give it a try!$"
+	.string "感谢使用\n"
+	.string "神秘礼物系统。\p"
+	.string "你的战斗积分卡保留着\n"
+	.string "你和其他拥有相同卡的\l"
+	.string "训练家战斗录像。\p"
+	.string "寻找和你持有相同卡的\n"
+	.string "训练家进行战斗吧。\p"
+	.string "你可以阅读新闻来\n"
+	.string "获知总排名。\p"
+	.string "一定要试试看哦！$"
 
 sText_MysteryGiftBattleCountCard_2:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "Congratulations!\p"
-	.string "You have won a prize for winning\n"
-	.string "three battles!\p"
-	.string "We hope you will be inspired to\n"
-	.string "battle some more.$"
+	.string "感谢使用\n"
+	.string "神秘礼物系统。\p"
+	.string "恭喜你了！\p"
+	.string "由于在三场对战中获得了优胜，\n"
+	.string "你获得了奖励！\p"
+	.string "我们希望你在后面的对战中\n"
+	.string "再接再厉。$"
 
 MysteryEventScript_AuroraTicket::
 	setvaddress MysteryEventScript_AuroraTicket
@@ -242,26 +240,25 @@ AuroraTicket_Obtained:
 	end
 
 sText_AuroraTicket1:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "You must be {PLAYER}.\n"
-	.string "There is a ticket here for you.$"
+	.string "感谢使用\n"
+	.string "神秘礼物系统。\p"
+	.string "你是{PLAYER}吧？\n"
+	.string "这张船票是给你的。$"
 
 sText_AuroraTicket2:
-	.string "It appears to be for use at the\n"
-	.string "VERMILION CITY port.\p"
-	.string "Why not give it a try and see what\n"
-	.string "it is about?$"
+	.string "似乎是在枯叶市港口才能使用的。\p"
+	.string "为什么不试一试来\n"
+	.string "看看这到底有什么用。$"
 
 sText_AuroraTicketGot:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.$"
+	.string "感谢使用\n"
+	.string "神秘礼物系统。$"
 
 sText_AuroraTicketNoPlace:
-	.string "Oh, I'm sorry, {PLAYER}. Your BAG's\n"
-	.string "KEY ITEMS POCKET is full.\p"
-	.string "Please store something on your PC,\n"
-	.string "then come back for this.$"
+	.string "{PLAYER}，很抱歉。\n"
+	.string "你包里的重要道具口袋已经满了。\p"
+	.string "请先存一些东西在你的电脑中，\n"
+	.string "然后再回来。$"
 
 MysteryEventScript_MysticTicket::
 	setvaddress MysteryEventScript_MysticTicket
@@ -301,26 +298,25 @@ MysticTicket_Obtained:
 	end
 
 sText_MysticTicket2:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "You must be {PLAYER}.\n"
-	.string "There is a ticket here for you.$"
+	.string "感谢使用\n"
+	.string "神秘礼物系统。\p"
+	.string "你是{PLAYER}吧？\n"
+	.string "这张船票是给你的。$"
 
 sText_MysticTicket1:
-	.string "It appears to be for use at the\n"
-	.string "VERMILION CITY port.\p"
-	.string "Why not give it a try and see what\n"
-	.string "it is about?$"
+	.string "似乎是在枯叶市港口才能使用的。\p"
+	.string "为什么不试一试来\n"
+	.string "看看这到底有什么用。$"
 
 sText_MysticTicketGot:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.$"
+	.string "感谢使用\n"
+	.string "神秘礼物系统。$"
 
 sText_MysticTicketNoPlace:
-	.string "Oh, I'm sorry, {PLAYER}. Your BAG's\n"
-	.string "KEY ITEMS POCKET is full.\p"
-	.string "Please store something on your PC,\n"
-	.string "then come back for this.$"
+	.string "{PLAYER}，很抱歉。\n"
+	.string "你包里的重要道具口袋已经满了。\p"
+	.string "请先存一些东西在你的电脑中，\n"
+	.string "然后再回来。$"
 
 MysteryEventScript_AlteringCave::
 	setvaddress MysteryEventScript_AlteringCave
@@ -337,11 +333,10 @@ MysteryEventScript_AlteringCave_:
 	end
 
 sText_MysteryGiftAlteringCave:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "Recently, there have been rumors\n"
-	.string "of rare POKéMON appearances.\p"
-	.string "The rumors are about ALTERING\n"
-	.string "CAVE on OUTCAST ISLAND.\p"
-	.string "Why not visit there and check if\n"
-	.string "the rumors are indeed true?$"
+	.string "感谢使用\n"
+	.string "神秘礼物系统。\p"
+	.string "最近，出现了一些有关\n"
+	.string "稀有宝可梦出没的传闻。\p"
+	.string "据说和在外岛上的变化洞窟有关。\p"
+	.string "如果传闻是真的，\n"
+	.string "何不去一探究竟？$"

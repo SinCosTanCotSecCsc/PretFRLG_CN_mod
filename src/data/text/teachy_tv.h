@@ -1,198 +1,22 @@
-const u8 gTeachyTvString_TeachBattle[] = _("Teach me how to battle.");
-const u8 gTeachyTvString_StatusProblems[] = _("What are status problems?");
-const u8 gTeachyTvString_TypeMatchups[] = _("What are type matchups?");
-const u8 gTeachyTvString_CatchPkmn[] = _("I want to catch POKéMON.");
-const u8 gTeachyTvString_AboutTMs[] = _("Teach me about TMs.");
-const u8 gTeachyTvString_RegisterItem[] = _("How do I register an item?");
-const u8 gTeachyTvString_Cancel[] = _("CANCEL");
-const u8 gTeachyTvText_PokedudeSaysHello[] = _(
-    "Hey, all you TRAINERS out there!\n"
-    "HELLO, TRAINERS!\p"
-    "……… ……… ………\p"
-    "Come on, let me hear you!\n"
-    "HELLO, TRAINERS!\l"
-    "It's me, the POKé DUDE!\p");
-const u8 gTeachyTvText_BattleScript1[] = _(
-    "Today, the POKé DUDE's here to\n"
-    "tell you about how you can battle\l"
-    "POKéMON!\p"
-    "Say you're out for a stroll when,\n"
-    "suddenly, a wild POKéMON appears!\p"
-    "It's up to you to smartly use your\n"
-    "POKéMON and their moves to reduce\l"
-    "the opponent's HP to nothing, and\l"
-    "claim victory!\p"
-    "I'll show you how to do that in\n"
-    "person and for sure!\p"
-    "All righty, here goes!\p"
-    "Keep your eyes glued to the super\n"
-    "POKé DUDE SHOW!");
-const u8 gTeachyTvText_BattleScript2[] = _(
-    "Well, did you get that?\p"
-    "Even if your own POKéMON's HP\n"
-    "falls to zero, and it becomes\l"
-    "unable to battle, not to worry!\p"
-    "Just take it to any POKéMON\n"
-    "CENTER and heal it!\p"
-    "All righty, be seeing you!\p"
-    "Remember, TRAINERS, a good deed\n"
-    "a day brings happiness to stay!");
-const u8 gTeachyTvText_StatusScript1[] = _(
-    "Today, the POKé DUDE's here to\n"
-    "tell you about status problems!\p"
-    "Status problems include poisoning,\n"
-    "paralysis, sleep, burn…\p"
-    "There are a couple others, but\n"
-    "they really are trouble.\p"
-    "Get any one, and your POKéMON\n"
-    "may become useless in battle.\p"
-    "You know, it hurts the POKé DUDE\n"
-    "to see a POKéMON suffer…\p"
-    "So, what should you do if your\n"
-    "POKéMON gets a status problem?\p"
-    "Well, you've got me to show you!\p"
-    "All righty, here goes!\p"
-    "Keep your eyes glued to the super\n"
-    "POKé DUDE SHOW!");
-const u8 gTeachyTvText_StatusScript2[] = _(
-    "Poisoning or paralysis don't go\n"
-    "away after a battle.\p"
-    "If a POKéMON is poisoned, it loses\n"
-    "HP even while you're walking.\p"
-    "You should heal POKéMON of these\n"
-    "kinds of problems right away.\p"
-    "Use an item, or try to get to a\n"
-    "POKéMON CENTER for healing.\p"
-    "That wasn't hard, was it?\n"
-    "All righty, be seeing you!\p"
-    "Remember, TRAINERS, a good deed\n"
-    "a day brings happiness to stay!");
-const u8 gTeachyTvText_MatchupsScript1[] = _(
-    "Does everyone know about type\n"
-    "matchups?\p"
-    "POKéMON and their moves all\n"
-    "belong to certain types.\p"
-    "For example, there are such types\n"
-    "as GRASS and WATER.\p"
-    "You need to consider the type of\n"
-    "the move used to attack…\p"
-    "And, the type of the POKéMON that\n"
-    "is hit by that attack.\p"
-    "Depending on how those two types\n"
-    "match up, the damage can change.\p"
-    "You see, it depends on whether\n"
-    "the type matchup is good or bad.\p"
-    "If you don't know how matchups\n"
-    "work, battles will be tough.\p"
-    "So, let me demonstrate exactly\n"
-    "what I mean.\p"
-    "All righty, here goes!\p"
-    "Keep your eyes glued to the super\n"
-    "POKé DUDE SHOW!");
-const u8 gTeachyTvText_MatchupsScript2[] = _(
-    "Is it possible to launch an attack\n"
-    "that will inflict heavy damage?\p"
-    "Does the opposing POKéMON pose\n"
-    "a threat to your POKéMON?\p"
-    "Is there any chance that it may\n"
-    "have disastrously tough moves?\p"
-    "Watch the type matchups to gain\n"
-    "the upper hand!\p"
-    "All righty, be seeing you!\p"
-    "Oh, for the COOL-type POKé DUDE,\n"
-    "AWESOME-type kids like you match\l"
-    "up perfectly!\p"
-    "Remember, a good deed a day\n"
-    "brings happiness to stay!");
-const u8 gTeachyTvText_CatchingScript1[] = _(
-    "Today, the POKé DUDE's going to\n"
-    "show you how to catch POKéMON!\p"
-    "Just imagine… A groovy POKéMON\n"
-    "suddenly appearing in the wild!\p"
-    "Oh, you want it!\n"
-    "You just can't help it!\p"
-    "Oh, you have to catch it!\n"
-    "You gotta have it!\p"
-    "Let me show you how you can make\n"
-    "it happen!\p"
-    "All righty, here goes!\p"
-    "Keep your eyes glued to the super\n"
-    "POKé DUDE SHOW!");
-const u8 gTeachyTvText_CatchingScript2[] = _(
-    "If your first POKé BALL fails to\n"
-    "catch the POKéMON, don't give up!\p"
-    "Keep throwing POKé BALLS…\n"
-    "It's bound to work sometime!\p"
-    "All righty, be seeing you!\p"
-    "Remember, TRAINERS, a good deed\n"
-    "a day brings happiness to stay!");
-const u8 gTeachyTvText_TMsScript1[] = _(
-    "Hey, everyone!\n"
-    "Do you all have TMs?\p"
-    "A TM, Technical Machine, is an\n"
-    "amazingly great item!\p"
-    "It teaches POKéMON a move that\n"
-    "it may not learn when leveling up!\p"
-    "Isn't that just great? What a\n"
-    "convenient world we live in!\p"
-    "Open the TM CASE and check out\n"
-    "the TMs you have.\p"
-    "You can check them out in detail,\n"
-    "too.");
-const u8 gPokedudeText_TMTypes[] = _(
-    "POKé DUDE: NORMAL, WATER, GRASS…\n"
-    "TMs also come in types.\p"
-    "Check the type and teach it to\n"
-    "a POKéMON that matches up well.\p"
-    "For example, WATER PULSE is\n"
-    "suitable for WATER-type POKéMON.\p"
-    "BULLET SEED is a move that most\n"
-    "GRASS-type POKéMON can learn.\p"
-    "There's one other thing!");
-const u8 gPokedudeText_ReadTMDescription[] = _(
-    "Don't just look at the type, read\n"
-    "the description, too.\p"
-    "It will contain hints about what\n"
-    "POKéMON might learn the move.\p"
-    "For example, take a move like\n"
-    "FOCUS PUNCH.\p"
-    "It doesn't sound like anything a\n"
-    "bird or fish POKéMON can learn.\p"
-    "So, try using it on POKéMON with\n"
-    "arms that can throw punches!");
-const u8 gTeachyTvText_TMsScript2[] = _(
-    "Wow, I talked a lot today!\n"
-    "All righty, be seeing you!\p"
-    "Remember, TRAINERS, a good deed\n"
-    "a day brings happiness to stay!");
-const u8 gTeachyTvText_RegisterScript1[] = _(
-    "A TRAINER's BAG has a bunch of\n"
-    "nifty, convenient features!\p"
-    "Take stuff in the KEY ITEMS\n"
-    "POCKET, for instance.\p"
-    "You can use a key item without\n"
-    "opening the BAG every time.\p"
-    "For example, let's pretend I have\n"
-    "a TEACHY TV in my BAG.\p"
-    "I can register it for instant use,\n"
-    "and I'll show you how!\p"
-    "All righty, here goes!\p"
-    "Keep your eyes glued to the sorta\n"
-    "super POKé DUDE SHOW!");
-const u8 gTeachyTvText_RegisterScript2[] = _(
-    "And now, your TEACHY TV is\n"
-    "registered.\p"
-    "How do you use it?\n"
-    "Well, here's how it works.\p"
-    "Once an item in the KEY ITEMS\n"
-    "POKCET is registered, you can use\l"
-    "it by pressing SELECT.\p"
-    "So, you've given yourself\n"
-    "one-touch access to TEACHY TV.\p"
-    "All it takes for you to see me is\n"
-    "pressing one button!\p"
-    "That kind of attention is a little\n"
-    "embarrassing!\p"
-    "All righty, be seeing you!\p"
-    "Remember, TRAINERS, a good deed\n"
-    "a day brings happiness to stay!");
+const u8 gTeachyTvString_TeachBattle[] = _("教会我如何战斗。");
+const u8 gTeachyTvString_StatusProblems[] = _("异常状态是什么？");
+const u8 gTeachyTvString_TypeMatchups[] = _("属性相克是什么？");
+const u8 gTeachyTvString_CatchPkmn[] = _("我想要收服宝可梦。");
+const u8 gTeachyTvString_AboutTMs[] = _("告诉我什么是招式学习器。");
+const u8 gTeachyTvString_RegisterItem[] = _("我如何登记一个道具？");
+const u8 gTeachyTvString_Cancel[] = _("取消");
+const u8 gTeachyTvText_PokedudeSaysHello[] = _("嘿，各位训练家们！\n大家好！\p……… ……… ………\p来吧，让我能听到你们的声音！\n训练家们，大家好！\l我就是电视小哥！\p");
+const u8 gTeachyTvText_BattleScript1[] = _("今天，电视小哥来告诉你\n怎么样使用你的宝可梦来对战！\p比方说你在外出漫步，\n突然之间，野生的宝可梦就出现了！\p要如何巧妙地使用你的宝可梦\n和他们的招式来把敌人的HP\l打击至零，并取得最终的胜利\l完全取决于你的战术！\p我会向你们亲身示范\n如何轻松地做到这一点！\p好咧，那么看好了！\p不要把你的视线从\n电视小哥秀上移开！");
+const u8 gTeachyTvText_BattleScript2[] = _("那么，你明白了吗？\p就算你自己宝可梦的HP\n降到了0而不能\l继续战斗下去，也不用担心！\p只要把它带到宝可梦中心\n并治愈它就没问题了！\p那么，下次再会！\p记住了，训练家，天天做好事\n将会带来快乐！");
+const u8 gTeachyTvText_StatusScript1[] = _("今天，电视小哥为你们带来\n的是异常状态的讲解！\p异常状态包括中毒、\n麻痹、睡眠、灼伤…\p还有其他的一些异常状态，\n都会带来很大的麻烦.\p陷入任何一种状态都会让你的宝可梦\n在战斗中变得无力.\p你明白的，当宝可梦遭受痛苦时\n电视小哥就心里难受…\p所以，当你的宝可梦灵陷入异常状态时\n你该干什么呢？?\p嘛，所以我现在就要示范给你看\p好咧，那么看好了！\p不要把你的视线从\n电视小哥秀上移开！");
+const u8 gTeachyTvText_StatusScript2[] = _("中毒和麻痹不会因为\n战斗结束而消失。\p如果一只宝可梦中了毒\n就算你走路的时候它也会失去HP\p你应该马上治疗有这些\n状态的宝可梦。\p使用一个道具，或是\n到宝可梦中心寻求治疗。\p这并不困难，不是么？\n那么，下次再会！\p记住了，训练家，天天做好事\n将会带来快乐！");
+const u8 gTeachyTvText_MatchupsScript1[] = _("大家都知道关于属性\n相克的事情吗？\p宝可梦和他们的招式\n都有相关的属性。\p比如说，草和水就是\n就是这样相克的属性\p你在攻击时需要考虑\n招式的属性…\p以及被攻击方宝可梦\n的属性。\p由于双方的属性相克情况不同，\n造成的伤害也会发生变化。\p最终的结果将会取决于\n属性相性的好坏\p如果你不知道属性的相形的话\n战斗将会变得更艰难。\p那么，让我来演示一下\n我所指的意思吧\p好咧，那么看好了！\p不要把你的视线从\n电视小哥秀上移开！");
+const u8 gTeachyTvText_MatchupsScript2[] = _("那么有没有可能发动一次攻击\n来造成巨大的伤害呢？\p如何来判断敌对的宝可梦\n是否会对你的宝可梦构成威胁呢？\p它有没有可能拥有\n毁灭性威力的招式呢？\p仔细观察双方的属性\n就能占据优势\p那么，下次再会！\p对了，对于酷属性的电视小哥来说\n像你一样拥有帅属性的孩子会有极佳\l的相性！\p记住了，训练家，天天做好事\n将会带来快乐！");
+const u8 gTeachyTvText_CatchingScript1[] = _("今天，电视小哥将会教你\n如何收服宝可梦！\p想象一下吧…一个时髦的宝可梦\n突然从野外跳了出来！\p你很想要吧！\n你都迫不及待了！\p你必须要抓住它！\n你必须要拥有它！\p让我来教你如何让你的梦想\n成真！\p好咧，那么看好了！\p不要把你的视线从\n电视小哥秀上移开！");
+const u8 gTeachyTvText_CatchingScript2[] = _("如果你的第一个精灵球没能\n抓住宝可梦，不要放弃！\p不停地扔精灵球…\n你总会成功一次的！\p那么，下次再会！\p记住了，训练家，天天做好事\n将会带来快乐！");
+const u8 gTeachyTvText_TMsScript1[] = _("嘿，大家好！\n你们都有招式吗？\p一个招式，招式学习器，是\n一个很棒的道具！\p它能教给宝可梦一个\n它升级时可能学不到的招式\p这是不是很棒？我们\n所居住的世界可真是方便！\p打开招式学习器盒子，看看\n你拥有哪些招式。\p你还能仔细查看它们的\n详细说明。");
+const u8 gPokedudeText_TMTypes[] = _("电视小哥：一般、水、草…\n招式有各种各样的属性。\p检查它的属性然后\n把它教给和它相性良好的宝可梦\p比如说，水之波动很适合\n水属性的宝可梦。\p种子机关枪是大多数草属性宝可梦\n可以学习的招式\p并且还有一点！");
+const u8 gPokedudeText_ReadTMDescription[] = _("别光看属性，也要仔细\n看招式的描述。\p它会提示什么类型的\n宝可梦可能能够学习那个招式。\p比如说，拿像\n真气拳这样的招式来说\p它听起来完全不像\n一个鸟或鱼类宝可梦可以学习的。\p所以，尝试教给可以使用\n手臂打击的宝可梦吧！");
+const u8 gTeachyTvText_TMsScript2[] = _("哇，我今天讲了很多了！\n那么，下次再会！\p记住了，训练家，天天做好事\n将会带来快乐！");
+const u8 gTeachyTvText_RegisterScript1[] = _("训练家的包包拥有很多\n小巧、方便的作用\p拿在重要道具口袋\n里的物品来说\p你有办法不用每次都打开包包\n也能使用重要道具\p比如说，假设我包包里\n有一个教学电视机.\p我可以把它登录后直接使用，\n我会教你怎么做！\p好咧，那么看好了！\p不要把你的视线从\n电视小哥秀上移开！");
+const u8 gTeachyTvText_RegisterScript2[] = _("现在，你的教学电视机\n已经被登录了。\p你要怎么使用？\n嘛，是这样的\p当一个道具在重要物品口袋\n里被注册后，你可以按\l选择键来使用它。\p之后，你就可以一键\n使用教学电视机了。\p你想要见我的话\n只要按一个按钮就行了！\p被这么关注可还真是\n让人不好意思啊！\p那么，下次再会！\p记住了，训练家，天天做好事\n将会带来快乐！");

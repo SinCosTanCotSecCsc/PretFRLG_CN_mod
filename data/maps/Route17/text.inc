@@ -1,131 +1,131 @@
 Route17_Text_RaulIntro::
-    .string "There's no getting rich quick in\n"
-    .string "battling kids.$"
+    .string "跟小孩战斗可不是什么赚钱\n"
+    .string "的捷径。$"
 
 Route17_Text_RaulDefeat::
-    .string "Burned out!$"
+    .string "烧坏了！$"
 
 Route17_Text_RaulPostBattle::
-    .string "You can find good stuff lying\n"
-    .string "around on CYCLING ROAD.\p"
-    .string "There's good money in picking them\n"
-    .string "up and selling them.$"
+    .string "在单车路你会捡到\n"
+    .string "一些好的东西。\p"
+    .string "如果把它们拿去卖，\n"
+    .string "能赚到不少钱。$"
 
 Route17_Text_IsaiahIntro::
-    .string "I'm mighty proud of my bod, kiddo.\n"
-    .string "Come on!$"
+    .string "我的身体超棒的，\n"
+    .string "对决吧！老兄。$"
 
 Route17_Text_IsaiahDefeat::
-    .string "Whoo!$"
+    .string "好可怕……$"
 
 Route17_Text_IsaiahPostBattle::
-    .string "I could belly-bump you outta\n"
-    .string "here!$"
+    .string "我可以把你从这儿撞飞！$"
 
 Route17_Text_VirgilIntro::
-    .string "You heading to FUCHSIA?$"
+    .string "你想去浅红？$"
 
 Route17_Text_VirgilDefeat::
-    .string "Crash and burn!$"
+    .string "彻底失败了！$"
 
 Route17_Text_VirgilPostBattle::
-    .string "I love racing downhill!$"
+    .string "我喜欢骑下坡！$"
 
 Route17_Text_BillyIntro::
-    .string "We're BIKERS!\n"
-    .string "We rule the roads, man!$"
+    .string "我们是暴走族！\n"
+    .string "这条路我们说了算，懂吗！$"
 
 Route17_Text_BillyDefeat::
-    .string "Smoked!$"
+    .string "冒烟了！$"
 
 Route17_Text_BillyPostBattle::
-    .string "Are you looking for adventure?$"
+    .string "你在寻求冒险生活吗？$"
 
 Route17_Text_NikolasIntro::
-    .string "Let VOLTORB electrify you!$"
+    .string "让霹雳电球电你一下！$"
 
 Route17_Text_NikolasDefeat::
-    .string "Grounded out!$"
+    .string "安全着陆！$"
 
 Route17_Text_NikolasPostBattle::
-    .string "I got my VOLTORB at the abandoned\n"
-    .string "POWER PLANT.$"
+    .string "我在废弃的无人发电厂\n"
+    .string "遇到了我的霹雳电球。$"
 
 Route17_Text_ZeekIntro::
-    .string "I leveled up my POKéMON, but it\n"
-    .string "won't evolve. Why?$"
+    .string "我提升了我的宝可梦等级，\n"
+    .string "但是它不进化，为什么？$"
 
 Route17_Text_ZeekDefeat::
-    .string "Why, you!$"
+    .string "你这家伙！$"
 
 Route17_Text_ZeekPostBattle::
-    .string "Maybe some POKéMON need element\n"
-    .string "STONES to evolve.$"
+    .string "也许有一些宝可梦需要用\n"
+    .string "属性石来进化。$"
 
 Route17_Text_JamalIntro::
-    .string "I need a little exercise!$"
+    .string "出一点汗，减一身肥！$"
 
 Route17_Text_JamalDefeat::
-    .string "Whew!\n"
-    .string "Good workout!$"
+    .string "呼！\n"
+    .string "真是一场火热的对战呢。$"
 
 Route17_Text_JamalPostBattle::
-    .string "I'm sure I lost weight there!$"
+    .string "我一定就是在那儿减肥的没错！$"
 
 Route17_Text_CoreyIntro::
-    .string "Be a rebel!$"
+    .string "特立独行是男人的标志！$"
 
 Route17_Text_CoreyDefeat::
-    .string "Aaaargh!$"
+    .string "晕！$"
 
 Route17_Text_CoreyPostBattle::
-    .string "Be ready to fight for your beliefs!$"
+    .string "你也要特立独行！\n"
+    .string "走自己的路让别人说去吧！$"
 
 Route17_Text_JaxonIntro::
-    .string "Nice BIKE!\n"
-    .string "How's it handle?$"
+    .string "漂亮的自行车！\n"
+    .string "怎么入手的？$"
 
 Route17_Text_JaxonDefeat::
-    .string "Shoot!$"
+    .string "怎么会这样。$"
 
 Route17_Text_JaxonPostBattle::
-    .string "The slope makes it hard to steer.$"
+    .string "在斜坡上很难掌控它啊！$"
 
 Route17_Text_WilliamIntro::
-    .string "Get lost, kid!\n"
-    .string "I'm bushed!$"
+    .string "输了，小子！\n"
+    .string "我太累了！$"
 
 Route17_Text_WilliamDefeat::
-    .string "Are you satisfied?$"
+    .string "你满意吗？$"
 
 Route17_Text_WilliamPostBattle::
-    .string "I need to catch a few z's!$"
+    .string "我得去打个小盹！$"
 
 Route17_Text_WatchOutForDiscardedItems::
-    .string "It's a notice.\p"
-    .string "Watch out for discarded items.$"
+    .string "小提示。\p"
+    .string "注意那些丢弃的物品。$"
 
 Route17_Text_SameSpeciesGrowDifferentRates::
-    .string "TRAINER TIPS\p"
-    .string "All POKéMON are unique.\p"
-    .string "Even POKéMON of the same species\n"
-    .string "and level grow at different rates.$"
+    .string "……有用的公告牌！\p"
+    .string "每一个宝可梦都是唯一的。\p"
+    .string "就算是相同种类和等级的宝可梦，\n"
+    .string "它们的能力也不是完全相同的。$"
 
 Route17_Text_PressBToStayInPlace::
-    .string "TRAINER TIPS\p"
-    .string "Press the B Button to stay in place\n"
-    .string "while on a slope.$"
+    .string "……有用的公告牌！\p"
+    .string "在斜坡上时按B键\n"
+    .string "能停在原地。$"
 
 Route17_Text_RouteSign::
-    .string "ROUTE 17\n"
-    .string "CELADON CITY - FUCHSIA CITY$"
+    .string "17号道路\n"
+    .string "玉虹市-浅红市$"
 
 Route17_Text_DontThrowGameThrowBalls::
-    .string "It's a notice!\p"
-    .string "Don't throw the game, throw POKé\n"
-    .string "BALLS instead!$"
+    .string "小提示！\p"
+    .string "不要老是逃跑，\n"
+    .string "扔精灵球就可以了！$"
 
 Route17_Text_CyclingRoadSign::
-    .string "CYCLING ROAD\n"
-    .string "Slope ends here!$"
+    .string "单车路\n"
+    .string "斜坡终止了！$"
 

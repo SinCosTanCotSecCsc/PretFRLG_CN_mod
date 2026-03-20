@@ -1289,56 +1289,55 @@ TwoIsland_JoyfulGameCorner_EventScript_ShowDodrioBerryPickingRecords::
 	end
 
 CableClub_Text_WelcomeWhichCableClubService::
-	.string "Welcome to the POKéMON CABLE\n"
-	.string "CLUB.\p"
-	.string "Which of our services do you wish\n"
-	.string "to use?$"
+	.string "欢迎来到\n"
+	.string "宝可梦有线俱乐部。\p"
+	.string "你需要我们的哪一项\n"
+	.string "服务呢？$"
 
 CableClub_Text_WhichService::
-	.string "Which of our services do you wish\n"
-	.string "to use?$"
+	.string "你需要我们的\n"
+	.string "哪一项服务呢？$"
 
 CableClub_Text_TradeMonsUsingLinkCable::
-	.string "Trade POKéMON with another player\n"
-	.string "using a GBA Game Link cable.$"
+	.string "通过GBA连接线与其他的玩家\n"
+	.string "交换宝可梦。$"
 
 CableClub_Text_BattleUsingLinkCable::
-	.string "You may battle another TRAINER\n"
-	.string "using a GBA Game Link cable.$"
+	.string "你可以通过GBA连接线\n"
+	.string "与其他的训练家对战。$"
 
 @ Unused, translated in Emerald
 CableClub_Text_CloseThisMenu::
 	.string "おわります$"
 
 CableClub_Text_NeedTwoMonsForDoubleBattle::
-	.string "For a DOUBLE BATTLE, you must\n"
-	.string "have at least two POKéMON.$"
+	.string "如果想要玩双人对战，\n"
+	.string "你必须至少拥有两只宝可梦。$"
 
 CableClub_Text_NeedTwoMonsToTrade::
-	.string "For trading, you must have at\n"
-	.string "least two POKéMON with you.$"
+	.string "想要通信，你至少要有两只宝可梦。$"
 
 CableClub_Text_CantTradeEnigmaBerry::
-	.string "A POKéMON holding the {STR_VAR_1}\n"
-	.string "BERRY can't be traded.$"
+	.string "带着{B_COPY_VAR_1}\n"
+	.string "树果的宝可梦不能进行通信。$"
 
 CableClub_Text_PleaseWaitBCancel::
-	.string "Please wait.\n"
-	.string "… … B Button: Cancel$"
+	.string "请稍等。\n"
+	.string "……B 键：取消$"
 
 CableClub_Text_WhenAllPlayersReadyAConfirmBCancel::
-	.string "When all players are ready…\n"
-	.string "A Button: Confirm\l"
-	.string "B Button: Cancel$"
+	.string "当所有的玩家都准备好了……\n"
+	.string "A 键：确认\l"
+	.string "B 键：取消$"
 
 CableClub_Text_StartLinkWithXPlayersAConfirmBCancel::
-	.string "Start link with {STR_VAR_1} players.\n"
-	.string "A Button: Confirm\l"
-	.string "B Button: Cancel$"
+	.string "开始与{B_COPY_VAR_1}玩家连接。\n"
+	.string "A 键：确认\l"
+	.string "B 键：取消$"
 
 CableClub_Text_AwaitingLinkupBCancel::
-	.string "Awaiting linkup…\n"
-	.string "… … B Button: Cancel$"
+	.string "等待连接……\n"
+	.string "……B键：取消$"
 
 @ Unused, translated in Emerald
 CableClub_Text_OkayToSaveProgress::
@@ -1346,108 +1345,107 @@ CableClub_Text_OkayToSaveProgress::
 	.string "かきますが　よろしいですか？$"
 
 CableClub_Text_PleaseEnter::
-	.string "Please enter.$"
+	.string "请进。$"
 
 CableClub_Text_DirectYouToYourRoom::
-	.string "I'll direct you to your room now.$"
+	.string "我会直接去你的房间。$"
 
 CableClub_Text_SomeoneIsNotReadyToLink::
-	.string "Someone is not ready to link.\p"
-	.string "Please come back after everyone\n"
-	.string "has made preparations.$"
+	.string "你的朋友没有准备好。\p"
+	.string "请等所有人都准备好\n"
+	.string "之后再来吧。$"
 
 CableClub_Text_LinkErrorPleaseReset::
-	.string "Sorry, we have a link error…\n"
-	.string "Please reset and try again.$"
+	.string "对不起，出现了通信错误……\n"
+	.string "请重启然后再试一次。$"
 
 CableClub_Text_PlayersMadeDifferentSelections::
-	.string "The link partners appear to have\n"
-	.string "made different selections.$"
+	.string "通信的伙伴似乎\n"
+	.string "有了不同的选择。$"
 
 CableClub_Text_PleaseVisitAgain::
-	.string "Please do visit again.$"
+	.string "请再次光临。$"
 
 CableClub_Text_IncorrectNumberOfParticipants::
-	.string "The number of participants is\n"
-	.string "incorrect.$"
+	.string "参加的人数\n"
+	.string "不正确。$"
 
 CableClub_Text_CantSingleBattleWithXPlayers::
-	.string "The SINGLE BATTLE Mode can't be\n"
-	.string "played by {STR_VAR_1} players.$"
+	.string "单人对战模式\n"
+	.string "在{B_COPY_VAR_1}玩家的情况下不能玩。$"
 
 CableClub_Text_CantDoubleBattleWithXPlayers::
-	.string "The DOUBLE BATTLE Mode can't be\n"
-	.string "played by {STR_VAR_1} players.$"
+	.string "双人对战模式\n"
+	.string "在{B_COPY_VAR_1}玩家的情况下不能玩。$"
 
 CableClub_Text_NeedFourPlayers::
-	.string "There must be four players to play\n"
-	.string "this Battle Mode.$"
+	.string "这个战斗模式\n"
+	.string "要求必须要有四个玩家。$"
 
 CableClub_Text_PleaseConfirmNumberAndRestart::
-	.string "Please confirm the number of\n"
-	.string "players and start again.$"
+	.string "请确认好参与游戏的\n"
+	.string "玩家人数后再来。$"
 
 Text_TerminateLinkIfYouLeaveRoom::
-	.string "The link will be terminated if you\n"
-	.string "leave the room. Is that okay?$"
+	.string "如果你离开这个房间\n"
+	.string "通信会被中止，这样可以吗？$"
 
 Text_TerminateLinkConfirmation::
-	.string "Terminating link…\n"
-	.string "You will be escorted out of\l"
-	.string "the room. Please wait.$"
+	.string "中断连接……\n"
+	.string "你会被送出这个房间。\l"
+	.string "请稍等。$"
 
 Text_TrainerTooBusyToNotice::
-	.string "This TRAINER is too busy to\n"
-	.string "notice…$"
+	.string "这个训练家很忙\n"
+	.string "没空理你……$"
 
 Text_LookedAtPlayersTrainerCard::
-	.string "Score! Got to look at {STR_VAR_1}'s\n"
-	.string "TRAINER CARD!$"
+	.string "计分！请注意你的{B_COPY_VAR_1}\n"
+	.string "训练家卡片！$"
 
 Text_LookedAtPlayersTrainerCardColored::
-	.string "Score! Got to look at {STR_VAR_1}'s\n"
-	.string "TRAINER CARD!\p"
-	.string "It's a {STR_VAR_2} card!$"
+	.string "计分！请注意你的{B_COPY_VAR_1}\n"
+	.string "训练家卡片！$"
 
 Text_TakeSeatStartBattle::
-	.string "Please take your seat and start\n"
-	.string "your battle.$"
+	.string "请找到您的座位\n"
+	.string "开始您的战斗。$"
 
 Text_TakeSeatStartTrade::
-	.string "Please take your seat and start\n"
-	.string "your trade.$"
+	.string "请找到您的座位\n"
+	.string "开始您的交换。$"
 
 @ Unused, leftover from RS
 RecordCorner_Text_ThanksForComing::
 	.string "ごりよう　ありがとう　ございました$"
 
 CableClub_Text_TrainerCardDataOverwritten::
-	.string "The TRAINER CARD data will\n"
-	.string "be overwritten.$"
+	.string "训练家卡片的记录\n"
+	.string "会被记录下来。$"
 
 CableClub_Text_HopeToSeeYouAgain::
-	.string "I hope to see you again!$"
+	.string "我期待下次和你再见！$"
 
 CableClub_Text_NotSetUpForFarAwayRegion::
-	.string "I'm awfully sorry.\p"
-	.string "We're not set up to conduct trades\n"
-	.string "with TRAINERS far away in another\l"
-	.string "region yet…$"
+	.string "我感到很抱歉。\p"
+	.string "我们现在还没有开设\n"
+	.string "与远方的训练家\l"
+	.string "的通信服务……$"
 
 CableClub_Text_OtherTrainerNotReady::
-	.string "The other TRAINER is not ready.$"
+	.string "另外的训练家没有准备好。$"
 
 CableClub_Text_YouHaveAMonThatCantBeTaken::
-	.string "You have at least one POKéMON\n"
-	.string "that can't be taken.$"
+	.string "你拥有至少一只\n"
+	.string "不能带进去的宝可梦。$"
 
 CableClub_Text_AdapterNotConnected::
-	.string "The Wireless Adapter is not\n"
-	.string "connected properly.$"
+	.string "无线接收器\n"
+	.string "没有正确的连接$"
 
 CableClub_Text_ParticipantsStepUpToCounter::
-	.string "Participants are asked to step up\n"
-	.string "to the reception counter.$"
+	.string "参加游戏的人\n"
+	.string "已经到了前台了。$"
 
 @ Unused, translated in Emerald
 CableClub_Text_Hello::
@@ -1458,16 +1456,16 @@ CableClub_Text_PleaseWait::
 	.string "しょうしょう　おまちください$"
 
 CableClub_Text_YouMayTradeHere::
-	.string "You may trade your POKéMON here\n"
-	.string "with another TRAINER.$"
+	.string "你可以在这里和其它的训练家\n"
+	.string "交换宝可梦。$"
 
 CableClub_Text_YouMayBattleHere::
-	.string "You may battle with your friends\n"
-	.string "here.$"
+	.string "你可以在这里\n"
+	.string "和你的朋友对战。$"
 
 CableClub_Text_CanMakeBerryPowder::
-	.string "Two to five TRAINERS can make\n"
-	.string "BERRY POWDER together.$"
+	.string "两到五名训练家\n"
+	.string "可以在一起做树果粉末。$"
 
 @ Unused, Record Mix nopped
 CableClub_Text_CanMixRecords::
@@ -1475,7 +1473,7 @@ CableClub_Text_CanMixRecords::
 	.string "あそびかたを　せつめいします$"
 
 CableClub_Text_CancelSelectedItem::
-	.string "Cancels the selected MENU item.$"
+	.string "取消登录的菜单道具。$"
 
 @ Unused, translated in Emerald
 CableClub_Text_WhichBattleMode::
@@ -1486,23 +1484,23 @@ CableClub_Text_ReturnsToPreviousStep::
 	.string "ひとつ　まえに　もどります$"
 
 CableClub_Text_NeedBerryForBerryCrush::
-	.string "To use the BERRY CRUSH service,\n"
-	.string "you must have at least one BERRY.$"
+	.string "想要使用树果混合服务，\n"
+	.string "你需要至少一个树果。$"
 
 CableClub_Text_NeedTwoMonsForUnionRoom::
-	.string "To enter the UNION ROOM, you must\n"
-	.string "have at least two POKéMON.$"
+	.string "想要进入联盟交谊厅，\n"
+	.string "你至少得有两只宝可梦。$"
 
 CableClub_Text_NoEnigmaBerryInUnionRoom::
-	.string "No POKéMON holding the {STR_VAR_1}\n"
-	.string "BERRY may enter the UNION ROOM.$"
+	.string "宝可梦都没有装备{B_COPY_VAR_1}\n"
+	.string "树果才能进入联盟交谊厅。$"
 
 CableClub_Text_UnionRoomAdapterNotConnected::
-	.string "This is the POKéMON WIRELESS CLUB\n"
-	.string "UNION ROOM.\p"
-	.string "Unfortunately, your Wireless\n"
-	.string "Adapter is not connected properly.\p"
-	.string "Please do come again.$"
+	.string "这里是宝可梦无线俱乐部\n"
+	.string "联盟交谊厅。\p"
+	.string "不幸的是，你的\n"
+	.string "无线接收器没有正确连接。\p"
+	.string "请再次光临。$"
 
 @ Unused, translated in Emerald
 CableClub_Text_OhExcuseMe::
@@ -1510,66 +1508,66 @@ CableClub_Text_OhExcuseMe::
 	.string "おきゃくさま！$"
 
 Text_PlayerIsPlayingRightNowGoForIt::
-	.string "It appears as if {STR_VAR_1} is playing\n"
-	.string "right now.\l"
-	.string "Go for it!$"
+	.string "看来{B_COPY_VAR_1}已经玩得很\n"
+	.string "顺利了。\l"
+	.string "上吧！$"
 
 Text_DescribeWhichGame::
-	.string "I can explain game rules to you,\n"
-	.string "if you'd like.\p"
-	.string "Which game should I describe?$"
+	.string "如果你乐意，\n"
+	.string "我会告诉你游戏规则。\p"
+	.string "哪个游戏需要我的说明？$"
 
 Text_PokemonJumpInfo::
-	.string "“POKéMON JUMP”\p"
-	.string "Make your POKéMON skip the\n"
-	.string "VINE WHIP rope with the A Button.\p"
-	.string "Only mini POKéMON around 28 inches\n"
-	.string "or less may participate.\p"
-	.string "POKéMON that only swim, burrow, or\n"
-	.string "fly are not good at jumping.\p"
-	.string "As a result, those POKéMON may not\n"
-	.string "participate.\p"
-	.string "Good things happen if everyone\n"
-	.string "jumps in time.$"
+	.string "“宝可梦跳绳”\p"
+	.string "让你的宝可梦\n"
+	.string "按A键跳过藤鞭做的绳子。\p"
+	.string "只有那些小于28英寸的宝可梦\n"
+	.string "能够参加这个游戏。\p"
+	.string "只能生活在水中，地洞中和空中\n"
+	.string "的宝可梦对跳跃不删长\p"
+	.string "所以呢，这些宝可梦\n"
+	.string "也不能参加这个游戏。\p"
+	.string "如果每个人在规定时间内完成游戏\n"
+	.string "就会有好事情发生。$"
 
 Text_DodrioBerryPickingInfo::
-	.string "“DODRIO BERRY-PICKING”\p"
-	.string "Command DODRIO's three heads to\n"
-	.string "catch falling BERRIES.\p"
-	.string "Press right, up, or left on the\n"
-	.string "{PLUS} Control Pad to move the heads.\p"
-	.string "To play this game, you must have\n"
-	.string "a DODRIO.$"
+	.string "“嘟嘟利摘树果”\p"
+	.string "控制嘟嘟利的三个头\n"
+	.string "收集掉落的树果。\p"
+	.string "按十字键的\n"
+	.string "右，上，左键控制头部。\p"
+	.string "想要玩这个游戏，\n"
+	.string "你必须拥有一只嘟嘟利。$"
 
 Text_TalkToManToPlay::
-	.string "If you want to play a game,\n"
-	.string "please tell the man beside me.$"
+	.string "如果你想玩游戏，\n"
+	.string "和我旁边这个男人说吧。$"
 
 Text_WelcomeCanYouWait::
-	.string "Hi, welcome!\n"
-	.string "You can play games over the\l"
-	.string "Wireless Communication System.\p"
-	.string "Can you wait just a little bit?$"
+	.string "嗨，欢迎！\n"
+	.string "通过无线连接系统\l"
+	.string "你可以玩到这个游戏！\p"
+	.string "可以请你稍微等一下吗？$"
 
 CableClub_Text_ComeAgain::
-	.string "All right, come again!$"
+	.string "没问题，请再来！$"
 
 Text_AdapterNotConnectedMinigame::
-	.string "The Wireless Adapter isn't\n"
-	.string "connected.\p"
-	.string "Come back when it's hooked up!$"
+	.string "无线接收器\n"
+	.string "没有连接好。\p"
+	.string "请等它连接好了再来！$"
 
 Text_PlayWhichGame::
-	.string "All right, which game did you want\n"
-	.string "to play?$"
+	.string "好的，哪一个是你想要玩\n"
+	.string "的游戏？$"
 
 Text_EnterWhichPokemon::
-	.string "Which POKéMON would you like to\n"
-	.string "enter?$"
+	.string "那只宝可梦是你想要\n"
+	.string "带进去的？$"
 
 Text_AllGoodToGo::
-	.string "Okay, you're all good to go.\n"
-	.string "Don't let the others beat you!$"
+	.string "好了，一切都准备好了。\n"
+	.string "可别让其他人把你给打败了！$"
 
 @ Unused, translated in Emerald
 Text_LeavingDoComeAgain::
@@ -1577,25 +1575,25 @@ Text_LeavingDoComeAgain::
 	.string "またこいよ！$"
 
 EventScript_ExplainPokemonJumpRequirements::
-	.string "It doesn't look like you have any\n"
-	.string "POKéMON that you can enter…\p"
-	.string "Would you like me to explain what\n"
-	.string "kinds of POKéMON can enter?$"
+	.string "看起来你没有能\n"
+	.string "带得进去的宝可梦……\p"
+	.string "需要我告诉你\n"
+	.string "哪些宝可梦可以被带进去吗？$"
 
 Text_ShortJumpingPokemonAllowed::
-	.string "“POKéMON JUMP” is open to POKéMON\n"
-	.string "around 28 inches or less.\p"
-	.string "What you can't enter are those\n"
-	.string "POKéMON that can't jump.\p"
-	.string "You know, like POKéMON that only\n"
-	.string "swim, burrow, or fly.\p"
-	.string "That's all you need to know.$"
+	.string "“宝可梦跳绳”只对\n"
+	.string "尺寸小于28英寸的宝可梦开放。\p"
+	.string "不能跳跃的\n"
+	.string "宝可梦也不能带进去。\p"
+	.string "你懂的，我时说那些宝可梦\n"
+	.string "只能生活在水中，洞中，空中的。\p"
+	.string "这是你必须知道的。$"
 
 Text_OnlyDodrioAllowed::
-	.string "“DODRIO BERRY-PICKING”…\n"
-	.string "Well, the name says it all.\p"
-	.string "You have to have a DODRIO to play\n"
-	.string "this game.$"
+	.string "“嘟嘟利摘树果”……\n"
+	.string "嗯，这个名字说明了一切。\p"
+	.string "要玩这个游戏\n"
+	.string "你得拥有一只嘟嘟利。$"
 
 @ Unused, translated in Emerald
 Text_RetryFromStartPlease::
@@ -1603,152 +1601,146 @@ Text_RetryFromStartPlease::
 	.string "やりなおして　みて　くれ$"
 
 CableClub_Text_WelcomeWhichDirectCornerRoom::
-	.string "Welcome to the POKéMON WIRELESS\n"
-	.string "CLUB DIRECT CORNER.\p"
-	.string "You may interact directly with\n"
-	.string "your friends here.\p"
-	.string "Which room would you like to\n"
-	.string "enter?$"
+	.string "欢迎来到宝可梦无线\n"
+	.string "俱乐部直连房间。\p"
+	.string "你可以在这里直接\n"
+	.string "和你的朋友互动。\p"
+	.string "你想进\n"
+	.string "哪一个房间？$"
 
 CableClub_Text_TradePokemon::
-	.string "Would you like to trade POKéMON?$"
+	.string "你想要交换宝可梦？$"
 
 CableClub_Text_PlayWhichBattleMode::
-	.string "Which Battle Mode would you like\n"
-	.string "to play?$"
+	.string "哪一种战斗模式\n"
+	.string "是你想要参加的？$"
 
 CableClub_Text_UseBerryCrush::
-	.string "Would you like to use the\n"
-	.string "BERRY CRUSH System?$"
+	.string "你想要使用\n"
+	.string "树果混合系统？$"
 
 CableClub_Text_ExplainBattleModes::
-	.string "There are three Battle Modes.\p"
-	.string "SINGLE BATTLE is for two TRAINERS\n"
-	.string "with one or more POKéMON each.\p"
-	.string "Each TRAINER can have one POKéMON\n"
-	.string "in battle at a time.\p"
-	.string "DOUBLE BATTLE is for two TRAINERS\n"
-	.string "with two or more POKéMON each.\p"
-	.string "Each TRAINER will send out two\n"
-	.string "POKéMON in battle at a time.\p"
-	.string "MULTI BATTLE is for four TRAINERS\n"
-	.string "with one or more POKéMON each.\p"
-	.string "Each TRAINER can have one POKéMON\n"
-	.string "in battle at a time.$"
+	.string "这里有三种战斗模式。\p"
+	.string "单人对战需要两名训练家\n"
+	.string "拥有一只或一只以上的宝可梦。\p"
+	.string "战斗时每名训练家\n"
+	.string "只能使用一只宝可梦。\p"
+	.string "双人对战需要两名训练家\n"
+	.string "拥有两只以上的宝可梦。\p"
+	.string "每名训练家战斗时\n"
+	.string "能使用两只宝可梦。\p"
+	.string "多人对战是为四名训练家\n"
+	.string "和至少一只的宝可梦准备的。\p"
+	.string "每名训练家战斗时\n"
+	.string "可以使用一只宝可梦。$"
 
 CableClub_Text_ChooseGroupLeaderOfTwo::
-	.string "Please decide which of you two\n"
-	.string "will become the LEADER.\p"
-	.string "The other player must then choose\n"
-	.string "“JOIN GROUP.”$"
+	.string "请决定\n"
+	.string "你们两个人谁会成为队长。\p"
+	.string "另外一个玩家选择\n"
+	.string "“加入队伍。”$"
 
 CableClub_Text_ChooseGroupLeaderOfFour::
-	.string "Please decide which of you four\n"
-	.string "will become the GROUP LEADER.\p"
-	.string "The other players must then choose\n"
-	.string "“JOIN GROUP.”$"
+	.string "请决定\n"
+	.string "你们四个人谁会成为队长。\p"
+	.string "另外的玩家选择\n"
+	.string "“加入队伍。”$"
 
 CableClub_Text_ChooseGroupLeader::
-	.string "Please decide which of you will\n"
-	.string "become the GROUP LEADER.\p"
-	.string "The other players must then choose\n"
-	.string "“JOIN GROUP.”$"
+	.string "请决定\n"
+	.string "你们谁会成为队长。\p"
+	.string "另外一个玩家选择\n"
+	.string "“加入队伍。”$"
 
 CableClub_Text_WelcomeUnionRoomEnter::
-	.string "Welcome to the POKéMON WIRELESS\n"
-	.string "CLUB UNION ROOM.\p"
-	.string "You may interact directly with\n"
-	.string "other TRAINERS here, some of\l"
-	.string "whom you may not even know.\p"
-	.string "Would you like to enter the ROOM?$"
+	.string "欢迎来到宝可梦无线\n"
+	.string "俱乐部联盟交谊厅。\p"
+	.string "你可以和其它\n"
+	.string "训练家在这里互动，\l"
+	.string "可能当中会有你不认识的人。\p"
+	.string "你想要进入这个房间吗？$"
 
 CableClub_Text_UnionRoomInfo::
-	.string "The TRAINERS in the UNION ROOM\n"
-	.string "will be those players around you\l"
-	.string "who have also entered the ROOM.\p"
-	.string "You may do all sorts of things\n"
-	.string "here, such as exchanging greetings.\p"
-	.string "You may enter two POKéMON up to\n"
-	.string "Lv. 30 for a one-on-one battle.\p"
-	.string "You may take part in a chat with\n"
-	.string "two to five people.\p"
-	.string "Or, you may register a POKéMON for\n"
-	.string "trade.\p"
-	.string "Would you like to enter the ROOM?$"
+	.string "在联盟交谊厅的训练家\n"
+	.string "可能是在你身边\l"
+	.string "也进入了这个房间的玩家。\p"
+	.string "你在这里可以做各种事。\n"
+	.string "比如相互问候。\p"
+	.string "带着30级以上的宝可梦\n"
+	.string "来场一对一的战斗\p"
+	.string "你可以和\n"
+	.string "二到五个人聊天。\p"
+	.string "或者，你也可以登记你的宝可梦\n"
+	.string "进行交换。\p"
+	.string "你想要进入房间吗？$"
 
 CableClub_Text_EnjoyUnionRoom::
-	.string "I hope you enjoy your time in\n"
-	.string "the UNION ROOM.$"
+	.string "希望你能在\n"
+	.string "联盟交谊厅度过难忘的时光。$"
 
 CableClub_Text_FirstTimeRightThisWay::
-	.string "Hello!\n"
-	.string "My name is TEALA.\p"
-	.string "This must be your first time\n"
-	.string "up here.\p"
-	.string "I'll show you how the Wireless\n"
-	.string "Communication System works.\p"
-	.string "First, I need to show you this\n"
-	.string "floor of our POKéMON CENTER.\p"
-	.string "Right this way, please.$"
+	.string "你好！\n"
+	.string "我叫小菜。\p"
+	.string "你应该是\n"
+	.string "第一次来这里的吧！\p"
+	.string "我会告诉你无线\n"
+	.string "连接系统式怎样工作的。\p"
+	.string "首先，我会向你展示\n"
+	.string "我们宝可梦中心每层楼。\p"
+	.string "请这边走。$"
 
 CableClub_Text_ExplainWirelessClubFirstTime::
-	.string "On the top floor, there are two\n"
-	.string "rooms.\p"
-	.string "First, the room on the left.\n"
-	.string "It's the UNION ROOM.\p"
-	.string "You may link up with TRAINERS\n"
-	.string "around you who have also entered\l"
-	.string "the UNION ROOM.\p"
-	.string "With them, you may do things like\n"
-	.string "chat, battle, and trade.\p"
-	.string "Second, the room on the right is\n"
-	.string "the DIRECT CORNER.\p"
-	.string "You may trade or battle POKéMON\n"
-	.string "with your friends in this room.\p"
-	.string "If the Wireless Adapter isn't\n"
-	.string "connected, you may still link up\l"
-	.string "using a GBA Game Link cable.\p"
-	.string "If that is the case, you must go\n"
-	.string "to the DIRECT CORNER.\p"
-	.string "I hope you enjoy the Wireless \n"
-	.string "Communication System.$"
+	.string "在最顶层\n"
+	.string "有两个房间。\p"
+	.string "首先，在左边的这个房间\n"
+	.string "叫做联盟交谊厅。\p"
+	.string "你可以和其它\n"
+	.string "在你身边同样进入了\l"
+	.string "联盟交谊厅的训练家们通信。\p"
+	.string "和他们在一起，\n"
+	.string "你可以做一些像聊天，交换，对战的事。\p"
+	.string "然后，在右边的这个房间\n"
+	.string "叫做直连房间。\p"
+	.string "你可以和你的朋友在这个房间里\n"
+	.string "对战和交换宝可梦。\p"
+	.string "如果无线接收器不能正常\n"
+	.string "工作，你可以\l"
+	.string "使用GBA连接线。\p"
+	.string "如果是那样的话，\n"
+	.string "你必须得去直连房间了。\p"
+	.string "我希望你能在无线\n"
+	.string "通信系统里度过难忘的时光。$"
 
 CableClub_Text_AskAboutLinking::
-	.string "Hello, {PLAYER}!\p"
-	.string "It's me, TEALA, the POKéMON\n"
-	.string "CENTER 2F attendant.\p"
-	.string "Is there something you needed to\n"
-	.string "ask me about linking?$"
+	.string "你好，{PLAYER}！\p"
+	.string "是我，小菜，\n"
+	.string "宝可梦中心2楼的接待。\p"
+	.string "关于通信的事\n"
+	.string "你有需要问我的吗？$"
 
 CableClub_Text_ExplainWirelessClub::
-	.string "Let me explain how the POKéMON\n"
-	.string "WIRELESS CLUB works.\p"
-	.string "On this, the top floor, there are\n"
-	.string "two rooms.\p"
-	.string "First, the room on the left.\n"
-	.string "It's the UNION ROOM.\p"
-	.string "You may link up with TRAINERS\n"
-	.string "around you who have also entered\l"
-	.string "the UNION ROOM.\p"
-	.string "With them, you may do things like\n"
-	.string "chat, battle, and trade.\p"
-	.string "Second, the room on the right is\n"
-	.string "the DIRECT CORNER.\p"
-	.string "You may trade or battle POKéMON\n"
-	.string "with your friends in this room.\p"
-	.string "Sometimes, you may not be able to\n"
-	.string "find your friends in the UNION ROOM\l"
-	.string "or the DIRECT CORNER.\p"
-	.string "In that case, please move closer\n"
-	.string "to your friends.\p"
-	.string "If the Wireless Adapter isn't\n"
-	.string "connected, you may still link up\l"
-	.string "using a GBA Game Link cable.\p"
-	.string "If that is the case, you must go\n"
-	.string "to the DIRECT CORNER.\p"
-	.string "I hope you enjoy the Wireless \n"
-	.string "Communication System.$"
+	.string "让我来告诉你\n"
+	.string "宝可梦无线俱乐部是怎样运作的。\p"
+	.string "在最顶层\n"
+	.string "有两个房间。\p"
+	.string "首先，在左边的这个房间\n"
+	.string "叫做联盟交谊厅。\p"
+	.string "你可以和其它\n"
+	.string "在你身边同样进入了\l"
+	.string "联盟交谊厅的训练家通信。\p"
+	.string "和他们在一起，\n"
+	.string "你可以做一些像聊天，交换，对战的事。\p"
+	.string "然后，在右边的这个房间\n"
+	.string "叫做直连房间。\p"
+	.string "你可以和你的朋友在这个房间里\n"
+	.string "对战和交换宝可梦。\p"
+	.string "如果无线接收器不能正常\n"
+	.string "使用GBA连接线。\p"
+	.string "如果是那样的话，\n"
+	.string "你必须得去直连房间了。\p"
+	.string "我希望你能在无线\n"
+	.string "通信系统里度过难忘的时光。$"
 
 CableClub_Text_HopeYouEnjoyWirelessSystem::
-	.string "I hope you enjoy the Wireless\n"
-	.string "Communication System.$"
+	.string "我希望你能在无线\n"
+	.string "通信系统里度过难忘的时光。$"

@@ -1,12 +1,12 @@
 SSAnne_1F_Room5_Text_ArthurIntro::
-    .string "You insolent pup!\n"
-    .string "How dare you barge in!$"
+    .string "嗯，你是？进来也不敲门，\n"
+    .string "这是个没礼貌的孩子！$"
 
 SSAnne_1F_Room5_Text_ArthurDefeat::
-    .string "Humph! You rude child!\n"
-    .string "You have no sense of courtesy!$"
+    .string "哼！\n"
+    .string "你可真是没礼貌。$"
 
 SSAnne_1F_Room5_Text_ArthurPostBattle::
-    .string "I wish to be left alone!\n"
-    .string "Get out!$"
+    .string "我想一个人呆着。\n"
+    .string "你给我出去！$"
 

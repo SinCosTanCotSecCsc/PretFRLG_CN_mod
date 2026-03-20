@@ -1,29 +1,28 @@
 Text_MayIHelpYou::
-	.string "Hi, there!\n"
-	.string "May I help you?$"
+	.string "嗨！\n"
+	.string "有什么能帮到你的吗？$"
 
 Text_FillOutQuestionnaire::
-	.string "There is a questionnaire.\n"
-	.string "Would you like to fill it out?$"
+	.string "这儿有一个调查表，\n"
+	.string "可以麻烦你填一下可以吗？$"
 
 Text_QuestionnaireThankYou::
-	.string "Thank you for taking the time to\n"
-	.string "fill out our questionnaire.\p"
-	.string "Your feedback will be used for\n"
-	.string "future reference.$"
+	.string "非常感谢！\p"
+	.string "你所反馈的建议\n"
+	.string "将会被用在未来的建设上！$"
 
 Text_YouKnowThoseWords::
-	.string "Oh, hello!\n"
-	.string "You know those words?\p"
-	.string "That means you must know about\n"
-	.string "the MYSTERY GIFT.\p"
-	.string "From now on, you should be\n"
-	.string "receiving MYSTERY GIFTS!$"
+	.string "哦，嗨！\n"
+	.string "你知道这些关键字？\p"
+	.string "那你一定知道\n"
+	.string "神秘礼物了？\p"
+	.string "从现在起，你就可以收到\n"
+	.string "神秘礼物了！$"
 
 Text_YouCanAccessMysteryGift::
-	.string "Once you save your game, you can\n"
-	.string "access the MYSTERY GIFT.$"
+	.string "当你下次存档时，\n"
+	.string "你就可以开启神秘礼物了。$"
 
 Text_ThankYouForAccessingMysteryGift::
-	.string "Thank you for accessing the\n"
-	.string "MYSTERY GIFT System.$"
+	.string "感谢您使用\n"
+	.string "神秘礼物系统。$"

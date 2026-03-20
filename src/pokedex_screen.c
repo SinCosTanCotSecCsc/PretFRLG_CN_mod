@@ -2705,56 +2705,92 @@ void DexScreen_PrintMonCategory(u8 windowId, u16 species, u8 x, u8 y)
 
 void DexScreen_PrintMonHeight(u8 windowId, u16 species, u8 x, u8 y)
 {
-    u16 height;
-    u32 inches, feet;
-    const u8 *labelText;
+    u16 weight;
+    u32 lbs;
+    bool8 output;
+    const u8 * labelText;
+    const u8 * lbsText;
     u8 buffer[32];
     u8 i;
+    u32 j;
 
     species = SpeciesToNationalPokedexNum(species);
-    height = gPokedexEntries[species].height;
+    weight = gPokedexEntries[species].height;
     labelText = gText_HT;
+    lbsText = gText_PokedexQuotationMark;
 
     i = 0;
     buffer[i++] = EXT_CTRL_CODE_BEGIN;
     buffer[i++] = EXT_CTRL_CODE_MIN_LETTER_SPACING;
     buffer[i++] = 5;
-    buffer[i++] = CHAR_SPACE;
 
     if (DexScreen_GetSetPokedexFlag(species, FLAG_GET_CAUGHT, FALSE))
     {
-        inches = 10000 * height / 254; // actually tenths of inches here
-        if (inches % 10 >= 5)
-            inches += 10;
-        feet = inches / 120;
-        inches = (inches - (feet * 120)) / 10;
-        if (feet / 10 == 0)
+        // lbs = (weight * 100000) / 4536; // Convert to hundredths of lb
+        lbs = weight * 10;
+
+        // Round up to the nearest 0.1 lb
+        if (lbs % 10 >= 5)
+            lbs += 10;
+
+        output = FALSE;
+
+        if ((buffer[i] = (lbs / 100000) + CHAR_0) == CHAR_0 && !output)
         {
-            buffer[i++] = 0;
-            buffer[i++] = feet + CHAR_0;
+            buffer[i++] = CHAR_SPACE;
         }
         else
         {
-            buffer[i++] = feet / 10 + CHAR_0;
-            buffer[i++] = feet % 10 + CHAR_0;
+            output = TRUE;
+            i++;
         }
-        buffer[i++] = CHAR_SGL_QUOTE_RIGHT;
-        buffer[i++] = inches / 10 + CHAR_0;
-        buffer[i++] = inches % 10 + CHAR_0;
-        buffer[i++] = CHAR_DBL_QUOTE_RIGHT;
-        buffer[i++] = EOS;
+
+        lbs %= 100000;
+        if ((buffer[i] = (lbs / 10000) + CHAR_0) == CHAR_0 && !output)
+        {
+            buffer[i++] = CHAR_SPACE;
+        }
+        else
+        {
+            output = TRUE;
+            i++;
+        }
+
+        lbs %= 10000;
+        if ((buffer[i] = (lbs / 1000) + CHAR_0) == CHAR_0 && !output)
+        {
+            buffer[i++] = CHAR_SPACE;
+        }
+        else
+        {
+            output = TRUE;
+            i++;
+        }
+
+        lbs %= 1000;
+        buffer[i++] = (lbs / 100) + CHAR_0;
+        lbs %= 100;
+        buffer[i++] = CHAR_PERIOD;
+        buffer[i++] = (lbs / 10) + CHAR_0;
     }
     else
     {
         buffer[i++] = CHAR_QUESTION_MARK;
         buffer[i++] = CHAR_QUESTION_MARK;
-        buffer[i++] = CHAR_SGL_QUOTE_RIGHT;
         buffer[i++] = CHAR_QUESTION_MARK;
         buffer[i++] = CHAR_QUESTION_MARK;
-        buffer[i++] = CHAR_DBL_QUOTE_RIGHT;
+        buffer[i++] = CHAR_PERIOD;
+        buffer[i++] = CHAR_QUESTION_MARK;
     }
+    buffer[i++] = CHAR_SPACE;
+    buffer[i++] = EXT_CTRL_CODE_BEGIN;
+    buffer[i++] = EXT_CTRL_CODE_MIN_LETTER_SPACING;
+    buffer[i++] = 0;
 
-    buffer[i++] = EOS;
+    for (j = 0; j < 33 - i && lbsText[j] != EOS; j++)
+        buffer[i + j] = lbsText[j];
+
+    buffer[i + j] = EOS;
     DexScreen_AddTextPrinterParameterized(windowId, FONT_SMALL, labelText, x, y, 0);
     x += 30;
     DexScreen_AddTextPrinterParameterized(windowId, FONT_SMALL, buffer, x, y, 0);
@@ -2783,7 +2819,8 @@ void DexScreen_PrintMonWeight(u8 windowId, u16 species, u8 x, u8 y)
 
     if (DexScreen_GetSetPokedexFlag(species, FLAG_GET_CAUGHT, FALSE))
     {
-        lbs = (weight * 100000) / 4536; // Convert to hundredths of lb
+        // lbs = (weight * 100000) / 4536; // Convert to hundredths of lb
+        lbs = weight * 10;
 
         // Round up to the nearest 0.1 lb
         if (lbs % 10 >= 5)

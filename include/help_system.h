@@ -86,6 +86,7 @@ s32 HelpSystem_GetMenuInput(void);
 void HS_UpdateMenuScrollArrows(void);
 
 void DecompressAndRenderGlyph(u8 fontId, u16 glyph, struct Bitmap *srcBlit, struct Bitmap *destBlit, u8 *destBuffer, u8 x, u8 y, u8 width, u8 height);
+void DecompressAndRenderGlyphChinese(u8 fontId, u16 glyph, struct Bitmap *srcBlit, struct Bitmap *destBlit, u8 *destBuffer, u8 x, u8 y, u8 width, u8 height);
 void HelpSystem_PrintTextInTopLeftCorner(const u8 * str);
 void HelpSystem_FillPanel3(void);
 void PrintListMenuItems(void);

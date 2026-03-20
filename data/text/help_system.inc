@@ -1,1112 +1,1104 @@
 Help_Text_WhatShouldIDo::
-	.string "What should I do in this situation?$"
+	.string "在这种情况下我应该做什么？$"
 
 Help_Text_HowDoIDoThis::
-	.string "How do I do this?$"
+	.string "我要怎样做？$"
 
 Help_Text_WhatDoesThisTermMean::
-	.string "What does this term mean?$"
+	.string "这个术语是什么意思？$"
 
 Help_Text_AboutThisGame::
-	.string "About this game$"
+	.string "关于本游戏$"
 
 Help_Text_TypeMatchupList::
-	.string "Type Matchup List$"
+	.string "属性相克表$"
 
 Help_Text_Exit::
-	.string "EXIT$"
+	.string "退出$"
 
 Help_Text_Cancel::
-	.string "CANCEL$"
+	.string "取消$"
 
 Help_Text_TryDoingItOnYourOwn::
 	.string "じぶんの ちからで やってみよう！$"
 
 Help_Text_DescWhatShouldIDo::
-	.string "Select to obtain hints for getting\n"
-	.string "over challenging situations.$"
+	.string "在战斗中\n"
+	.string "获得有利的暗示。$"
 
 Help_Text_DescHowDoIDoThis::
-	.string "Detailed instructions are given for\n"
-	.string "various operations.$"
+	.string "细节说明是为\n"
+	.string "不同的操作所准备的。$"
 
 Help_Text_DescWhatDoesThisTermMean::
-	.string "Detailed descriptions are given for\n"
-	.string "terms that appear in the game.$"
+	.string "细节描述是给在游戏中\n"
+	.string "出现的术语所准备的。$"
 
 Help_Text_DescAboutThisGame::
-	.string "Detailed descriptions are given\n"
-	.string "about this game.$"
+	.string "在游戏中，可以获得\n"
+	.string "细节描述。$"
 
 Help_Text_DescTypeMatchupList::
-	.string "The matchups of  POKéMON types\n"
-	.string "and moves are listed.$"
+	.string "列出了\n"
+	.string "宝可梦和招式的种类。$"
 
 Help_Text_DescExit::
-	.string "Select to exit the HELP System.$"
+	.string "按下则退出帮助系统。$"
 
 Help_Text_Greetings::
-	.string "Greetings! This is the HELP System.\n"
-	.string "Call me up whenever and wherever you\l"
-	.string "need by pressing the L or R Button.\l"
-	.string "The help messages change to suit the\l"
-	.string "situation, so check them often, please.$"
+	.string "嗨！这是帮助系统！\n"
+	.string "无论何时何地，遇到问题\l"
+	.string "就按下L或R键打开它吧！\l"
+	.string "针对不同的情况，帮助的信息也会改变。\l"
+	.string "因此，请多多使用帮助系统吧！$"
 
 Help_Text_PlayingForFirstTime::
-	.string "I'm playing for the first time. Help!$"
+	.string "我第一玩这个游戏！求助！$"
 
 Help_Text_WhatShouldIBeDoing::
-	.string "What should I be doing?$"
+	.string "我应该做什么？$"
 
 Help_Text_CantGetOutOfRoom::
-	.string "I can't get out of a room!$"
+	.string "我不能从房间里出去。$"
 
 Help_Text_CantFindPersonIWant::
-	.string "I can't find the person I want.$"
+	.string "我找不到我想找的人。$"
 
 Help_Text_TalkedToEveryoneNowWhat::
-	.string "I've talked to everyone. Now what?$"
+	.string "我不得不和每个人对话。要怎么办？$"
 
 Help_Text_SomeoneBlockingMyWay::
-	.string "There's someone blocking my way!$"
+	.string "有人挡在我的路上！$"
 
 Help_Text_ICantGoOn::
-	.string "I can't go on!$"
+	.string "我无法继续了！$"
 
 Help_Text_OutOfThingsToDo::
-	.string "I'm out of things to do.$"
+	.string "我没有事可做了！$"
 
 Help_Text_WhatHappenedToItemIGot::
-	.string "What happened to the item I got?$"
+	.string "我得到的道具有何用处？$"
 
 Help_Text_WhatAreMyAdventureBasics::
-	.string "What are the basics of my adventure?$"
+	.string "我的冒险的基本知识？$"
 
 Help_Text_HowAreRoadsForestsDifferent::
-	.string "How are roads and forests different?$"
+	.string "路和树林有多大的不同？$"
 
 Help_Text_HowAreCavesDifferent::
-	.string "How are caves different?$"
+	.string "洞穴有何不同？$"
 
 Help_Text_HowDoIProgress::
-	.string "How do I progress?$"
+	.string "我该如何继续？$"
 
 Help_Text_WhenCanIUseItem::
-	.string "When can I use items?$"
+	.string "我何时可以使用物品？$"
 
 Help_Text_WhatsABattle::
-	.string "What's a battle?$"
+	.string "战斗是什么？$"
 
 Help_Text_HowDoIPrepareForBattle::
-	.string "How do I prepare for battle?$"
+	.string "我要如何准备战斗？$"
 
 Help_Text_WhatIsAMonsVitality::
-	.string "What is a POKéMON's vitality?$"
+	.string "宝可梦的体力是什么？$"
 
 Help_Text_MyMonsAreHurt::
-	.string "My POKéMON are hurt!$"
+	.string "我的宝可梦受伤了！$"
 
 Help_Text_WhatIsStatusProblem::
-	.string "What is a status problem?$"
+	.string "状态是什么？$"
 
 Help_Text_WhatHappensIfAllMyMonsFaint::
-	.string "What happens if all my POKéMON faint?$"
+	.string "如果我所有宝可梦都倒下了会怎样？$"
 
 Help_Text_CantCatchMons::
-	.string "I can't catch POKéMON!$"
+	.string "我没有办法收服宝可梦！$"
 
 Help_Text_RanOutOfPotions::
-	.string "I ran out of POTIONS.$"
+	.string "我没有伤药了！$"
 
 Help_Text_CanIBuyPokeBalls::
-	.string "Can I buy POKé BALLS?$"
+	.string "我能买精灵球吗？$"
 
 Help_Text_WhatsATrainer::
-	.string "What's a TRAINER?$"
+	.string "训练家是什么？$"
 
 Help_Text_HowDoIWinAgainstTrainer::
-	.string "How do I win against a TRAINER?$"
+	.string "我如何打赢一个训练家？$"
 
 Help_Text_WhereDoMonsAppear::
-	.string "Where do POKéMON appear?$"
+	.string "宝可梦在哪儿出现？$"
 
 Help_Text_WhatAreMoves::
-	.string "What are POKéMON moves?$"
+	.string "宝可梦的招式是什么？$"
 
 Help_Text_WhatAreHiddenMoves::
-	.string "What are HIDDEN moves?$"
+	.string "秘传招式是什么？$"
 
 Help_Text_WhatMovesShouldIUse::
-	.string "What moves should I use?$"
+	.string "我应该使用什么招式？$"
 
 Help_Text_WantToAddMoreMoves::
-	.string "I want to add more moves.$"
+	.string "我想增加更多招式。$"
 
 Help_Text_WantToMakeMonStronger::
-	.string "I want to make my POKéMON stronger.$"
+	.string "我想让我的宝可梦更强大。$"
 
 Help_Text_FoeMonsTooStrong::
-	.string "The foe POKéMON are too strong!$"
+	.string "对手的宝可梦太强了！$"
 
 Help_Text_WhatDoIDoInCave::
-	.string "What do I do in a cave?$"
+	.string "在洞穴里我要做什么？$"
 
 Help_Text_NothingIWantToKnow::
-	.string "There's nothing that I want to know!$"
+	.string "我什么也不想知道！$"
 
 Help_Text_WhatsPokemonCenter::
-	.string "What's a POKéMON CENTER?$"
+	.string "宝可梦中心是什么？$"
 
 Help_Text_WhatsPokemonMart::
-	.string "What's a POKéMON MART?$"
+	.string "宝可梦商店是什么？$"
 
 Help_Text_WantToEndGame::
-	.string "I want to end the game.$"
+	.string "我不想结束游戏。$"
 
 Help_Text_WhatsAMon::
-	.string "What's a POKéMON?$"
+	.string "宝可梦是什么？$"
 
 Help_Text_WhatIsThatPersonLike::
-	.string "What is that person like?$"
+	.string "那个人怎么样？$"
 
 Help_Text_WhatDoesHiddenMoveDo::
-	.string "What does a HIDDEN move do?$"
+	.string "一个秘传可以用来干什么？$"
 
 Help_Text_WhatDoIDoInSafari::
-	.string "What do I do in a SAFARI GAME?$"
+	.string "在狩猎地带游戏，我要做什么？$"
 
 Help_Text_WhatAreSafariRules::
-	.string "What are the SAFARI GAME rules?$"
+	.string "狩猎地带游戏的游戏规则？$"
 
 Help_Text_WantToEndSafari::
-	.string "I want to end this SAFARI GAME!$"
+	.string "我想结束狩猎地带游戏！$"
 
 Help_Text_WhatIsAGym::
-	.string "What is a GYM?$"
+	.string "道馆是什么？$"
 
 Help_Text_AnswerPlayingForFirstTime::
-	.string "You become the main character,\n"
-	.string "exploring the world of POKéMON.\l"
-	.string "By talking to people and solving\l"
-	.string "mysteries, new paths will open to you.\l"
-	.string "Strive for the goal together with your\l"
-	.string "wonderful POKéMON.$"
+	.string "你就是探索这个\n"
+	.string "宝可梦世界的主角。\l"
+	.string "通过和人们对话，解决谜题，\l"
+	.string "新的道路就将会向你开启！\l"
+	.string "与你精心培养的宝可梦\l"
+	.string "一起为了目标奋斗吧！$"
 
 Help_Text_AnswerWhatShouldIBeDoing::
-	.string "When you come across another person,\n"
-	.string "go up to them and press the A Button.\l"
-	.string "That will get them to talk and interact\l"
-	.string "with your character. You may also\l"
-	.string "examine various items and objects in\l"
-	.string "the same way. Talk to people and check\l"
-	.string "things often to obtain information.$"
+	.string "当你看到一个另一个人时，\n"
+	.string "走向他们，按下A键。\l"
+	.string "就可以与他们对话了。\l"
+	.string "以同样的方式，\l"
+	.string "你也可以调查不同的道具和物品。\l"
+	.string "经常与人们交谈\l"
+	.string "从而获得更多情报吧！$"
 
 Help_Text_AnswerCantGetOutOfRoom::
-	.string "On the stairs or the exits of a\n"
-	.string "building is a red mat. Move your\l"
-	.string "character to stand on top of the\l"
-	.string "red mat. Press the {PLUS} Control Pad \l"
-	.string "toward the stairs or the exit to\l"
-	.string "advance.$"
+	.string "红色的地毯\n"
+	.string "连接着出口的楼梯。\l"
+	.string "把主角移动到\l"
+	.string "地毯的前面，\l"
+	.string "再按下十字键，\l"
+	.string "就可以离开这里了。$"
 
 Help_Text_AnswerCantFindPersonIWant::
-	.string "This isn't something you should worry\n"
-	.string "about too much.\l"
-	.string "Talk to other people, check signs,\l"
-	.string "check things, and so on.\l"
-	.string "Sometimes, you may need to just move\l"
-	.string "to a new town or place.$"
+	.string "这并不是什么\n"
+	.string "能让你那么担心的事。\l"
+	.string "多与人交谈，检查路标、物品等等。\l"
+	.string "有时，你也许需要\l"
+	.string "去到一个新的城镇。$"
 
 Help_Text_AnswerTalkedToEveryoneNowWhat::
-	.string "Try moving on to a new road, town, or\n"
-	.string "place.$"
+	.string "尝试向新的城镇、道路\n"
+	.string "或者目的地进发吧。$"
 
 Help_Text_AnswerSomeoneBlockingMyWay::
-	.string "There could be something in the town\n"
-	.string "or inside a building that is the cause.\l"
-	.string "Try talking to the people in the area\l"
-	.string "again. If there is a problem that they\l"
-	.string "need solved, you may have to help.\l"
-	.string "Afterwards, try talking to the person\l"
-	.string "blocking your way again.$"
+	.string "在城镇里或者大楼内部\n"
+	.string "可能会有些要“触发”的东西。\l"
+	.string "尝试与那块区域里的人再交流一下。\l"
+	.string "如果他们遇到需要解决的问题，\l"
+	.string "你就需要帮他们。\l"
+	.string "然后，再一次和\l"
+	.string "阻挡你前进的人交涉看看。$"
 
 Help_Text_AnswerICantGoOn::
-	.string "Try talking to people by going up to\n"
-	.string "them and pressing the A Button.\l"
-	.string "Also, try checking things like odd trees\l"
-	.string "and strange rocks with the A Button.\l"
-	.string "Press the {PLUS} Control Pad and try going\l"
-	.string "to places that look impassable, too.$"
+	.string "走向人群，按下A键，\n"
+	.string "多和他们说说话吧。\l"
+	.string "同样，也对那些小树、岩石\l"
+	.string "也按下A键调查看看吧。\l"
+	.string "试着按下十字键\l"
+	.string "去那些看起来无法到达的地方吧。$"
 
 Help_Text_AnswerOutOfThingsToDo::
-	.string "Try going to places where you \n"
-	.string "haven't visited yet.\l"
-	.string "Also, check everything that looks\l"
-	.string "suspicious by pressing the A Button.$"
+	.string "试着去一些\n"
+	.string "你还没有去过的地方。\l"
+	.string "也要按下A键，\l"
+	.string "检查那些看起来可疑的东西。$"
 
 Help_Text_AnswerWhatHappenedToItemIGot::
-	.string "Any item that you are given by another\n"
-	.string "character goes in your BAG.\l"
-	.string "The item is automatically sorted and\l"
-	.string "placed in one of three pockets.\l"
-	.string "For instructions on the BAG's use,\l"
-	.string "please refer to the HELP System's\l"
-	.string "“How do I do this?” heading.$"
+	.string "所有人给你的道具都会\n"
+	.string "放入你的包包。\l"
+	.string "并自动归类。\l"
+	.string "想要知道怎么用包包的话，\l"
+	.string "就参考一下帮助系统的\l"
+	.string "“我要怎样做？”吧。$"
 
 Help_Text_AnswerWhatAreMyAdventureBasics::
-	.string "If POKéMON are hurt in battle,\n"
-	.string "take them to a POKéMON CENTER and\l"
-	.string "have them healed by the staff.\l"
-	.string "Get in the habit of saving your\l"
-	.string "game and recording your progress.\l"
-	.string "Stock up on healing items at\l"
-	.string "POKéMON MARTS before traveling far.$"
+	.string "如果宝可梦在战斗中受伤，\n"
+	.string "就带它们去宝可梦中心，\l"
+	.string "让乔伊治好它们。\l"
+	.string "养成经常存档的习惯。\l"
+	.string "要到很远的地方旅行时，\l"
+	.string "到宝可梦商店准备够需要的道具吧。$"
 
 Help_Text_AnswerHowAreRoadsForestsDifferent::
-	.string "Forests are basically the same as\n"
-	.string "roads but they can be like mazes.\l"
-	.string "All forests have a way out, so don't\l"
-	.string "give up if you get lost.$"
+	.string "森林基本上和道路一样，\n"
+	.string "但它们更像迷宫。\l"
+	.string "所有的森林都有出去的路，\l"
+	.string "所以就算迷路了也不要放弃。$"
 
 Help_Text_AnswerHowAreCavesDifferent::
-	.string "Caves are dark and dangerous. Wild\n"
-	.string "POKéMON can appear anywhere in them.\l"
-	.string "If there is an emergency, rush to a\l"
-	.string "POKéMON CENTER or use items.\l"
-	.string "New towns await discovery beyond some\l"
-	.string "caves, so don't give up.$"
+	.string "洞穴很阴暗，很危险。\n"
+	.string "野生的宝可梦在其中无处不在。\l"
+	.string "如果有紧急情况，\l"
+	.string "就快去宝可梦中心或者使用道具。\l"
+	.string "新的城镇就在那些洞穴外，\l"
+	.string "所以不要放弃。$"
 
 Help_Text_AnswerHowDoIProgress::
-	.string "The object of the game is to train\n"
-	.string "your POKéMON and move forward.\l"
-	.string "You must collect info and solve\l"
-	.string "problems. For example, what do you\l"
-	.string "need to get around an obstacle?\l"
-	.string "What would get that impeding\l"
-	.string "person out of the way?$"
+	.string "游戏的目的是训练宝可梦\n"
+	.string "并且继续朝更远的目标迈进。\l"
+	.string "你一定要收集情报，解决问题。\l"
+	.string "比如说，如果你想回避障碍物，\l"
+	.string "想想你都需要些什么？\l"
+	.string "怎样把挡在路上的人\l"
+	.string "支开？$"
 
 Help_Text_AnswerWhenCanIUseItem::
-	.string "There are several kinds of items.\n"
-	.string "Some can be used only on the field.\l"
-	.string "Some are only for use during battle.\l"
-	.string "Some can be used anytime.\l"
-	.string "Try using an item - if it can't be used,\l"
-	.string "you will be alerted.$"
+	.string "道具分为好几类。\n"
+	.string "有些只能在战斗外使用。\l"
+	.string "有些只能在战斗中使用。\l"
+	.string "有些可以在任何情况下使用。\l"
+	.string "经常使用道具吧！\l"
+	.string "但如果不能使用的话，\l"
+	.string "你就要注意了。$"
 
 Help_Text_AnswerWhatsABattle::
-	.string "In a battle, POKéMON try to reduce\n"
-	.string "one another's vitality, expressed as\l"
-	.string "HP. If a POKéMON's HP falls to zero,\l"
-	.string "it faints, and the other POKéMON\l"
-	.string "wins. By winning a battle, POKéMON\l"
-	.string "earn EXP. Points, which help them\l"
-	.string "level up (grow stronger).$"
+	.string "对战中宝可梦需要尽力消耗\n"
+	.string "对方的HP。\l"
+	.string "如果宝可梦的HP归零，\l"
+	.string "它就倒下了。同时另一者的宝可梦\l"
+	.string "就赢了。赢得战斗的同时，\l"
+	.string "宝可梦也获得可以让他们\l"
+	.string "等级上升的经验值！$"
 
 Help_Text_AnswerHowDoIPrepareForBattle::
-	.string "First, fully heal the POKéMON in your\n"
-	.string "party (the POKéMON with you) at any\l"
-	.string "POKéMON CENTER.\l"
-	.string "You should also buy healing items for\l"
-	.string "emergencies at a POKéMON MART.$"
+	.string "首先，在任何一间宝可梦中心\n"
+	.string "都能完全治疗你的队伍中的宝可梦。\l"
+	.string "你也要在宝可梦商店买道具\l"
+	.string "来应对紧急状况。$"
 
 Help_Text_AnswerWhatIsAMonsVitality::
-	.string "A POKéMON's vitality is expressed in HP.\n"
-	.string "If a POKéMON is hurt in battle, HP is\l"
-	.string "subtracted. If its HP drops to zero,\l"
-	.string "the POKéMON faints.\l"
-	.string "Heal hurt or fainted POKéMON at a\l"
-	.string "POKéMON CENTER or by using items.$"
+	.string "一只宝可梦的生命值就是HP。\n"
+	.string "如果宝可梦在对战中受伤，\l"
+	.string "HP就会减少。\l"
+	.string "如果HP归零，它就倒下了。\l"
+	.string "用道具或者去宝可梦中心\l"
+	.string "治疗宝可梦吧。$"
 
 Help_Text_AnswerMyMonsAreHurt::
-	.string "A POKéMON CENTER is like an inn for\n"
-	.string "POKéMON. It will fully heal POKéMON of\l"
-	.string "any status problems and fully restore\l"
-	.string "their HP using a special machine.\l"
-	.string "This service is free, so get in the\l"
-	.string "habit of healing your POKéMON often.$"
+	.string "一个宝可梦中心就像是\n"
+	.string "宝可梦的小旅馆。\l"
+	.string "那儿的治疗机，会完全治疗宝可梦的\l"
+	.string "异常状态和HP。\l"
+	.string "而且免费！\l"
+	.string "所以养成常去那里的习惯吧。$"
 
 Help_Text_AnswerWhatIsStatusProblem::
-	.string "A status problem refers to an ailment\n"
-	.string "that is inflicted on a POKéMON by its\l"
-	.string "foe's attack. These include burns,\l"
-	.string "paralysis, poisoning, sleep, and\l"
-	.string "freezing. These can be healed by\l"
-	.string "visiting a POKéMON CENTER or using\l"
-	.string "the appropriate item.$"
+	.string "异常状态是由对方的攻击\n"
+	.string "导致宝可梦出现的小毛病。\l"
+	.string "它们包括灼伤，\l"
+	.string "麻痹、中毒、沉睡，以及冰冻。\l"
+	.string "可以去宝可梦中心\l"
+	.string "或者使用道具治疗。$"
 
 Help_Text_AnswerWhatHappensIfAllMyMonsFaint::
-	.string "If all the POKéMON in your party\n"
-	.string "(all the POKéMON with you) faint, you\l"
-	.string "lose some MONEY, and you are\l"
-	.string "returned home or to a POKéMON\l"
-	.string "CENTER. To reduce that chance, visit\l"
-	.string "POKéMON CENTERS often. Also, get\l"
-	.string "in the habit of saving often.$"
+	.string "如果你携带的宝可梦倒下了，\l"
+	.string "你就会输掉金钱，\l"
+	.string "并回到家或者是宝可梦中心。\l"
+	.string "为了少让那种事发生，\l"
+	.string "多去宝可梦中心吧。\l"
+	.string "也要养成治疗它们的习惯。$"
 
 Help_Text_AnswerCantCatchMons::
-	.string "If a wild POKéMON escapes from a POKé\n"
-	.string "BALL, it's obviously still feisty.\l"
-	.string "Try reducing its HP some more, and\l"
-	.string "try to weaken it with paralysis or sleep\l"
-	.string "before trying to catch it.\l"
-	.string "If the POKé BALL rocks for a while,\l"
-	.string "the quarry is close to being caught!$"
+	.string "如果野生宝可梦从精灵球中挣脱，\n"
+	.string "说明它还有体力。\l"
+	.string "尝试再削弱它的HP，\l"
+	.string "或者是在抓它之前，\l"
+	.string "让它陷入麻痹或者睡眠状态。\l"
+	.string "如果精灵球摇动一会儿，\l"
+	.string "说明你快得手了。$"
 
 Help_Text_AnswerRanOutOfPotions::
-	.string "There are shops, known as POKéMON\n"
-	.string "MARTS, that sell items.\l"
-	.string "You will not find POKéMON MARTS on\l"
-	.string "roads, in forests, or in caves.\l"
-	.string "Stock up on needed items while you are\l"
-	.string "visiting a town with a POKéMON MART.$"
+	.string "有一些像宝可梦商店\n"
+	.string "贩卖道具这样的地方。\l"
+	.string "在街道、洞穴或者森林里，\l"
+	.string "你将找不到宝可梦商店的身影。\l"
+	.string "当你去一个拥有宝可梦商店的城镇时，\l"
+	.string "多买些道具吧。$"
 
 Help_Text_AnswerCanIBuyPokeBalls::
-	.string "You may buy POKé BALLS at any\n"
-	.string "POKéMON MART in any town.\l"
-	.string "You will not find POKéMON MARTS on\l"
-	.string "roads, in forests, or in caves.\l"
-	.string "Stock up on POKé BALLS while you are\l"
-	.string "visiting a town with a POKéMON MART.$"
+	.string "在任何城镇的宝可梦商店中，\n"
+	.string "你也许会买精灵球。\l"
+	.string "在森林、道路、洞穴里，\l"
+	.string "你将找不到宝可梦商店。\l"
+	.string "当你到一个有宝可梦商店的小镇时，\l"
+	.string "买够精灵球吧。$"
 
 Help_Text_AnswerWhatsATrainer::
-	.string "A TRAINER is a person who raises\n"
-	.string "POKéMON through battling.\l"
-	.string "TRAINERS will challenge you \l"
-	.string "wherever they are - it could be on\l"
-	.string "a road, in forests, caves, anywhere.\l"
-	.string "If your eyes meet, you have to accept\l"
-	.string "their challenge. So be careful!$"
+	.string "训练家是通过对战训练\n"
+	.string "宝可梦的人。\l"
+	.string "训练家在任何地方，\l"
+	.string "都会对你发出挑战，\l"
+	.string "不管是街道、森林、洞穴，任何地方。\l"
+	.string "如果他们看到你了，\l"
+	.string "你就不得不接受挑战，\l"
+	.string "所以小心点儿！$"
 
 Help_Text_AnswerHowDoIWinAgainstTrainer::
-	.string "To beat a TRAINER in battle, use\n"
-	.string "POKéMON that have type advantages\l"
-	.string "over the foe's POKéMON. You may also\l"
-	.string "use highly trained POKéMON with\l"
-	.string "overwhelming power. Outnumbering the\l"
-	.string "foe's POKéMON is another obvious\l"
-	.string "tactic.$"
+	.string "为了在对战中打败训练家，\n"
+	.string "就用压倒对方宝可梦属性的\l"
+	.string "宝可梦吧。你也可以用\l"
+	.string "拥有压倒性实力的宝可梦。\l"
+	.string "用有效的策略\l"
+	.string "压制住对手的宝可梦吧。$"
 
 Help_Text_AnswerWhereDoMonsAppear::
-	.string "Wild POKéMON will appear in tall grass,\n"
-	.string "on roads, and in forests. They will\l"
-	.string "appear anywhere in dark caves.\l"
-	.string "There are no wild POKéMON or TRAINERS\l"
-	.string "in towns, so they are safe places.$"
+	.string "野生宝可梦会在草地、\n"
+	.string "道路和森林中出现。\l"
+	.string "它们也会在洞穴的任何地方出现。\l"
+	.string "在城镇里没有野生宝可梦\l"
+	.string "或者训练家。因此它们是安全之地。$"
 
 Help_Text_AnswerWhatAreMoves::
-	.string "POKéMON may learn up to four different\n"
-	.string "techniques, or moves. There is a great\l"
-	.string "variety of moves including attacks and\l"
-	.string "those with special effects. The kinds\l"
-	.string "of moves that can be learned vary\l"
-	.string "for each POKéMON. Some moves\l"
-	.string "can be learned from machines.$"
+	.string "宝可梦会学习最多四个招式。\n"
+	.string "招式多种多样，有攻击招式，\l"
+	.string "也有拥有特殊效果的招式。\l"
+	.string "任意的宝可梦\l"
+	.string "都可以学到不同的招式。\l"
+	.string "一些稀有的招式可以通过招式学习器学习。$"
 
 Help_Text_AnswerWhatAreHiddenMoves::
-	.string "HIDDEN moves are those that are\n"
-	.string "especially important for your\l"
-	.string "adventure. To use such a move outside\l"
-	.string "of battle, open the “POKéMON” MENU\l"
-	.string "and make the POKéMON that knows the\l"
-	.string "move use it. A fainted POKéMON may use\l"
-	.string "a HIDDEN move outside of battle.$"
+	.string "秘传招式是那些\n"
+	.string "对你的冒险很重要的招式。\l"
+	.string "在战斗外使用这样的招式，\l"
+	.string "就打开“宝可梦”菜单，\l"
+	.string "然后让那些会的宝可梦使用。\l"
+	.string "就算是被打败的宝可梦，\l"
+	.string "也可以在战斗外使用隐藏招式。$"
 
 Help_Text_AnswerWhatMovesShouldIUse::
-	.string "Select “FIGHT,” and the MENU of moves\n"
-	.string "will appear. Consider the type\l"
-	.string "matchups, and use the most effective\l"
-	.string "moves. You can check the effects of\l"
-	.string "moves by opening “POKéMON,”\l"
-	.string "picking a POKéMON, opening “SUMMARY,”\l"
-	.string "then opening “POKéMON SKILLS.”$"
+	.string "选择“格斗”随后招式菜单\n"
+	.string "就会出现。考虑招式匹配，\l"
+	.string "选择最有效的招式吧。\l"
+	.string "你也可以通过\l"
+	.string "选择“宝可梦”选项，\l"
+	.string "选中一只宝可梦，打开“概况”，\l"
+	.string "然后打开“宝可梦能力”。$"
 
 Help_Text_AnswerWantToAddMoreMoves::
-	.string "The most a POKéMON can learn is four\n"
-	.string "moves. They are learned as the\l"
-	.string "POKéMON levels up. It can also be\l"
-	.string "taught a move using a TM (Technical\l"
-	.string "Machine) or HM (Hidden Machine).\l"
-	.string "There are also people who teach moves.$"
+	.string "一只宝可梦最多能学四个招式。\n"
+	.string "随着等级上升可以学到。\l"
+	.string "当然也可以使用招式学习器学习。\l"
+	.string "而且还有一些传授招式的人。$"
 
 Help_Text_AnswerWantToMakeMonStronger::
-	.string "The key to making your POKéMON\n"
-	.string "strong is to battle and win often.\l"
-	.string "The EXP. (Experience) Points earned\l"
-	.string "by winning battles accumulate to\l"
-	.string "level up POKéMON that participated in\l"
-	.string "them. Battle wild POKéMON often to\l"
-	.string "level up your party.$"
+	.string "让你的宝可梦变强的关键\n"
+	.string "是让它们经常在战斗中获胜。\l"
+	.string "伴随战斗的胜利，\l"
+	.string "就会得到使宝可梦等级上升的\l"
+	.string "经验值。\l"
+	.string "经常和野生宝可梦对战，\l"
+	.string "壮大你的队伍吧。$"
 
 Help_Text_AnswerFoeMonsTooStrong::
-	.string "If your foes are too strong, try\n"
-	.string "leveling up your POKéMON some more.\l"
-	.string "Go back the way you came and battle\l"
-	.string "wild POKéMON to level up your party.\l"
-	.string "You may also battle TRAINERS whom you\l"
-	.string "have not battled before.$"
+	.string "如果对手的宝可梦很强，\n"
+	.string "就试着多让你的宝可梦提升等级吧。\l"
+	.string "回到你经过的地方，\l"
+	.string "和野生的宝可梦对战来壮大你的队伍。\l"
+	.string "你也可以和那些你以前\l"
+	.string "没有交手过的训练家对战。$"
 
 Help_Text_AnswerWhatDoIDoInCave::
-	.string "Unlike roads and forests, wild POKéMON\n"
-	.string "can appear anywhere in caves.\l"
-	.string "If your POKéMON are hurt in a cave,\l"
-	.string "rush to a POKéMON CENTER or use items\l"
-	.string "to heal them right away. It is very\l"
-	.string "dangerous to force your luck in caves.$"
+	.string "与道路和森林不同，\n"
+	.string "洞穴里的野生宝可梦无处不在。\l"
+	.string "如果你的宝可梦在洞穴中受伤，\l"
+	.string "就快去宝可梦中心\l"
+	.string "或者用道具治疗它们。\l"
+	.string "在洞穴中靠运气很危险。$"
 
 Help_Text_AnswerNothingIWantToKnow::
-	.string "Trust your own knowledge and power.\n"
-	.string "Believe in yourself and find your way!$"
+	.string "相信你的知识和力量。\n"
+	.string "自信一些，找到你自己的路吧！$"
 
 Help_Text_AnswerWhatsPokemonCenter::
-	.string "A POKéMON CENTER is identified by its\n"
-	.string "red roof and a “P.C” sign. Every\l"
-	.string "POKéMON CENTER offers such services as\l"
-	.string "fully healing POKéMON and free PC use,\l"
-	.string "making it essential for your travels.\l"
-	.string "On the upper floor are facilities for\l"
-	.string "linking with friends and others.$"
+	.string "宝可梦中心的标志是\n"
+	.string "上面写着“P.C.”的牌子和红色屋顶。\l"
+	.string "每个宝可梦中心都会提供类似\l"
+	.string "恢复宝可梦和免费使用电脑的服务。\l"
+	.string "那对你的旅行很重要。\l"
+	.string "楼上是和你的朋友及他人\l"
+	.string "联络的工具。$"
 
 Help_Text_AnswerWhatsPokemonMart::
-	.string "A POKéMON MART is identified by its\n"
-	.string "blue roof and a “MART” sign.\l"
-	.string "Items can be bought and sold at any\l"
-	.string "POKéMON MART. Some MARTS carry items\l"
-	.string "that are available only in their towns.$"
+	.string "宝可梦商店的标记是\n"
+	.string "写着“MART”的蓝色屋顶。\l"
+	.string "道具可以在任意宝可梦商店中买卖。\l"
+	.string "一些商店只卖\l"
+	.string "仅仅在他们城镇特有的道具。$"
 
 Help_Text_AnswerWantToEndGame::
-	.string "You can safely end your game by\n"
-	.string "selecting “SAVE” on the MENU.\l"
-	.string "Once you have saved, the game can be\l"
-	.string "safely turned off. When the game is\l"
-	.string "turned back on, you can resume from\l"
-	.string "where you last saved.$"
+	.string "通过在菜单中选择“保存”\n"
+	.string "你可以安全地结束游戏。\l"
+	.string "当你保存完存档之后，\l"
+	.string "你就可以结束游戏了。\l"
+	.string "当游戏再次开始的时候，\l"
+	.string "你就会回到你存档时的状态。$"
 
 Help_Text_AnswerWhatsAMon::
-	.string "POKéMON are living beings about which\n"
-	.string "many mysteries still remain. You may\l"
-	.string "see them in grass, the sea, and caves.\l"
-	.string "They appear to obey the wishes of the\l"
-	.string "TRAINERS that caught them.$"
+	.string "宝可梦是身上还有着\n"
+	.string "许多未解之谜的生物。\l"
+	.string "你可以在草地、海洋、洞穴中看到它们。\l"
+	.string "它们的出现都引起\l"
+	.string "训练家们去收复它们的愿望。$"
 
 Help_Text_AnswerWhatIsThatPersonLike::
-	.string "Use the FAME CHECKER among the\n"
-	.string "KEY ITEMS in your BAG.\l"
-	.string "It may give you a hint, so try it out.$"
+	.string "在你包包的重要道具口袋中，\n"
+	.string "使用声音记录器。\l"
+	.string "它会给你点提示，所以多用用吧。$"
 
 Help_Text_AnswerWhatDoesHiddenMoveDo::
-	.string "A HIDDEN move is taught to a POKéMON\n"
-	.string "using an HM (Hidden Machine).\l"
-	.string "A HIDDEN move is important for helping\l"
-	.string "your adventure. For example, one is\l"
-	.string "used to light up dark caves. Another\l"
-	.string "cuts down small trees. There is one\l"
-	.string "for traveling on water, and so on.$"
+	.string "秘传招式是宝可梦\n"
+	.string "使用秘传学习器习得的。\l"
+	.string "秘传招式可是帮助你冒险的\l"
+	.string "重要招式。举个例子，\l"
+	.string "有的招式可以照亮暗黑的洞穴。\l"
+	.string "有的可以砍倒挡路小树。\l"
+	.string "有的甚至能让你跨越海洋！\l"
+	.string "但这仅仅是冰山一角。$"
 
 Help_Text_AnswerWhatDoIDoInSafari::
-	.string "Try to catch wild POKéMON by throwing\n"
-	.string "the special SAFARI BALLS.\l"
-	.string "You may keep any item you find, too.$"
+	.string "试着抛出特殊的狩猎球\n"
+	.string "来抓野生的宝可梦吧。\l"
+	.string "你也可以留着你找到的任何道具。$"
 
 Help_Text_AnswerWhatAreSafariRules::
-	.string "Your SAFARI GAME ends once you have\n"
-	.string "traveled a certain distance or thrown\l"
-	.string "all your SAFARI BALLS.\l"
-	.string "Open the MENU to check the remaining\l"
-	.string "number of steps and SAFARI BALLS.$"
+	.string "狩猎游戏会在一段时间之后，\n"
+	.string "或者你扔完狩猎球之后结束。\l"
+	.string "可以打开菜单来确认一下\l"
+	.string "剩余的步数以及狩猎球。$"
 
 Help_Text_AnswerWantToEndSafari::
-	.string "If you would like to cut your SAFARI\n"
-	.string "GAME short, open the MENU and select\l"
-	.string "“RETIRE” at the top of the list.$"
+	.string "如果你想提早结束\n"
+	.string "狩猎游戏，打开菜单然后选择\l"
+	.string "列表最上方的“退出”。$"
 
 Help_Text_AnswerWhatIsAGym::
-	.string "POKéMON GYMS are operated by the\n"
-	.string "POKéMON LEAGUE and are training\l"
-	.string "facilities for TRAINERS. They are all\l"
-	.string "across the land in cities and towns.\l"
-	.string "Each one is headed by a LEADER, who\l"
-	.string "is a very skilled TRAINER. Beat the\l"
-	.string "LEADER to collect a BADGE.$"
+	.string "宝可梦道馆是由\n"
+	.string "宝可梦联盟管理着的\l"
+	.string "训练家训练设施。它们\l"
+	.string "遍布在哥哥村子和城市之中。\l"
+	.string "每个道馆都由馆主带领，他们\l"
+	.string "都是很经验的训练家。打败\l"
+	.string "馆主来得到徽章。$"
 
 Help_Text_UsingPokedex::
-	.string " Using “POKéDEX”$"
+	.string " 使用“图鉴”$"
 
 Help_Text_UsingPokemon::
-	.string " Using “POKéMON”$"
+	.string " 使用“宝可梦”$"
 
 Help_Text_UsingSummary::
-	.string "  Using “SUMMARY”$"
+	.string " 使用“概况”$"
 
 Help_Text_UsingSwitch::
-	.string "  Using “SWITCH”$"
+	.string "  使用“换位”$"
 
 Help_Text_UsingItem::
-	.string "  Using “ITEM”$"
+	.string "  使用“道具”$"
 
 Help_Text_UsingBag::
-	.string " Using “BAG”$"
+	.string " 使用“包包”$"
 
 Help_Text_UsingAnItem::
-	.string "  Using an item$"
+	.string "  使用一个道具$"
 
 Help_Text_UsingKeyItem::
-	.string "  Using a key item$"
+	.string "  使用一个重要道具$"
 
 Help_Text_UsingPokeBall::
-	.string "  Using a POKé BALL$"
+	.string "  使用一个精灵球$"
 
 Help_Text_UsingPlayer::
-	.string " Using “{PLAYER}”$"
+	.string " 使用“玩家”$"
 
 Help_Text_UsingSave::
-	.string " Using “SAVE”$"
+	.string " 使用“保存”$"
 
 Help_Text_UsingOption::
-	.string " Using “OPTION”$"
+	.string " 使用“设定”$"
 
 Help_Text_UsingPotion::
-	.string "    Using a POTION$"
+	.string "    使用一个伤药$"
 
 Help_Text_UsingTownMap::
-	.string "    Using the TOWN MAP$"
+	.string "    使用城镇地图$"
 
 Help_Text_UsingTM::
-	.string "    Using a TM$"
+	.string "    使用一个招式学习器$"
 
 Help_Text_UsingHM::
-	.string "    Using an HM$"
+	.string "    使用一个秘传学习器$"
 
 Help_Text_UsingMoveOutsideOfBattle::
-	.string "Using a move outside of battle$"
+	.string "在战斗外使用招式$"
 
 Help_Text_RidingBicycle::
-	.string "    Riding the BICYCLE$"
+	.string "    骑在自行车上$"
 
 Help_Text_EnteringName::
-	.string "Entering a name$"
+	.string "输入一个名字$"
 
 Help_Text_UsingPC::
-	.string "Using a PC$"
+	.string "使用电脑$"
 
 Help_Text_UsingBillsPC::
-	.string " Using “{STR_VAR_1}'S PC”$"
+	.string " 使用“{B_COPY_VAR_1}的电脑”$"
 
 Help_Text_UsingWithdraw::
-	.string "  Using “WITHDRAW”$"
+	.string "  使用“取出”$"
 
 Help_Text_UsingDeposit::
-	.string "  Using “DEPOSIT”$"
+	.string "  使用“存放”$"
 
 Help_Text_UsingMove::
-	.string "  Using “MOVE”$"
+	.string "  使用“移动”$"
 
 Help_Text_MovingItems::
-	.string "  Moving items$"
+	.string "  移动道具$"
 
 Help_Text_UsingPlayersPC::
-	.string " Using “{PLAYER}'s PC”$"
+	.string " 登录“{PLAYER}的电脑”$"
 
 Help_Text_UsingWithdrawItem::
-	.string "  Using “WITHDRAW ITEM”$"
+	.string "  使用“取出道具”$"
 
 Help_Text_UsingDepositItem::
-	.string "  Using “DEPOSIT ITEM”$"
+	.string "  使用“存放道具”$"
 
 Help_Text_UsingMailbox::
-	.string "  Using “MAILBOX”$"
+	.string "  使用“邮箱”$"
 
 Help_Text_UsingProfOaksPC::
-	.string " Using “PROF. OAK'S PC”$"
+	.string " 登录“大木博士的电脑”$"
 
 Help_Text_OpeningMenu::
-	.string "Opening the MENU$"
+	.string "打开菜单$"
 
 Help_Text_UsingFight::
-	.string " Using “FIGHT”$"
+	.string " 使用“格斗”$"
 
 Help_Text_UsingPokemon2::
-	.string " Using “POKéMON”$"
+	.string " 使用“宝可梦”$"
 
 Help_Text_UsingShift::
-	.string "  Using “SHIFT”$"
+	.string "  使用“替换”$"
 
 Help_Text_UsingSummary2::
-	.string "  Using “SUMMARY”$"
+	.string "  使用“概况”$"
 
 Help_Text_UsingBag2::
-	.string " Using “BAG”$"
+	.string " 使用“包包”$"
 
 Help_Text_ReadingPokedex::
-	.string " Reading the “POKéDEX”$"
+	.string " 查看“宝可梦图鉴”$"
 
 Help_Text_UsingHomePC::
-	.string "Using the PC at home$"
+	.string "使用家里的电脑$"
 
 Help_Text_UsingItemStorage::
-	.string "Using the Item Storage System$"
+	.string "使用道具储存系统$"
 
 Help_Text_UsingWithdrawItem2::
-	.string "  Using “WITHDRAW ITEM”$"
+	.string "  使用“取出道具”$"
 
 Help_Text_UsingDepositItem2::
-	.string "  Using “DEPOSIT ITEM”$"
+	.string "  使用“存放道具”$"
 
 Help_Text_UsingMailbox2::
-	.string "Using the MAILBOX$"
+	.string "使用邮箱$"
 
 Help_Text_UsingRun::
-	.string " Using “RUN”$"
+	.string " 使用“逃跑”$"
 
 Help_Text_RegisterKeyItem::
-	.string "  “REGISTER” a key item$"
+	.string "  “登记”一个重要道具$"
 
 Help_Text_UsingBall::
-	.string " Using “BALL”$"
+	.string " 使用“球”$"
 
 Help_Text_UsingBait::
-	.string " Using “BAIT”$"
+	.string " 使用“饵食”$"
 
 Help_Text_UsingRock::
-	.string " Using “ROCK”$"
+	.string " 使用“石头”$"
 
 Help_Text_UsingHallOfFame::
-	.string " Using “HALL OF FAME”$"
+	.string " 打开“登入名人堂”$"
 
 Help_Text_HowToUsePokedex::
-	.string "{CIRCLE_1} Select “POKéDEX” on the MENU.\n"
-	.string "{CIRCLE_2} Choose POKéMON using commands such\n"
-	.string "   as “POKéMON LIST,”\n"
-	.string "   “HABITATS OF POKéMON,” and\n"
-	.string "   “SEARCH.”\n"
-	.string "{CIRCLE_3} Select a POKéMON to obtain detailed\n"
-	.string "   information.$"
+	.string "{CIRCLE_1}选择菜单上的“宝可梦图鉴”。\n"
+	.string "{CIRCLE_2}使用不同的命令\n"
+	.string "   像是“宝可梦列表”，\n"
+	.string "   “宝可梦的栖息地”，或\n"
+	.string "   “搜索”来选择宝可梦。\n"
+	.string "{CIRCLE_3}挑选一只宝可梦去看更\n"
+	.string "   详细的资料。$"
 
 Help_Text_HowToUsePokemon::
-	.string "{CIRCLE_1} Select “POKéMON” on the MENU.\n"
-	.string "{CIRCLE_2} Choose a POKéMON in your party.\n"
-	.string "{CIRCLE_3} Select “SUMMARY,” “SWITCH,”\n"
-	.string "   or “ITEM.”$"
+	.string "{CIRCLE_1}在菜单中选择“宝可梦”。\n"
+	.string "{CIRCLE_2}在队伍中选择一只宝可梦。 \n"
+	.string "{CIRCLE_3}选择“概况”、“换位”\n"
+	.string "   或者“道具”。$"
 
 Help_Text_HowToUseSummary::
-	.string "{CIRCLE_1} Select “SUMMARY.”\n"
-	.string "{CIRCLE_2} Press left or right on the {PLUS} Control\n"
-	.string "   Pad to check the information:\n"
-	.string "   “POKéMON INFO”\n"
-	.string "   “POKéMON SKILLS”\n"
-	.string "   “KNOWN MOVES”$"
+	.string "{CIRCLE_1}选择“概况”。\n"
+	.string "{CIRCLE_2}按下十字键的左右键\n"
+	.string "   来查看以下资料：\n"
+	.string "   “宝可梦情报”\n"
+	.string "   “宝可梦能力”\n"
+	.string "   “学会的招式”$"
 
 Help_Text_HowToUseSwitch::
-	.string "{CIRCLE_1} Choose the POKéMON you want to\n"
-	.string "   switch around.\n"
-	.string "{CIRCLE_2} Select “SWITCH.”\n"
-	.string "{CIRCLE_3} Select the POKéMON to switch with\n"
-	.string "   the first one.\n"
-	.string "The POKéMON at the left of the screen\n"
-	.string "will be the first one out in a battle.$"
+	.string "{CIRCLE_1}选择你想改变\n"
+	.string "   位置的宝可梦。\n"
+	.string "{CIRCLE_2}选择“换位”。\n"
+	.string "{CIRCLE_3}选择一只宝可梦来跟\n"
+	.string "   第一只交换位置。\n"
+	.string "在画面最左边的宝可梦 \n"
+	.string "会是第一只出战的队员。$"
 
 Help_Text_HowToUseItem::
-	.string "{CIRCLE_1} Select “ITEM.”\n"
-	.string "{CIRCLE_2} Select whether you want to “GIVE”\n"
-	.string "   an item to the POKéMON to hold,\n"
-	.string "   or “TAKE” an item it is holding.\n"
-	.string "A POKéMON can hold no more than one\n"
-	.string "item!$"
+	.string "{CIRCLE_1}选择“道具”。\n"
+	.string "{CIRCLE_2}选择你想“携带”\n"
+	.string "   宝可梦去持有的道具，\n"
+	.string "   或者“拿出”持有中的道具。\n"
+	.string "一只宝可梦同时不能持有\n"
+	.string "多于一个道具。$"
 
 Help_Text_HowToUseBag::
-	.string "{CIRCLE_1} Select “BAG” on the MENU.\n"
-	.string "{CIRCLE_2} Press left or right on the {PLUS} Control\n"
-	.string "   Pad to check the data headings:\n"
-	.string "   “ITEMS”\n"
-	.string "   “KEY ITEMS”\n"
-	.string "   “POKé BALLS”\n"
-	.string "   Press up or down to select an item.$"
+	.string "{CIRCLE_1}选择菜单中的“包包”。\n"
+	.string "{CIRCLE_2}按下十字键的左右键\n"
+	.string "   来查看以下项目：\n"
+	.string "   “道具”\n"
+	.string "   “重要道具”\n"
+	.string "   “精灵球”\n"
+	.string "   按上下键来选择一个道具。$"
 
 Help_Text_HowToUseAnItem::
-	.string "{CIRCLE_1} Select the “ITEMS” POCKET.\n"
-	.string "{CIRCLE_2} Press up or down on the {PLUS} Control\n"
-	.string "   Pad to select an item.\n"
-	.string "{CIRCLE_3} Select “USE” to use the selected\n"
-	.string "   item.\n"
-	.string "Some items may not be used depending\n"
-	.string "on the place and/or situation.$"
+	.string "{CIRCLE_1}选择“道具”口袋。\n"
+	.string "{CIRCLE_2}按十字键的上下键\n"
+	.string "   来选择一个道具。\n"
+	.string "{CIRCLE_3}选择“使用”去使用\n"
+	.string "   被选择的道具。\n"
+	.string "有些道具不能在\n"
+	.string "特定地方和场合使用。$"
 
 Help_Text_HowToUseKeyItem::
-	.string "{CIRCLE_1} Select the “KEY ITEMS” POCKET.\n"
-	.string "{CIRCLE_2} Press up or down on the {PLUS} Control\n"
-	.string "   Pad to select a key item.\n"
-	.string "{CIRCLE_3} Select “USE” to use the selected\n"
-	.string "   key item.$"
+	.string "{CIRCLE_1}选择“重要道具”口袋。\n"
+	.string "{CIRCLE_2}按十字键的上下键\n"
+	.string "   来选择一个重要道具。\n"
+	.string "{CIRCLE_3}选择“使用”去使用\n"
+	.string "   选择了的重要道具。$"
 
 Help_Text_HowToUsePokeBall::
-	.string "{CIRCLE_1} While battling a wild POKéMON,\n"
-	.string "   select the BAG's “POKé BALLS”\n"
-	.string "   POCKET.\n"
-	.string "{CIRCLE_2} Press up or down on the {PLUS} Control\n"
-	.string "   Pad to select a POKé BALL.\n"
-	.string "{CIRCLE_3} Select “USE” to throw the selected\n"
-	.string "   POKé BALL.$"
+	.string "{CIRCLE_1}再跟野生的宝可梦战斗时，\n"
+	.string "   选择包包里的“精灵球”\n"
+	.string "   口袋。\n"
+	.string "{CIRCLE_2}按十字键的上下键\n"
+	.string "  来选择一个精灵球。\n"
+	.string "{CIRCLE_3}选择“使用”去抛出\n"
+	.string "   选择了的精灵球。$"
 
 Help_Text_HowToUsePlayer::
-	.string "{CIRCLE_1} Select “{PLAYER}” on the MENU.\n"
-	.string "{CIRCLE_2} Your TRAINER CARD is displayed face\n"
-	.string "   up with basic information. Press the\n"
-	.string "   A Button to turn the CARD over.\n"
-	.string "{CIRCLE_3} A variety of data can be found on\n"
-	.string "   the reverse side of the CARD.$"
+	.string "{CIRCLE_1}选择菜单上的“玩家”。\n"
+	.string "{CIRCLE_2}你的训练家卡片带着基本资料\n"
+	.string "  脸朝上的展示着。按下\n"
+	.string "   A键去把卡片反转。\n"
+	.string "{CIRCLE_3}多种资料都可以\n"
+	.string "   在卡片的背面找到。$"
 
 Help_Text_HowToUseSave::
-	.string "{CIRCLE_1} Select “SAVE” on the MENU.\n"
-	.string "{CIRCLE_2} Select “YES” and your progress is\n"
-	.string "   recorded in the save file.\n"
-	.string "Once the game is saved, you may turn\n"
-	.string "off the game. Your game can be resumed\n"
-	.string "from where you saved.$"
+	.string "{CIRCLE_1} 选择菜单上的“保存”。\n"
+	.string "{CIRCLE_2} 选择“是”会把你的进度\n"
+	.string "   保存在存档中。\n"
+	.string "当保存后，你可以\n"
+	.string "把游戏关掉。下次游戏会从\n"
+	.string "你保存的地方继续。$"
 
 Help_Text_HowToUseOption::
-	.string "{CIRCLE_1} Select “OPTION” on the MENU.\n"
-	.string "{CIRCLE_2} Press up or down on the {PLUS} Control\n"
-	.string "   Pad to select an optional item, then\n"
-	.string "   press left or right to alter the\n"
-	.string "   settings.\n"
-	.string "{CIRCLE_3} Select “CANCEL” or press the\n"
-	.string "   B Button after making changes.$"
+	.string "{CIRCLE_1}选择菜单中的“设定”。\n"
+	.string "{CIRCLE_2}按十字键的上下键\n"
+	.string "   去选择选项，然后\n"
+	.string "   按左右键来\n"
+	.string "   做出改变。\n"
+	.string "{CIRCLE_3}选择“取消”或者按\n"
+	.string "   B键来取消。$"
 
 Help_Text_HowToUsePotion::
-	.string "{CIRCLE_1} Open the MENU.\n"
-	.string "{CIRCLE_2} Press up or down on the {PLUS} Control\n"
-	.string "   Pad and select “BAG.”\n"
-	.string "{CIRCLE_3} Select “POTION” in the “ITEMS”\n"
-	.string "   POCKET.\n"
-	.string "{CIRCLE_4} Select “USE.”\n"
-	.string "{CIRCLE_5} Select the POKéMON to be healed.$"
+	.string "{CIRCLE_1}打开菜单。\n"
+	.string "{CIRCLE_2}按十字键的上下键\n"
+	.string "   来选择“包包”。\n"
+	.string "{CIRCLE_3}选择“道具”口袋里的\n"
+	.string "   “伤药”。\n"
+	.string "{CIRCLE_4}选择“使用”。\n"
+	.string "{CIRCLE_5}选择要治疗的宝可梦。$"
 
 Help_Text_HowToUseTownMap::
-	.string "{CIRCLE_1} Open the MENU.\n"
-	.string "{CIRCLE_2} Press up or down on the {PLUS} Control\n"
-	.string "   Pad and select “BAG.”\n"
-	.string "{CIRCLE_3} Press left or right to open the\n"
-	.string "   “KEY ITEMS” POCKET, then press\n"
-	.string "   up or down to select “TOWN MAP.” \n"
-	.string "{CIRCLE_4} Select “USE” to open the TOWN MAP.$"
+	.string "{CIRCLE_1}打开菜单。\n"
+	.string "{CIRCLE_2}按十字键的上下键\n"
+	.string "   P来选择“包包”。\n"
+	.string "{CIRCLE_3}按左右键来打开\n"
+	.string "   “重要道具”口袋然后按\n"
+	.string "   上或者下键来选择“城镇地图”。\n"
+	.string "{CIRCLE_4}选择“使用”来使用城镇地图。$"
 
 Help_Text_HowToUseTM::
-	.string "{CIRCLE_1} Open the MENU.\n"
-	.string "{CIRCLE_2} Open the “KEY ITEMS” POCKET in the\n"
-	.string "   “BAG.”\n"
-	.string "{CIRCLE_3} “OPEN” the TM CASE.\n"
-	.string "{CIRCLE_4} Select and “USE” a TM.\n"
-	.string "{CIRCLE_5} Select a POKéMON that can learn the\n"
-	.string "   move in the TM.$"
+	.string "{CIRCLE_1}打开菜单。\n"
+	.string "{CIRCLE_2}打开“包包”里的\n"
+	.string "   “重要道具”口袋。\n"
+	.string "{CIRCLE_3}“打开”招式学习器盒。\n"
+	.string "{CIRCLE_4}选择然后“使用”一个学习器。\n"
+	.string "{CIRCLE_5}选择可以学会该\n"
+	.string "   招式的宝可梦。$"
 
 Help_Text_HowToUseHM::
-	.string "{CIRCLE_1} Open the MENU.\n"
-	.string "{CIRCLE_2} Open the “KEY ITEMS” POCKET in the\n"
-	.string "   “BAG.”\n"
-	.string "{CIRCLE_3} “OPEN” the TM CASE.\n"
-	.string "{CIRCLE_4} Select and “USE” an HM.\n"
-	.string "{CIRCLE_5} Select a POKéMON that can learn it.\n"
-	.string "HMs are hard to remove, so be careful!$"
+	.string "{CIRCLE_1}打开菜单。\n"
+	.string "{CIRCLE_2}打开“包包”里的\n"
+	.string "   “重要道具”口袋。\n"
+	.string "{CIRCLE_3}“打开”招式学习器盒。\n"
+	.string "{CIRCLE_4}选择然后“使用”一个秘传学习器。\n"
+	.string "{CIRCLE_5}选择可以学习该招式的宝可梦。\n"
+	.string "   秘传招式很难忘记，要谨慎选择！$"
 
 Help_Text_HowToUseMoveOutsideOfBattle::
-	.string "{CIRCLE_1} Open the MENU.\n"
-	.string "{CIRCLE_2} Select “POKéMON.”\n"
-	.string "{CIRCLE_3} Select a POKéMON that knows an\n"
-	.string "   HM move. The usable HM move(s)\n"
-	.string "   will be shown in blue. Select and\n"
-	.string "   use the desired move to destroy an\n"
-	.string "   obstacle, fly, surf, etc.$"
+	.string "{CIRCLE_1}打开菜单。\n"
+	.string "{CIRCLE_2}选择“宝可梦。”\n"
+	.string "{CIRCLE_3}选择学会HM\n"
+	.string "   的宝可梦。可被使用的HM招式\n"
+	.string "   会以蓝字显示。选择\n"
+	.string "   招式来破坏\n"
+	.string "   目标，飞行或者冲浪等等。$"
 
 Help_Text_HowToRideBicycle::
-	.string "{CIRCLE_1} Open the MENU. Open the\n"
-	.string "   “KEY ITEMS” POCKET in the “BAG”\n"
-	.string "   and select the “BICYCLE.”\n"
-	.string "{CIRCLE_2} The BICYCLE can be ridden by\n"
-	.string "   selecting “USE.” You may also\n"
-	.string "   “REGISTER” it for instant use by\n"
-	.string "   pressing SELECT.$"
+	.string "{CIRCLE_1}打开菜单。打开\n"
+	.string "   “包包”里的“重要道具”口袋\n"
+	.string "   然后选择“自行车”。\n"
+	.string "{CIRCLE_2}要骑上自行车的话\n"
+	.string "   就选择“使用”。你也可以\n"
+	.string "   “登记”它来用\n"
+	.string "   选择键来快速使用。$"
 
 Help_Text_HowToEnterName::
-	.string "{CIRCLE_1} Move the cursor to the letter you\n"
-	.string "   want with the {PLUS} Control Pad, then\n"
-	.string "   press the A Button to enter it.\n"
-	.string "{CIRCLE_2} Press the B Button to back up.\n"
-	.string "{CIRCLE_3} Press SELECT to switch between\n"
-	.string "   uppercase and lowercase letters.\n"
-	.string "{CIRCLE_4} Press the A Button on “OK.”$"
+	.string "{CIRCLE_1}用十字键把选择框移到\n"
+	.string "  你想选择的字母上，然后\n"
+	.string "   按下A键来输入。\n"
+	.string "{CIRCLE_2}按B键删除。\n"
+	.string "{CIRCLE_3}按选择键在\n"
+	.string "   大写跟小写间切换。\n"
+	.string "{CIRCLE_4}在“OK”上按A键。$"
 
 Help_Text_HowToUsePC::
-	.string "{CIRCLE_1} Go to any POKéMON CENTER, go up\n"
-	.string "   to the PC, then press the A Button.$"
+	.string "{CIRCLE_1}前往任何宝可梦中心，走到\n"
+	.string "   电脑前，然后按下A键。$"
 
 Help_Text_HowToUseBillsPC::
-	.string "{CIRCLE_1} Select “{STR_VAR_1}'S PC” on the PC.\n"
-	.string "{CIRCLE_2} Select from one of the top three\n"
-	.string "   MENU items to access the POKéMON\n"
-	.string "   Storage System.\n"
-	.string "If you catch a POKéMON when you have\n"
-	.string "six in your party, the POKéMON is sent\n"
-	.string "automatically to a BOX in the System!$"
+	.string "{CIRCLE_1}选择电脑里的“{B_COPY_VAR_1}的电脑”。\n"
+	.string "{CIRCLE_2}从菜单的三个选项中\n"
+	.string "   选择一个登陆到宝可梦\n"
+	.string "   储存系统。\n"
+	.string "如果你抓到新的宝可梦时\n"
+	.string "队伍中有满了，新的宝可梦会自动\n"
+	.string "送到系统的盒子里！$"
 
 Help_Text_HowToUseWithdraw::
-	.string "{CIRCLE_1} Select a POKéMON in the open BOX\n"
-	.string "   with the {PLUS} Control Pad.\n"
-	.string "{CIRCLE_2} Select “WITHDRAW” to remove the\n"
-	.string "   POKéMON from the BOX and add it to\n"
-	.string "   your party.\n"
-	.string "You may not withdraw a POKéMON if you\n"
-	.string "already have six POKéMON with you!$"
+	.string "{CIRCLE_1}用十字键选择在\n"
+	.string "  盒子里的宝可梦。\n"
+	.string "{CIRCLE_2}选择“取出”去把\n"
+	.string "   宝可梦从盒子移到\n"
+	.string "   你的队伍中。\n"
+	.string "如果你队伍中已经有六只宝可梦\n"
+	.string "你就不能再把宝可梦放进队伍里。$"
 
 Help_Text_HowToUseDeposit::
-	.string "{CIRCLE_1} Select a POKéMON in your party with\n"
-	.string "   the {PLUS} Control Pad.\n"
-	.string "{CIRCLE_2} Select “DEPOSIT.”\n"
-	.string "{CIRCLE_3} Select the BOX, then press the\n"
-	.string "   A Button to store the POKéMON.\n"
-	.string "If you have only one POKéMON with you,\n"
-	.string "it may not be stored!$"
+	.string "{CIRCLE_1}用十字键选择\n"
+	.string "   队伍中的宝可梦。\n"
+	.string "{CIRCLE_2}选择“存放。”\n"
+	.string "{CIRCLE_3}选择盒子，然后按下\n"
+	.string "   A键来储存宝可梦。\n"
+	.string "如果你只有一只宝可梦在队伍中，\n"
+	.string "它将不能被储存！$"
 
 Help_Text_HowToUseMove::
-	.string "{CIRCLE_1} Select a POKéMON in the open BOX.\n"
-	.string "{CIRCLE_2} Pick up the POKéMON by selecting\n"
-	.string "   “MOVE” and move it anywhere with\n"
-	.string "   the {PLUS} Control Pad.\n"
-	.string "{CIRCLE_3} Move the POKéMON to the BOX name\n"
-	.string "   and press left or right to move it\n"
-	.string "   to another BOX.$"
+	.string "{CIRCLE_1}选择一只在盒子中的宝可梦.\n"
+	.string "{CIRCLE_2}用“移动”去选择移动一只\n"
+	.string "   宝可梦然后以十字键\n"
+	.string "   把它移到任何地方。\n"
+	.string "{CIRCLE_3}把宝可梦移到盒子名字上\n"
+	.string "   然后按左右键\n"
+	.string "   移到其他盒子。$"
 
 Help_Text_HowToMoveItems::
-	.string "{CIRCLE_1} Faintly shown POKéMON can be made\n"
-	.string "   to hold an item by selecting it and\n"
-	.string "   pressing the A Button.\n"
-	.string "{CIRCLE_2} Clearly shown POKéMON can be made\n"
-	.string "   to give the item they are holding to\n"
-	.string "   another POKéMON, or return the item\n"
-	.string "   to the BAG with the A Button.$"
+	.string "{CIRCLE_1}淡化地显示的宝可梦 \n"
+	.string "   可以在它上按A键\n"
+	.string "   来让它持有一个道具。\n"
+	.string "{CIRCLE_2}清晰地显示的宝可梦\n"
+	.string "   可以用A键把它们身上的\n"
+	.string "  道具交给其他宝可梦，或者\n"
+	.string "   送回包包去。$"
 
 Help_Text_HowToUsePlayersPC::
-	.string "{CIRCLE_1} Select “{PLAYER}'s PC” on the PC.\n"
-	.string "{CIRCLE_2} Select either “ITEM STORAGE” or\n"
-	.string "   “MAILBOX.”\n"
-	.string "You may store things in your own PC\n"
-	.string "if your BAG is full. You may also\n"
-	.string "withdraw items stored in your PC.$"
+	.string "{CIRCLE_1}选择电脑里的“{PLAYER}的电脑”。\n"
+	.string "{CIRCLE_2}选择“道具仓库”或\n"
+	.string "   “邮箱”。\n"
+	.string "如果你的包包满了\n"
+	.string "你可以存到你的电脑中。你也可以\n"
+	.string "从电脑中把道具拿出来。$"
 
 Help_Text_HowToUseWithdrawItem::
-	.string "{CIRCLE_1} Select “WITHDRAW ITEM.”\n"
-	.string "{CIRCLE_2} Select the item to be withdrawn.\n"
-	.string "{CIRCLE_3} The item can be withdrawn and\n"
-	.string "   placed in the BAG's ITEMS POCKET.\n"
-	.string "   It may also be directly given to a\n"
-	.string "   POKéMON to hold.$"
+	.string "{CIRCLE_1}选择“取出道具”。\n"
+	.string "{CIRCLE_2}选择要拿出来的道具。\n"
+	.string "{CIRCLE_3}拿出来的道具可以\n"
+	.string "  放到包包里的道具口袋。\n"
+	.string "   你也可以直接把道具\n"
+	.string "   交给宝可梦去持有。$"
 
 Help_Text_HowToUseDepositItem::
-	.string "{CIRCLE_1} Select “DEPOSIT ITEM.”\n"
-	.string "{CIRCLE_2} Select the item in the BAG to be\n"
-	.string "   deposited using the {PLUS} Control Pad.\n"
-	.string "{CIRCLE_3} If there is more than one \n"
-	.string "   item to be deposited, enter the\n"
-	.string "   quantity with the {PLUS} Control Pad,\n"
-	.string "   then press the A Button.$"
+	.string "{CIRCLE_1}选择“存放道具。”\n"
+	.string "{CIRCLE_2}包包里的道具\n"
+	.string "   用十字键来选择来丢弃。\n"
+	.string "{CIRCLE_3} 如果要存放一个以上的 \n"
+	.string "   的道具。\n"
+	.string "   按住键，\n"
+	.string "   然后按A键。$"
 
 Help_Text_HowToUseMailbox::
-	.string "When MAIL is taken from a POKéMON,\n"
-	.string "it is moved to the MAILBOX. If it has\n"
-	.string "no MAIL, the MAILBOX can't be used.\n"
-	.string "{CIRCLE_1} Select “{PLAYER}'S PC” on the PC.\n"
-	.string "{CIRCLE_2} Select “MAILBOX” to read MAIL or\n"
-	.string "   make a POKéMON hold MAIL.$"
+	.string "如果获得了带有信纸的宝可梦邮件，\n"
+	.string "邮件会被移动到邮箱，\n"
+	.string "没有邮件的话，邮箱不能使用\n"
+	.string "{CIRCLE_1} 在电脑上选择选择“{PLAYER}的电脑”\n"
+	.string "{CIRCLE_2} 选择“邮箱”来阅读邮件\n"
+	.string "   或者宝可梦携带的邮件。$"
 
 Help_Text_HowToUseProfOaksPC::
-	.string "{CIRCLE_1} Select “PROF. OAK'S PC” on the PC.\n"
-	.string "{CIRCLE_2} PROF. OAK will evaluate your\n"
-	.string "   POKéDEX.\n"
-	.string "His evaluations should give you hints\n"
-	.string "for catching more POKéMON!$"
+	.string "{CIRCLE_1} 在电脑上选择“大木博士的电脑”\n"
+	.string "{CIRCLE_2} 大木博士会给你的\n"
+	.string "   宝可梦图鉴做出评价\n"
+	.string "他的评价会给你\n"
+	.string "收服宝可梦带来更多的动力！$"
 
 Help_Text_HowToOpenMenu::
-	.string "{CIRCLE_1} Press START.\n"
-	.string "{CIRCLE_2} The MENU will open on the right.\n"
-	.string "{CIRCLE_3} Depending on the situation, the MENU\n"
-	.string "   may feature different headings.\n"
-	.string "The MENU will not open in certain\n"
-	.string "situations such as when talking, doing\n"
-	.string "something, battling, etc.$"
+	.string "{CIRCLE_1} 按开始键。\n"
+	.string "{CIRCLE_2} 菜单会在屏幕右侧打开。\n"
+	.string "{CIRCLE_3} 根据设置的不同，菜单\n"
+	.string "   会有不同的外观。\n"
+	.string "菜单在发生对话，\n"
+	.string "战斗，以及其它一些事的时候\n"
+	.string "是不能打开的。$"
 
 Help_Text_HowToUseFight::
-	.string "{CIRCLE_1} Select “FIGHT.”\n"
-	.string "{CIRCLE_2} Select one of the moves shown,\n"
-	.string "and that move will be used!$"
+	.string "{CIRCLE_1} 选择“格斗”\n"
+	.string "{CIRCLE_2} 选择一个显示出来的招式，\n"
+	.string "然后这个招式就会被使出来！$"
 
 Help_Text_HowToUsePokemon2::
-	.string "{CIRCLE_1} Select “POKéMON.”\n"
-	.string "{CIRCLE_2} Select the POKéMON in your party\n"
-	.string "   that you want to use.\n"
-	.string "{CIRCLE_3} If you have two or more POKéMON\n"
-	.string "   with you, they may be switched by\n"
-	.string "   selecting “SHIFT.” Check POKéMON\n"
-	.string "   data by selecting “SUMMARY.”$"
+	.string "{CIRCLE_1} 选择“宝可梦”\n"
+	.string "{CIRCLE_2} 选择在你队伍中的\n"
+	.string "   你想使用的宝可梦。\n"
+	.string "{CIRCLE_3} 如果你有两只以上的宝可梦\n"
+	.string "   你可以通过“替换”\n"
+	.string "   交换它们的顺序，通过“概况”\n"
+	.string "   查看它们的状态。$"
 
 Help_Text_HowToUseShift::
-	.string "This command switches the POKéMON in\n"
-	.string "battle with another one in your party.\n"
-	.string "{CIRCLE_1} Select the POKéMON to be sent out.\n"
-	.string "{CIRCLE_2} Select “SHIFT.”\n"
-	.string "{CIRCLE_3} The selected POKéMON will switch\n"
-	.string "   places with the POKéMON in battle!$"
+	.string "这个操作可以在战斗中更换\n"
+	.string "你队伍里的宝可梦。\n"
+	.string "{CIRCLE_1} 选中想要上场的宝可梦。\n"
+	.string "{CIRCLE_2} 选择“替换”\n"
+	.string "{CIRCLE_3} 选中的宝可梦将会\n"
+	.string "   代替现在场上的宝可梦上场！$"
 
 Help_Text_HowToUseSummary2::
-	.string "{CIRCLE_1} Select “SUMMARY.”\n"
-	.string "{CIRCLE_2} Press left or right on the {PLUS} Control\n"
-	.string "   Pad to check the information:\n"
-	.string "   “POKéMON INFO”\n"
-	.string "   “POKéMON SKILLS”\n"
-	.string "   “KNOWN MOVES”$"
+	.string "{CIRCLE_1} 选择“概况”\n"
+	.string "{CIRCLE_2} 通过十字键的\n"
+	.string "   左和右来查看以下信息：\n"
+	.string "   “宝可梦情报”\n"
+	.string "   “宝可梦能力”\n"
+	.string "   “学会的招式”$"
 
 Help_Text_HowToUseBag2::
-	.string "{CIRCLE_1} Select “BAG.”\n"
-	.string "{CIRCLE_2} Press left or right on the {PLUS} Control\n"
-	.string "   Pad to check the data headings:\n"
-	.string "   “ITEMS”\n"
-	.string "   “KEY ITEMS”\n"
-	.string "   “POKé BALLS”\n"
-	.string "   Press up or down to select an item.$"
+	.string "{CIRCLE_1} 选择“包包”\n"
+	.string "{CIRCLE_2} 通过按动十字键的\n"
+	.string "   左和右，上面显示的字会变化。\n"
+	.string "   “道具”\n"
+	.string "   “重要道具”\n"
+	.string "   “精灵球”\n"
+	.string "   按上或者下来选择道具。$"
 
 Help_Text_HowToReadPokedex::
-	.string "{CIRCLE_1} POKéMON that you have caught are\n"
-	.string "   identified by a POKé BALL mark on\n"
-	.string "   the POKéDEX list.\n"
-	.string "{CIRCLE_2} A caught POKéMON will provide a\n"
-	.string "   large amount of data.\n"
+	.string "{CIRCLE_1} 宝可梦被收服之后\n"
+	.string "   在宝可梦图鉴上会\n"
+	.string "   显示出一个精灵球的标志。\n"
+	.string "{CIRCLE_2} 被收服的宝可梦会\n"
+	.string "   提供大量的数据。\n"
 	.if REVISION < 1
-	.string "{CIRCLE_3} Select “AREA” to display the TOWN\n"
-	.string "   MAP with the POKéMON's habitat(s).$"
+	.string "{CIRCLE_3} 选择“栖息地”可以在镇\n"
+	.string "   地图显示宝可梦的栖息地。$"
 	.else
 	.string "{CIRCLE_3} Select “NEXT DATA” to display the\n"
 	.string "   TOWN MAP with its habitat(s).$"
 	.endif
 
 Help_Text_HowToUseHomePC::
-	.string "{CIRCLE_1} Go up to the PC at home, then press\n"
-	.string "   the A Button.\n"
-	.string "{CIRCLE_2} The PC will turn on.\n"
-	.string "{CIRCLE_3} Select either “ITEM STORAGE” or\n"
-	.string "   “MAILBOX.”$"
+	.string "{CIRCLE_1} 走到家中的电脑前，\n"
+	.string "   然后按下A键。\n"
+	.string "{CIRCLE_2} 电脑将会启动。\n"
+	.string "{CIRCLE_3} 选择“道具仓库”或者\n"
+	.string "   “邮箱”$"
 
 Help_Text_HowToUseItemStorage::
-	.string "{CIRCLE_1} Select “WITHDRAW ITEM” to withdraw\n"
-	.string "   an item stored on your PC.\n"
-	.string "{CIRCLE_2} Select “DEPOSIT ITEM” to put \n"
-	.string "   an item from your BAG into your PC.$"
+	.string "{CIRCLE_1} 选择“取出道具”\n"
+	.string "   取出你电脑里存储的道具。\n"
+	.string "{CIRCLE_2} 选择“存放道具” \n"
+	.string "   将你包包里的道具存入电脑。$"
 
 Help_Text_HowToUseWithdrawItem2::
-	.string "{CIRCLE_1} Select “WITHDRAW ITEM.”\n"
-	.string "{CIRCLE_2} Select the item to be withdrawn.\n"
-	.string "{CIRCLE_3} The item can be withdrawn and\n"
-	.string "   placed in the BAG's ITEMS POCKET.\n"
-	.string "   It may also be directly given to a\n"
-	.string "   POKéMON to hold.$"
+	.string "{CIRCLE_1} 选择“取出道具”\n"
+	.string "{CIRCLE_2} 选中需要取出的道具。\n"
+	.string "{CIRCLE_3} 选中的道具会被取出\n"
+	.string "   放进包包的口袋里。\n"
+	.string "   同样也可以直接交给\n"
+	.string "   宝可梦装备上。$"
 
 Help_Text_HowToUseDepositItem2::
-	.string "{CIRCLE_1} Select “DEPOSIT ITEM.”\n"
-	.string "{CIRCLE_2} Select the item in the BAG to be\n"
-	.string "   deposited using the {PLUS} Control Pad.\n"
-	.string "{CIRCLE_3} If there is nothing in the BAG, this\n"
-	.string "   command can't be used!$"
+	.string "{CIRCLE_1} 选择“存放道具。”\n"
+	.string "{CIRCLE_2} 通过十字键选择包包\n"
+	.string "   里需要存放的道具。\n"
+	.string "{CIRCLE_3} 如果包包里没有任何东西，\n"
+	.string "   这个功能就用不了！$"
 
 Help_Text_HowToUseMailbox2::
-	.string "When MAIL is taken from a POKéMON,\n"
-	.string "it is moved to the MAILBOX. If it has\n"
-	.string "no MAIL, the MAILBOX can't be used.\n"
-	.string "{CIRCLE_1} Select MAIL by name to read it or\n"
-	.string "   make a POKéMON hold it.$"
+	.string "当邮件被从宝可梦身上拿走时，\n"
+	.string "它会被传到邮箱。如果\n"
+	.string "没有邮件的话，那就不能用邮箱了。\n"
+	.string "{CIRCLE_1}选择邮件标题来阅读\n"
+	.string "   或者让宝可梦持有它。$"
 
 Help_Text_HowToUseRun::
-	.string "You may not “RUN” from a TRAINER\n"
-	.string "battle!\n"
-	.string "{CIRCLE_1} You may “RUN” from a wild POKéMON.\n"
-	.string "{CIRCLE_2} Your chance of escape is improved\n"
-	.string "   if your POKéMON in battle is fast.$"
+	.string "你不可以从跟训练家的\n"
+	.string "战斗中“逃跑”！\n"
+	.string "{CIRCLE_1}你可以在跟野生宝可梦的战斗中“逃跑”。\n"
+	.string "{CIRCLE_2}如果你的宝可梦的速度够快\n"
+	.string "   你逃跑的机率会提高。$"
 
 Help_Text_HowToRegisterKeyItem::
-	.string "You may “REGISTER” a key item for\n"
-	.string "instant use by pressing SELECT!\n"
-	.string "{CIRCLE_1} Open the “KEY ITEMS” POCKET.\n"
-	.string "{CIRCLE_2} Select the key item, then select\n"
-	.string "   “REGISTER.”$"
+	.string "你可以用选择来\n"
+	.string "“登记”一个贵重物品！\n"
+	.string "{CIRCLE_1}打开“重要道具”的口袋。\n"
+	.string "{CIRCLE_2}选择一个贵重物品，然后选\n"
+	.string "   “登记”。$"
 
 Help_Text_HowToUseBall::
-	.string "{CIRCLE_1} Select to throw the special POKé\n"
-	.string "   BALL used only in the SAFARI ZONE.\n"
-	.string "When wild POKéMON appear, throw lots\n"
-	.string "of SAFARI BALLS to catch them!$"
+	.string "{CIRCLE_1}选择这个来抛出只在\n"
+	.string "   狩猎地带使用的精灵球。\n"
+	.string "当野生宝可梦出现时，抛出\n"
+	.string "一大堆狩猎球来抓它们吧！$"
 
 Help_Text_HowToUseBait::
-	.string "{CIRCLE_1} Select to throw the special food\n"
-	.string "   used only in the SAFARI ZONE.\n"
-	.string "It is POKéMON food rolled up into\n"
-	.string "a ball for easy eating. When BAIT is\n"
-	.string "thrown, the wild POKéMON may get\n"
-	.string "attracted by it, and may not flee!$"
+	.string "{CIRCLE_1}选择这个来抛出\n"
+	.string "   狩猎地带专用的食物。\n"
+	.string "这是被卷成球状的宝可梦食物\n"
+	.string "非常容易食用。当饵食被\n"
+	.string "抛出，野生的宝可梦可能会被\n"
+	.string "吸引，也不容易逃走！$"
 
 Help_Text_HowToUseRock::
-	.string "{CIRCLE_1} Select to throw a rock lying on\n"
-	.string "   the ground in the SAFARI ZONE.\n"
-	.string "Throwing a rock at a POKéMON may \n"
-	.string "make it run away, but it becomes easier\n"
-	.string "to catch!$"
+	.string " {CIRCLE_1} 选择这个来抛出在\n"
+	.string "   狩猎地带地上的石头。\n"
+	.string "对宝可梦抛石头\n"
+	.string "可能会把它吓走，不过它会\n"
+	.string "更容易被收服！$"
 
 Help_Text_HowToUseHallOfFame::
-	.string "{CIRCLE_1} Select “HALL OF FAME” on the PC.\n"
-	.string "{CIRCLE_2} The POKéMON that have entered the\n"
-	.string "   HALL OF FAME can be examined.$"
+	.string "{CIRCLE_1} 在电脑中选择“登入名人堂”。\n"
+	.string "{CIRCLE_2} 进入过名人堂的宝可梦的资料\n"
+	.string "   可以在这查看。$"
 
 Help_Text_HP::
 	.string "HP$"
 
 Help_Text_EXP::
-	.string "EXP. {LEFT_PAREN}EXP. Points{RIGHT_PAREN}$"
+	.string "经验 {LEFT_PAREN}经验值{RIGHT_PAREN}$"
 
 Help_Text_Moves::
-	.string "MOVES$"
+	.string "招式$"
 
 Help_Text_Attack::
-	.string "ATTACK$"
+	.string "攻击$"
 
 Help_Text_Defense::
-	.string "DEFENSE$"
+	.string "防御$"
 
 Help_Text_SpAtk::
-	.string "SP. ATK$"
+	.string "特攻$"
 
 Help_Text_SpDef::
-	.string "SP. DEF$"
+	.string "特防$"
 
 Help_Text_Speed::
-	.string "SPEED$"
+	.string "速度$"
 
 Help_Text_Level::
-	.string "Lv. {LEFT_PAREN}Level{RIGHT_PAREN}$"
+	.string "Lv. {LEFT_PAREN}等级{RIGHT_PAREN}$"
 
 Help_Text_Type::
-	.string "TYPE$"
+	.string "属性$"
 
 Help_Text_OT::
-	.string "OT$"
+	.string "初训家$"
 
 Help_Text_Item::
-	.string "ITEM$"
+	.string "道具$"
 
 Help_Text_Ability::
-	.string "ABILITY$"
+	.string "特性$"
 
 Help_Text_Money::
-	.string "MONEY$"
+	.string "零花钱$"
 
 Help_Text_MoveType::
-	.string "MOVE TYPE$"
+	.string "招式属性$"
 
 Help_Text_Nature::
-	.string "NATURE$"
+	.string "性格$"
 
 Help_Text_IDNo::
 	.string "ID No.$"
@@ -1115,767 +1107,767 @@ Help_Text_PP::
 	.string "PP$"
 
 Help_Text_Power::
-	.string "POWER$"
+	.string "威力$"
 
 Help_Text_Accuracy::
-	.string "ACCURACY$"
+	.string "命中$"
 
 Help_Text_FNT::
-	.string "FNT$"
+	.string "昏厥$"
 
 Help_Text_Items::
-	.string "ITEMS$"
+	.string "道具$"
 
 Help_Text_KeyItems::
-	.string "KEY ITEMS$"
+	.string "重要道具$"
 
 Help_Text_PokeBalls::
-	.string "POKé BALLS$"
+	.string "精灵球$"
 
 Help_Text_Pokedex::
-	.string "POKéDEX$"
+	.string "图鉴$"
 
 Help_Text_PlayTime::
-	.string "PLAY TIME$"
+	.string "游戏时间$"
 
 Help_Text_Badges::
-	.string "BADGES$"
+	.string "徽章$"
 
 Help_Text_TextSpeed::
-	.string "TEXT SPEED$"
+	.string "语速$"
 
 Help_Text_BattleScene::
-	.string "BATTLE SCENE$"
+	.string "战斗动画$"
 
 Help_Text_BattleStyle::
-	.string "BATTLE STYLE$"
+	.string "比赛规则$"
 
 Help_Text_Sound::
-	.string "SOUND$"
+	.string "音乐$"
 
 Help_Text_ButtonMode::
-	.string "BUTTON MODE$"
+	.string "按键模式$"
 
 Help_Text_Frame::
-	.string "FRAME$"
+	.string "边框$"
 
 Help_Text_Cancel2::
-	.string "CANCEL$"
+	.string "取消$"
 
 Help_Text_TM::
-	.string "TM$"
+	.string "招式学习器$"
 
 Help_Text_HM::
-	.string "HM$"
+	.string "秘传学习器$"
 
 Help_Text_HMMove::
-	.string "HM MOVE$"
+	.string "秘传招式$"
 
 Help_Text_Evolution::
-	.string "EVOLUTION$"
+	.string "进化$"
 
 Help_Text_StatusProblem::
-	.string "STATUS PROBLEM$"
+	.string "异常状态$"
 
 Help_Text_Pokemon::
-	.string "POKéMON$"
+	.string "宝可梦$"
 
 Help_Text_IDNo2::
 	.string "ID No.$"
 
 Help_Text_Money2::
-	.string "MONEY$"
+	.string "零花钱$"
 
 Help_Text_Badges2::
-	.string "BADGES$"
+	.string "徽章$"
 
 Help_Text_DefineHP::
-	.string "HP indicates a POKéMON's vitality.\n"
-	.string "If a POKéMON's HP drops to zero, it\l"
-	.string "faints and is unable to battle.\l"
-	.string "So, the key in battle is to try to\l"
-	.string "reduce the foe's HP to zero.\l"
-	.string "If your POKéMON are hurt, restore their\l"
-	.string "HP at a POKéMON CENTER or use items.$"
+	.string "HP就是宝可梦的生命值。\n"
+	.string "如果宝可梦的HP降至零，它就会\l"
+	.string "晕倒且不能战斗。\l"
+	.string "所以，战斗的要点就是要把\l"
+	.string "对手的HP降至零。\l"
+	.string "如果你的宝可梦受伤了，可以在\l"
+	.string "宝可梦中心或者用道具恢复HP。$"
 
 Help_Text_DefineEXP::
-	.string "EXP. Points stands for “Experience\n"
-	.string "Points.” POKéMON gain EXP. Points by\l"
-	.string "participating in winning battles.\l"
-	.string "When a POKéMON accumulates sufficient\l"
-	.string "EXP. Points, it levels up. The EXP. Bar\l"
-	.string "indicates accumulated EXP. Points.\l"
-	.string "It returns to zero upon leveling up.$"
+	.string "经验值就是战斗经验的简称。\n"
+	.string "宝可梦得到经验值的方法就是\l"
+	.string "在战斗中取得胜利。\l"
+	.string "当宝可梦积累了足够的\l"
+	.string "经验值后，它就会升级。那个经验条\l"
+	.string "代表了目前积累了的经验值。\l"
+	.string "升级后经验条将会清零。$"
 
 Help_Text_DefineMoves::
-	.string "POKéMON may learn up to four different\n"
-	.string "moves. There are many kinds of moves\l"
-	.string "including attacks and those with\l"
-	.string "special effects. The kinds of moves\l"
-	.string "that can be learned vary for each\l"
-	.string "POKéMON. Some moves can be learned\l"
-	.string "from items.$"
+	.string "宝可梦最多可以记住\n"
+	.string "四个招式。招式有很多种，\l"
+	.string "包括了攻击招式和\l"
+	.string "带有特殊效果的招式。\l"
+	.string "可以学到这些招式的宝可梦\l"
+	.string "有很多。有些招式可以\l"
+	.string "用道具学到。$"
 
 Help_Text_DefineAttack::
-	.string "ATTACK indicates the power of an\n"
-	.string "offensive move. The higher this stat,\l"
-	.string "the more powerful the move.\l"
-	.string "It is applied for the following move\l"
-	.string "types: NORMAL, POISON, GROUND,\l"
-	.string "FLYING, BUG, FIGHTING, ROCK, GHOST,\l"
-	.string "and STEEL.$"
+	.string "攻击代表了攻击性的\n"
+	.string "招式的力量。数值越高，\l"
+	.string "作出的伤害越高。\l"
+	.string "这个数值会影响以下属性的\l"
+	.string "攻击力：一般，毒，地上，\l"
+	.string "飞行，虫，格斗，岩石，幽灵\l"
+	.string "和钢。$"
 
 Help_Text_DefineDefense::
-	.string "DEFENSE indicates the resistance a\n"
-	.string "POKéMON has against physical attacks.\l"
-	.string "The higher this stat, the less damage\l"
-	.string "sustained from a foe's physical hit.$"
+	.string "防御代表了\n"
+	.string "宝可梦对物理攻击的抗性。\l"
+	.string "数值越高，对方的物理攻击\l"
+	.string "作出的伤害就越少。$"
 
 Help_Text_DefineSpAtk::
-	.string "SP. ATK (Special Attack) indicates the\n"
-	.string "power of a special attack move.\l"
-	.string "The higher this stat, the more powerful\l"
-	.string "the special attack move.\l"
-	.string "It is applied for the following move\l"
-	.string "types: FIRE, WATER, ELECTRIC, GRASS,\l"
-	.string "ICE, PSYCHIC, DRAGON, and DARK.$"
+	.string "特攻(特殊攻击)代表\n"
+	.string "特殊攻击的威力。\l"
+	.string "数值越高，用特殊攻击招式\l"
+	.string "打出的伤害越高。\l"
+	.string "这个数值会影响以下属性的\l"
+	.string "攻击力：火，水，电，草，\l"
+	.string "冰，超能力，龙和恶。$"
 
 Help_Text_DefineSpDef::
-	.string "SP. DEF (Special Defense) indicates\n"
-	.string "the resistance a POKéMON has against\l"
-	.string "special attacks.\l"
-	.string "The higher this stat, the less damage\l"
-	.string "sustained from a foe's special attack.$"
+	.string "特防(特殊防御)代表了\n"
+	.string "宝可梦对特殊攻击的抗性。\l"
+	.string "数值越高，对方的特殊攻击\l"
+	.string "作出的伤害就越少。$"
 
 Help_Text_DefineSpeed::
-	.string "SPEED indicates the agility of a\n"
-	.string "POKéMON. If this stat exceeds the foe's\l"
-	.string "in battle, the POKéMON can make a move\l"
-	.string "before its slower opponent.$"
+	.string "速度代表了宝可梦\n"
+	.string "的灵活性。在战斗中这个数值\l"
+	.string "比对方的高，宝可梦就可以\l"
+	.string "对比它慢的对手先行动。$"
 
 Help_Text_DefineLevel::
-	.string "Lv. (Level) indicates the growth and\n"
-	.string "strength of a POKéMON.\l"
-	.string "In general, when a POKéMON levels up,\l"
-	.string "its stats such as HP, ATTACK, and\l"
-	.string "DEFENSE rise, making it stronger.\l"
-	.string "POKéMON may learn a new move upon\l"
-	.string "leveling up.$"
+	.string "Lv.(等级)代表了\n"
+	.string "宝可梦的成长度和力量。\l"
+	.string "一般来说，当宝可梦升级时，\l"
+	.string "它的能力值像是HP，攻击\l"
+	.string "和防御都会提升，使它更强。\l"
+	.string "宝可梦升级时可能会\l"
+	.string "学到新的招式。$"
 
 Help_Text_DefineType::
-	.string "POKéMON and moves are classified by\n"
-	.string "type. Every type has advantageous and\l"
-	.string "disadvantageous matchups against\l"
-	.string "other types. For example, like a rock-\l"
-	.string "paper-scissors game, the WATER type is\l"
-	.string "strong against the FIRE type and weak\l"
-	.string "against the GRASS type.$"
+	.string "宝可梦和招式都是以属性划分。\n"
+	.string "每个属性相对于\l"
+	.string "其他属性都有优势跟劣势。\l"
+	.string "就像是剪刀石头布游戏，\l"
+	.string "水对火属性很有效，\l"
+	.string "可是对着草属性\l"
+	.string "就没有太大效果了。$"
 
 Help_Text_DefineOT::
-	.string "OT stands for “Original TRAINER,”\n"
-	.string "the first TRAINER to have caught the\l"
-	.string "selected POKéMON.\l"
-	.string "Even if the POKéMON is traded, the OT\l"
-	.string "name will remain unchanged.$"
+	.string "初训家代表“宝可梦的原主人”\n"
+	.string "就是第一个抓到\l"
+	.string "这只宝可梦的训练家。\l"
+	.string "就算宝可梦被交换了，\l"
+	.string "初训家的名字也不会改变。$"
 
 Help_Text_DefineItem::
-	.string "All POKéMON can be made to hold one\n"
-	.string "item each. Some items will be used by\l"
-	.string "the POKéMON automatically in certain\l"
-	.string "situations. To make a POKéMON hold an\l"
-	.string "item, select the item from the BAG and\l"
-	.string "“GIVE” it to the POKéMON.$"
+	.string "所有宝可梦同一时间\n"
+	.string "都可持有一个道具。\l"
+	.string "有些可以在特定情况下\l"
+	.string "自动被宝可梦使用。\l"
+	.string "要让宝可梦持有道具，\l"
+	.string "在包包里选择道具然后选择\l"
+	.string "“携带”交给宝可梦。$"
 
 Help_Text_DefineAbility::
-	.string "All POKéMON have a special ABILITY.\n"
-	.string "There are many different kinds of these\l"
-	.string "abilities, some used in battle, some\l"
-	.string "elsewhere. The abilities differ from\l"
-	.string "species to species. Some species may\l"
-	.string "have more than one kind of ability.$"
+	.string "所有宝可梦都有特别的特性。\n"
+	.string "这些特性有很多种，有些只在战斗中有用，\l"
+	.string "有些什么时候都有用。\l"
+	.string "每个种族的特性都不同。\l"
+	.string "有些甚至在同种族中\l"
+	.string "都有不同的特性。$"
 
 Help_Text_DefineMoney::
-	.string "Whenever you win a battle against a\n"
-	.string "TRAINER, you are given prize money.\l"
-	.string "Save up your prize money so you can\l"
-	.string "enjoy shopping at POKéMON MARTS!$"
+	.string "不管你在什么地方战胜了\n"
+	.string "一个训练家，你都会得到奖金。\l"
+	.string "好好地把钱存起来，\l"
+	.string "然后在宝可梦商店尽情购物！$"
 
 Help_Text_DefineMoveType::
-	.string "Moves are also classified by types.\n"
-	.string "If a POKéMON of a certain type uses\l"
-	.string "a move of the same type, the move's\l"
-	.string "power is boosted. If the move's type\l"
-	.string "has a matchup advantage against the\l"
-	.string "target, its effectiveness is also\l"
-	.string "boosted.$"
+	.string "招式都有属性加成。\n"
+	.string "如果宝可梦使出了跟自己\l"
+	.string "一样属性的招式，\l"
+	.string "招式的威力也会增加。\l"
+	.string "如果招式的属性\l"
+	.string "可以克制对手的属性的话，\l"
+	.string "它作出的伤害也会增加。$"
 
 Help_Text_DefineNature::
-	.string "All POKéMON have a personality,\n"
-	.string "or “NATURE.” The POKéMON's\l"
-	.string "nature appears to affect how the\l"
-	.string "POKéMON will grow upon leveling up.$"
+	.string "所有宝可梦都有自己的个性，\n"
+	.string "或者叫“性格”。\l"
+	.string "宝可梦的性格会影响\l"
+	.string "宝可梦升级时的成长方向。$"
 
 Help_Text_DefineIDNo::
-	.string "The ID No. is a special number assigned\n"
-	.string "specifically to you as a TRAINER.\l"
-	.string "Together with the OT name, the ID No.\l"
-	.string "is used to precisely identify the\l"
-	.string "Original TRAINER.\l"
-	.string "The ID No. does not change even if the\l"
-	.string "POKéMON is traded.$"
+	.string "ID No.是一组证明你是\n"
+	.string "训练家的特别数字。\l"
+	.string "跟OT的名字一样，\l"
+	.string "ID No.是用来精确地确认\l"
+	.string "训练家的身份的。\l"
+	.string "就算宝可梦被交换了\l"
+	.string "这个ID No.都不会改变。$"
 
 Help_Text_DefinePP::
-	.string "PP stands for “Power Points.”\n"
-	.string "It indicates the number of times a\l"
-	.string "certain move can be used in battle.\l"
-	.string "Like HP, PP can be restored by visiting\l"
-	.string "a POKéMON CENTER or using certain\l"
-	.string "items.$"
+	.string "PP代表了“能量点数”。\n"
+	.string "它代表了一个招式在战斗中\l"
+	.string "可以使用的次数。\l"
+	.string "像HP、PP一样，\l"
+	.string "可以到宝可梦中心\l"
+	.string "或者使用特定种类道具恢复。$"
 
 Help_Text_DefinePower::
-	.string "POWER indicates the strength of an\n"
-	.string "attack. The higher this number, the\l"
-	.string "greater the damage that can be\l"
-	.string "inflicted on the foe!$"
+	.string "能力代表了\n"
+	.string "攻击性招式的威力。\l"
+	.string "数值越高，\l"
+	.string "对对方作出的伤害就会更高！$"
 
 Help_Text_DefineAccuracy::
-	.string "ACCURACY indicates the probability of\n"
-	.string "the move hitting the foe.\l"
-	.string "The higher this number, the more likely\l"
-	.string "the move will strike the target.$"
+	.string "命中率代表了\n"
+	.string "招式击中对方的机率。\l"
+	.string "数值越高，\l"
+	.string "击中对方的机率越大。$"
 
 Help_Text_DefineFNT::
-	.string "FNT stands for “fainted.”\n"
-	.string "A POKéMON faints if its HP is reduced\l"
-	.string "to zero. It becomes incapable of taking\l"
-	.string "part in battle.\l"
-	.string "Restore a fainted POKéMON at a POKéMON\l"
-	.string "CENTER, or use an item.$"
+	.string "昏厥代表了“昏倒”\n"
+	.string "宝可梦的HP降至零的时候\l"
+	.string "就会昏倒。\l"
+	.string "它不能再参加战斗。\l"
+	.string "要恢复昏倒了的宝可梦可以去\l"
+	.string "宝可梦中心或者使用道具。$"
 
 Help_Text_DefineItems::
-	.string "Ordinary items bought at any POKéMON\n"
-	.string "MART are placed in the ITEMS POCKET.\l"
-	.string "Items may be used, given to a POKéMON\l"
-	.string "to hold, or tossed out as garbage.$"
+	.string "所有在宝可梦商店买的普通道具\n"
+	.string "都放在道具口袋里。\l"
+	.string "道具可以被使用，交给\l"
+	.string "宝可梦携带或者当做垃圾丢掉。$"
 
 Help_Text_DefineKeyItems::
-	.string "Important items that you find or \n"
-	.string "receive from people are placed in the\l"
-	.string "KEY ITEMS POCKET.\l"
-	.string "Key items may be used, or registered\l"
-	.string "for use instantly with SELECT. Once\l"
-	.string "registered, the item can be used\l"
-	.string "without opening the MENU and BAG.$"
+	.string "你找到或者得到的重要道具\n"
+	.string "都会被放在\l"
+	.string "重要道具口袋里。\l"
+	.string "重要的道具可以被使用，或者\l"
+	.string "登录后用选择键快捷使用。\l"
+	.string "当登录后，登录了的道具\l"
+	.string "可以跳过菜单和包包直接使用。$"
 
 Help_Text_DefinePokeBalls::
-	.string "POKé BALLS, which are used for\n"
-	.string "catching wild POKéMON, are placed in\l"
-	.string "the POKé BALLS POCKET.\l"
-	.string "POKé BALLS may be bought at POKéMON\l"
-	.string "MARTS. They may be used, given to a\l"
-	.string "POKéMON to hold, or tossed out as\l"
-	.string "garbage.$"
+	.string "精灵球，是用来抓\n"
+	.string "野生宝可梦的道具，会被\l"
+	.string "放在精灵球口袋里。\l"
+	.string "精灵球可以在\l"
+	.string "宝可梦商店买到。\l"
+	.string "它们可以被使用，交给宝可梦\l"
+	.string "携带或者当垃圾丢掉。$"
 
 Help_Text_DefinePokedex::
-	.string "This indicates the number of species of\n"
-	.string "POKéMON you have caught and/or\l"
-	.string "evolved to fill the POKéDEX.\l"
-	.string "Try hard to catch all sorts of\l"
-	.string "POKéMON!$"
+	.string "这代表了宝可梦图鉴中\n"
+	.string "记录了由你抓到以及进化过的\l"
+	.string "宝可梦的数目。\l"
+	.string "努力去抓\l"
+	.string "各种的宝可梦吧！$"
 
 Help_Text_DefinePlayTime::
-	.string "This is the total amount of time that\n"
-	.string "you have played this game.$"
+	.string "这是你的\n"
+	.string "总游戏时间。$"
 
 Help_Text_DefineBadges::
-	.string "The POKéMON LEAGUE BADGES that you\n"
-	.string "have won are registered and shown.\l"
-	.string "Earn BADGES by defeating GYM LEADERS\l"
-	.string "in various cities and towns.$"
+	.string "你得到的宝可梦联盟徽章\n"
+	.string "会在这里登记和展出。\l"
+	.string "你可以在不同城市打败道馆馆主\l"
+	.string "来得到徽章。$"
 
 Help_Text_DefineTextSpeed::
-	.string "You can adjust how quickly the text is\n"
-	.string "displayed. Choose one: SLOW, MID,\l"
-	.string "or FAST.$"
+	.string "你可以在这调节\n"
+	.string "文字显示的速度。可以从：慢速，中速，\l"
+	.string "或者快速中选择。$"
 
 Help_Text_DefineBattleScene::
-	.string "You can choose to turn the battle\n"
-	.string "animation ON or OFF.$"
+	.string "你可以选择\n"
+	.string "战斗动画的开启或关闭。$"
 
 Help_Text_DefineBattleStyle::
-	.string "You can choose whether or not a\n"
-	.string "TRAINER can switch a POKéMON after\l"
-	.string "it has made its foe faint.\l"
-	.string "Set to “SHIFT” if you would like the\l"
-	.string "chance to switch a POKéMON after it\l"
-	.string "has made its foe faint.$"
+	.string "你可以选择在跟训练家的\n"
+	.string "战斗中在对方的宝可梦昏倒后\l"
+	.string "要不要交换在场的宝可梦。\l"
+	.string "设置为“替换”可以在\l"
+	.string "对方宝可梦昏倒后\l"
+	.string "手动选择交换与否。$"
 
 Help_Text_DefineSound::
-	.string "You can choose between MONO and\n"
-	.string "STEREO sound output.$"
+	.string "你可以从单声道和\n"
+	.string "立体声两个声效中选择。$"
 
 Help_Text_DefineButtonMode::
-	.string "Set to “HELP” to display help messages\n"
-	.string "by pressing the L or R Button.\l"
-	.string "Set to “LR” to enable the switching\l"
-	.string "of the POKéDEX pages and BAG POCKETS\l"
-	.string "using the L and R Buttons.\l"
-	.string "Set to “L=A” to make the L Button\l"
-	.string "work the same as the A Button.$"
+	.string "设置为“帮助”让你在按下\n"
+	.string "L或者R键时呼出帮助页面。\l"
+	.string "设置为“LR”让你可以在\l"
+	.string "宝可梦图鉴页面和包包口袋里\l"
+	.string "用L或者R键翻页。\l"
+	.string "设置为“L=A”能使\l"
+	.string "L键的作用和A键一样。$"
 
 Help_Text_DefineFrame::
-	.string "You may choose the design of the frame\n"
-	.string "around certain menus. Try them out and\l"
-	.string "see what you like.$"
+	.string "你可以在几个不同的\n"
+	.string "窗口外框中选择。\l"
+	.string "可以按照你的喜好选择。$"
 
 Help_Text_DefineCancel2::
-	.string "The settings will be changed to the\n"
-	.string "selections shown in red, and you will\l"
-	.string "return to the MENU.$"
+	.string "所作出了的设定\n"
+	.string "会被标记为红色，然后你就会\l"
+	.string "返回到菜单。$"
 
 Help_Text_DefineTM::
-	.string "A TM (Technical Machine) is a device\n"
-	.string "used to teach a move to a POKéMON.\l"
-	.string "There are many different kinds.\l"
-	.string "Moves can be taught only to those\l"
-	.string "POKéMON capable of using them.\l"
-	.string "A TM breaks after a single use.$"
+	.string "TM(招式学习器)是一个用来\n"
+	.string "教宝可梦招式的装置。\l"
+	.string "这种装置有很多不同种类。\l"
+	.string "一个招式学习器只能教给\l"
+	.string "可以学会该招式的宝可梦。\l"
+	.string "招式在使用后会坏掉。$"
 
 Help_Text_DefineHM::
-	.string "An HM (Hidden Machine) is a device used\n"
-	.string "to teach a HIDDEN move to a POKéMON.\l"
-	.string "A HIDDEN move can be taught only to\l"
-	.string "those POKéMON capable of using it.\l"
-	.string "Unlike a TM, an HM can be used over\l"
-	.string "and over. A HIDDEN move can be tough\l"
-	.string "for a POKéMON to forget.$"
+	.string "HM(秘传学习器)是一个用来\n"
+	.string "教宝可梦秘传招式的装置。\l"
+	.string "秘传招式只能教给\l"
+	.string "可以学会该招式的宝可梦。\l"
+	.string "跟普通招式不同，HM可以多次使用，\l"
+	.string "而且秘传招式不容易\l"
+	.string "被宝可梦所忘记。$"
 
 Help_Text_DefineHMMove::
-	.string "HIDDEN moves are those that are\n"
-	.string "especially important for your\l"
-	.string "adventure. To use such a move outside\l"
-	.string "of battle, open the “POKéMON” MENU\l"
-	.string "and make the POKéMON that knows the\l"
-	.string "move use it. A fainted POKéMON may use\l"
-	.string "a HIDDEN move outside of battle.$"
+	.string "秘传招式对你的\n"
+	.string "冒险之旅非常的重要。\l"
+	.string "要在战斗外使用，\l"
+	.string "打开“宝可梦”菜单\l"
+	.string "然后让学会那个招式的\l"
+	.string "宝可梦使用它。昏倒的宝可梦\l"
+	.string "也可以在战斗外使用秘传招式。$"
 
 Help_Text_DefineEvolution::
-	.string "Among POKéMON, there are some that\n"
-	.string "undergo major changes (evolution) upon\l"
-	.string "growing to certain levels. Evolution\l"
-	.string "causes a POKéMON to alter form, change\l"
-	.string "its name, and perhaps change the moves\l"
-	.string "it may learn. Some POKéMON evolve\l"
-	.string "due to reasons other than leveling up.$"
+	.string "在各种宝可梦中，有些会在\n"
+	.string "达到一定等级时\l"
+	.string "经历重大改变(也就是进化)。\l"
+	.string "进化使宝可梦改变外貌，\l"
+	.string "改变名字，甚至使其可学习的招式\l"
+	.string "产生变化。有些宝可梦会在\l"
+	.string "达到升级外的特定条件下进化。$"
 
 Help_Text_DefineStatusProblem::
-	.string "Status problems include:\n"
-	.string "Sleep: Can't use moves.\l"
-	.string "Poison: Causes steady HP loss.\l"
-	.string "Paralysis: May prevent moves.\l"
-	.string "Burn: HP loss and lowers ATTACK.\l"
-	.string "Freeze: Can't use moves.\l"
-	.string "These can be healed with items, etc.$"
+	.string "特殊状态包括：\n"
+	.string "睡眠：不能使用招式。\l"
+	.string "中毒：HP不断减少。\l"
+	.string "麻痹：可能不能使用招式。\l"
+	.string "灼伤：HP减少，攻击降低。\l"
+	.string "冰冻：不能使用招式。\l"
+	.string "这些特殊状态可以用道具治疗。$"
 
 Help_Text_DefinePokemon::
-	.string "POKéMON is a name given to describe\n"
-	.string "wondrous creatures that inhabit all\l"
-	.string "corners of this world.\l"
-	.string "People raise POKéMON to be their pets,\l"
-	.string "use them for battling, and so on.$"
+	.string "宝可梦是指\n"
+	.string "在这个世界的每个角落上\l"
+	.string "栖息着的生物。\l"
+	.string "人们饲养宝可梦来当宠物，\l"
+	.string "以及用它们来战斗，等等。$"
 
 Help_Text_DefineIDNo2::
-	.string "The ID No. is a special number assigned\n"
-	.string "specifically to you as a TRAINER.\l"
-	.string "Together with the OT name, the ID No.\l"
-	.string "is used to precisely identify the\l"
-	.string "Original TRAINER.\l"
-	.string "The ID No. does not change even if the\l"
-	.string "POKéMON is traded.$"
+	.string "ID No.是一组证明你是\n"
+	.string "训练家的特别数字。\l"
+	.string "跟OT的名字一样，\l"
+	.string "ID No.是用来精确地确认\l"
+	.string "训练家的身份的。\l"
+	.string "就算宝可梦被交换了\l"
+	.string "这个ID No.都不会改变。$"
 
 Help_Text_DefineMoney2::
-	.string "Whenever you win a battle against a\n"
-	.string "TRAINER, you are given prize money.\l"
-	.string "Save up your prize money so you can\l"
-	.string "enjoy shopping at POKéMON MARTS!$"
+	.string "不管在什么地方你战胜了\n"
+	.string "一个训练家，你都会得到奖金。\l"
+	.string "好好地把钱存起来然后\l"
+	.string "在宝可梦商店尽情购物！$"
 
 Help_Text_DefineBadges2::
-	.string "This indicates the number of POKéMON\n"
-	.string "LEAGUE BADGES that you have won.\l"
-	.string "Earn BADGES by defeating GYM LEADERS\l"
-	.string "in various cities and towns.$"
+	.string "这代表了你得到的\n"
+	.string "宝可梦联盟徽章的数目。\l"
+	.string "你可以在不同城市打败道馆馆主\l"
+	.string "来得到徽章。$"
 
 Help_Text_TheHelpSystem::
-	.string "The HELP System$"
+	.string "帮助系统$"
 
 Help_Text_TheGame::
-	.string "The game$"
+	.string "游戏$"
 
 Help_Text_WirelessAdapter::
-	.string "Wireless Adapter$"
+	.string "无线接收器$"
 
 Help_Text_GameFundamentals1::
-	.string "Game fundamentals 1$"
+	.string "游戏基础 1$"
 
 Help_Text_GameFundamentals2::
-	.string "Game fundamentals 2$"
+	.string "游戏基础 2$"
 
 Help_Text_GameFundamentals3::
-	.string "Game fundamentals 3$"
+	.string "游戏基础 3$"
 
 Help_Text_WhatArePokemon::
-	.string "What are POKéMON?$"
+	.string "宝可梦是什么呢？$"
 
 Help_Text_DescTheHelpSystem::
-	.string "The help messages change depending on\n"
-	.string "how much you have progressed in the\l"
-	.string "game. They are designed to support you\l"
-	.string "when you need them. If there is\l"
-	.string "anything that you don't understand,\l"
-	.string "please look up the HELP System!$"
+	.string "帮助信息会随着\n"
+	.string "你旅程的进程而改变。\l"
+	.string "它们是为在你需要帮助时\l"
+	.string "而存在的。\l"
+	.string "如果你有什么不明白的，\l"
+	.string "请去帮助系统找找吧！$"
 
 Help_Text_DescTheGame::
-	.string "You become the main character to\n"
-	.string "explore the world of POKéMON!\l"
-	.string "By talking to people and solving\l"
-	.string "mysteries, new paths will open to you.\l"
-	.string "Strive for the goal together with your\l"
-	.string "wonderful POKéMON!$"
+	.string "你作为探索宝可梦\n"
+	.string "世界的主人公！\l"
+	.string "通过与其他人交谈解决发现的未解之谜。\l"
+	.string "新的道路将会为你开放。\l"
+	.string "和你神奇的宝可梦一起\l"
+	.string "向着目标努力前进吧！$"
 
 Help_Text_DescWirelessAdapter::
-	.string "This game communicates over a wireless\n"
-	.string "link using the Wireless Adapter.\p"
-	.string "Go wireless anywhere, anytime, and\n"
-	.string "with anybody!\p"
-	.string "Try playing with the Wireless Adapter\n"
-	.string "always attached!$"
+	.string "这个游戏通过\n"
+	.string "使用无线接收器来进行无线连接。\p"
+	.string "去和无论身处何方，所处何时的任何人，\n"
+	.string "无线连接吧！\p"
+	.string "试着在无线信号能够覆盖的地方\n"
+	.string "玩这个游戏吧！$"
 
 Help_Text_DescGameFundamentals1::
-	.string "Visit every city and town, travel every\n"
-	.string "road, explore every cave, and face\l"
-	.string "every challenge as you strive to\l"
-	.string "become the greatest TRAINER of\l"
-	.string "POKéMON!$"
+	.string "游览每一座城市和小镇，\n"
+	.string "走过每一条道路，\l"
+	.string "穿过每一个山洞，\l"
+	.string "面对所有的挑战，\l"
+	.string "努力成为最棒的宝可梦训练家！$"
 
 Help_Text_DescGameFundamentals2::
-	.string "On your adventure, you will be faced\n"
-	.string "with many obstacles. Every obstacle\l"
-	.string "can be overcome by doing something\l"
-	.string "or by solving mysteries. Some obstacles\l"
-	.string "are affected by something that happens\l"
-	.string "far away.$"
+	.string "在你冒险的道路上，\n"
+	.string "你将会遇到一些阻碍，\l"
+	.string "所有的问题都可以通过做某些事\l"
+	.string "或是解决一些谜题来解决。\l"
+	.string "一些小障碍受一些\l"
+	.string "之前发生了的事的影响。$"
 
 Help_Text_DescGameFundamentals3::
-	.string "Some of the obstacles in your way can\n"
-	.string "be removed once your POKéMON learn\l"
-	.string "specific moves.$"
+	.string "一些挡在你面前的障碍\n"
+	.string "可以让你的宝可梦\l"
+	.string "学习特定的招式来解决。$"
 
 Help_Text_DescWhatArePokemon::
-	.string "POKéMON are wondrous creatures that\n"
-	.string "are shrouded in mystery. You may meet\l"
-	.string "them all over the world…in tall\l"
-	.string "grass, caves, the sea, and more.\l"
-	.string "They appear to grow obedient to the\l"
-	.string "TRAINERS that caught them.$"
+	.string "宝可梦是谜一样的奇妙生物\n"
+	.string "你在整个世界可能都会遇到它们…\l"
+	.string "在草丛，在山洞，\l"
+	.string "在海里，等等。\l"
+	.string "它们似乎对收服它们的\l"
+	.string "训练家会变得听话。$"
 
 Help_Text_UsingTypeMatchupList::
-	.string "Using the Type Matchup List$"
+	.string "属性相克一览$"
 
 Help_Text_OwnMoveDark::
-	.string "Own move type: DARK$"
+	.string "自己招式的属性：恶$"
 
 Help_Text_OwnPokemonDark::
-	.string "Own POKéMON type: DARK$"
+	.string "自己宝可梦的属性：恶$"
 
 Help_Text_OwnMoveRock::
-	.string "Own move type: ROCK$"
+	.string "自己招式的属性：岩石$"
 
 Help_Text_OwnPokemonRock::
-	.string "Own POKéMON type: ROCK$"
+	.string "自己宝可梦的属性：岩石$"
 
 Help_Text_OwnMovePsychic::
-	.string "Own move type: PSYCHIC$"
+	.string "自己招式的属性：超能力$"
 
 Help_Text_OwnPokemonPsychic::
-	.string "Own POKéMON type: PSYCHIC$"
+	.string "自己宝可梦的属性：超能力$"
 
 Help_Text_OwnMoveFighting::
-	.string "Own move type: FIGHTING$"
+	.string "自己招式的属性：格斗$"
 
 Help_Text_OwnPokemonFighting::
-	.string "Own POKéMON type: FIGHTING$"
+	.string "自己宝可梦的属性：格斗$"
 
 Help_Text_OwnMoveGrass::
-	.string "Own move type: GRASS$"
+	.string "自己招式的属性：草$"
 
 Help_Text_OwnPokemonGrass::
-	.string "Own POKéMON type: GRASS$"
+	.string "自己宝可梦的属性：草$"
 
 Help_Text_OwnMoveGhost::
-	.string "Own move type: GHOST$"
+	.string "自己招式的属性：幽灵$"
 
 Help_Text_OwnPokemonGhost::
-	.string "Own POKéMON type: GHOST$"
+	.string "自己宝可梦的属性：幽灵$"
 
 Help_Text_OwnMoveIce::
-	.string "Own move type: ICE$"
+	.string "自己招式的属性：冰$"
 
 Help_Text_OwnPokemonIce::
-	.string "Own POKéMON type: ICE$"
+	.string "自己宝可梦的属性：冰$"
 
 Help_Text_OwnMoveGround::
-	.string "Own move type: GROUND$"
+	.string "自己招式的属性：地上$"
 
 Help_Text_OwnPokemonGround::
-	.string "Own POKéMON type: GROUND$"
+	.string "自己宝可梦的属性：地上$"
 
 Help_Text_OwnMoveElectric::
-	.string "Own move type: ELECTRIC$"
+	.string "自己招式的属性：电$"
 
 Help_Text_OwnPokemonElectric::
-	.string "Own POKéMON type: ELECTRIC$"
+	.string "自己宝可梦的属性：电$"
 
 Help_Text_OwnMovePoison::
-	.string "Own move type: POISON$"
+	.string "自己招式的属性：毒$"
 
 Help_Text_OwnPokemonPoison::
-	.string "Own POKéMON type: POISON$"
+	.string "自己宝可梦的属性：毒$"
 
 Help_Text_OwnMoveDragon::
-	.string "Own move type: DRAGON$"
+	.string "自己招式的属性：龙$"
 
 Help_Text_OwnPokemonDragon::
-	.string "Own POKéMON type: DRAGON$"
+	.string "自己宝可梦的属性：龙$"
 
 Help_Text_OwnMoveNormal::
-	.string "Own move type: NORMAL$"
+	.string "自己招式的属性：一般$"
 
 Help_Text_OwnPokemonNormal::
-	.string "Own POKéMON type: NORMAL$"
+	.string "自己宝可梦的属性：一般$"
 
 Help_Text_OwnMoveSteel::
-	.string "Own move type: STEEL$"
+	.string "自己招式的属性：钢$"
 
 Help_Text_OwnPokemonSteel::
-	.string "Own POKéMON type: STEEL$"
+	.string "自己宝可梦的属性：钢$"
 
 Help_Text_OwnMoveFlying::
-	.string "Own move type: FLYING$"
+	.string "自己招式的属性：飞行$"
 
 Help_Text_OwnPokemonFlying::
-	.string "Own POKéMON type: FLYING$"
+	.string "自己宝可梦的属性：飞行$"
 
 Help_Text_OwnMoveFire::
-	.string "Own move type: FIRE$"
+	.string "自己招式的属性：火$"
 
 Help_Text_OwnPokemonFire::
-	.string "Own POKéMON type: FIRE$"
+	.string "自己宝可梦的属性：火$"
 
 Help_Text_OwnMoveWater::
-	.string "Own move type: WATER$"
+	.string "自己招式的属性：水$"
 
 Help_Text_OwnPokemonWater::
-	.string "Own POKéMON type: WATER$"
+	.string "自己宝可梦的属性：水$"
 
 Help_Text_OwnMoveBug::
-	.string "Own move type: BUG$"
+	.string "自己招式的属性：虫$"
 
 Help_Text_OwnPokemonBug::
-	.string "Own POKéMON type: BUG$"
+	.string "自己宝可梦的属性：虫$"
 
 Help_Text_HowToUseTypeMatchupList::
-	.string "Depending on the matchup of the\n"
-	.string "move type and the target POKéMON's\l"
-	.string "type, the move's effectiveness varies:\l"
-	.string "{CIRCLE_DOT}: Super effective!\l"
-	.string "{TRIANGLE}: Not very effective\l"
-	.string "{BIG_MULT_X}: Not effective at all\l"
-	.string "(No changes for other matchups.)$"
+	.string "根据使用的招式的属性和\n"
+	.string "目标宝可梦的属性不同\l"
+	.string "招式的效果也是不同的：\l"
+	.string "{CIRCLE_DOT}：效果绝佳！\l"
+	.string "{TRIANGLE}：不是很有效\l"
+	.string "{BIG_MULT_X}：完全无效\l"
+	.string "(其它情况则没有变化)$"
 
 Help_Text_TypeMatchupOwnMoveDark::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: PSYCHIC, GHOST\p"
-	.string "   {TRIANGLE}: FIGHTING, DARK, STEEL$"
+	.string "对对方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：超能力、幽灵\p"
+	.string "   {TRIANGLE}：格斗、恶、钢$"
 
 Help_Text_TypeMatchupOwnPokemonDark::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: FIGHTING, BUG\p"
-	.string "   {TRIANGLE}: GHOST, DARK\p"
-	.string "   {BIG_MULT_X}: PSYCHIC$"
+	.string "对方的招式对己方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：格斗、虫\p"
+	.string "   {TRIANGLE}：幽灵、恶\p"
+	.string "   {BIG_MULT_X}：超能力$"
 
 Help_Text_TypeMatchupOwnMoveRock::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: FIRE, ICE, FLYING, BUG\p"
-	.string "   {TRIANGLE}: FIGHTING, GROUND, STEEL$"
+	.string "对对方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：火、冰、飞行、虫\p"
+	.string "   {TRIANGLE}：格斗、超能力、钢$"
 
 Help_Text_TypeMatchupOwnPokemonRock::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: WATER, GRASS, FIGHTING,\n"
-	.string "       GROUND, STEEL\p"
-	.string "   {TRIANGLE}: NORMAL, FIRE, POISON, FLYING$"
+	.string "对方的招式对己方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：水、草、格斗、\n"
+	.string "       超能力、钢\p"
+	.string "   {TRIANGLE}：一般、火、毒、飞行$"
 
 Help_Text_TypeMatchupOwnMovePsychic::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: FIGHTING, POISON\p"
-	.string "   {TRIANGLE}: PSYCHIC, STEEL\p"
-	.string "   {BIG_MULT_X}: DARK$"
+	.string "对对方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：格斗、毒\p"
+	.string "   {TRIANGLE}：超能力、钢\p"
+	.string "   {BIG_MULT_X}：恶$"
 
 Help_Text_TypeMatchupOwnPokemonPsychic::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: BUG, GHOST, DARK\p"
-	.string "   {TRIANGLE}: FIGHTING, PSYCHIC$"
+	.string "对方的招式对己方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：虫、幽灵、恶\p"
+	.string "   {TRIANGLE}：格斗、超能力$"
 
 Help_Text_TypeMatchupOwnMoveFighting::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: NORMAL, ICE, ROCK, DARK, STEEL\p"
-	.string "   {TRIANGLE}: POISON, FLYING, PSYCHIC, BUG\p"
-	.string "   {BIG_MULT_X}: GHOST$"
+	.string "对对方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：一般、冰、岩石、恶、钢\p"
+	.string "   {TRIANGLE}：毒、飞行、超能力、虫\p"
+	.string "   {BIG_MULT_X}：幽灵$"
 
 Help_Text_TypeMatchupOwnPokemonFighting::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: FLYING, PSYCHIC\p"
-	.string "   {TRIANGLE}: BUG, ROCK, DARK$"
+	.string "对方的招式对己方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：飞行、超能力\p"
+	.string "   {TRIANGLE}：虫、岩石、恶$"
 
 Help_Text_TypeMatchupOwnMoveGrass::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: WATER, GROUND, ROCK\p"
-	.string "   {TRIANGLE}: FIRE, GRASS, POISON, FLYING,\n"
-	.string "       BUG, DRAGON, STEEL$"
+	.string "对对方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：水、超能力、岩石\p"
+	.string "   {TRIANGLE}：火、草、毒、飞行、\n"
+	.string "       虫、龙、钢$"
 
 Help_Text_TypeMatchupOwnPokemonGrass::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: FIRE, ICE, POISON, FLYING, BUG\p"
-	.string "   {TRIANGLE}: WATER, ELECTRIC, GRASS, GROUND$"
+	.string "对方的招式对己方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：火、冰、毒、飞行、虫\p"
+	.string "   {TRIANGLE}：水、电、草、地上$"
 
 Help_Text_TypeMatchupOwnMoveGhost::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: PSYCHIC, GHOST\p"
-	.string "   {TRIANGLE}: DARK, STEEL\p"
-	.string "   {BIG_MULT_X}: NORMAL$"
+	.string "对对方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：超能力、幽灵\p"
+	.string "   {TRIANGLE}：恶、钢\p"
+	.string "   {BIG_MULT_X}：一般$"
 
 Help_Text_TypeMatchupOwnPokemonGhost::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: GHOST, DARK\p"
-	.string "   {TRIANGLE}: POISON, BUG\p"
-	.string "   {BIG_MULT_X}: NORMAL, FIGHTING$"
+	.string "对方的招式对己方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：幽灵、恶\p"
+	.string "   {TRIANGLE}：毒、虫\p"
+	.string "   {BIG_MULT_X}：一般、格斗$"
 
 Help_Text_TypeMatchupOwnMoveIce::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: GRASS, GROUND, FLYING, DRAGON\p"
-	.string "   {TRIANGLE}: FIRE, WATER, ICE, STEEL$"
+	.string "对对方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：草、超能力、飞行、龙\p"
+	.string "   {TRIANGLE}：火、水、冰、钢$"
 
 Help_Text_TypeMatchupOwnPokemonIce::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: FIRE, FIGHTING, ROCK, STEEL\p"
-	.string "   {TRIANGLE}: ICE$"
+	.string "对方的招式对己方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：火、格斗、岩石、钢\p"
+	.string "   {TRIANGLE}：冰$"
 
 Help_Text_TypeMatchupOwnMoveGround::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: FIRE, ELECTRIC, POISON, ROCK,\n"
-	.string "       STEEL\p"
-	.string "   {TRIANGLE}: GRASS, BUG\n"
-	.string "   {BIG_MULT_X}: FLYING$"
+	.string "对对方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：火、电、毒、岩石、\n"
+	.string "       钢\p"
+	.string "   {TRIANGLE}：草、虫\n"
+	.string "   {BIG_MULT_X}：飞行$"
 
 Help_Text_TypeMatchupOwnPokemonGround::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: WATER, GRASS, ICE\p"
-	.string "   {TRIANGLE}: POISON, ROCK\p"
-	.string "   {BIG_MULT_X}: ELECTRIC$"
+	.string "对方的招式对己方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：水、草、冰\p"
+	.string "   {TRIANGLE}：毒、岩石\p"
+	.string "   {BIG_MULT_X}：电$"
 
 Help_Text_TypeMatchupOwnMoveElectric::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: WATER, FLYING\p"
-	.string "   {TRIANGLE}: ELECTRIC, GRASS, DRAGON\p"
-	.string "   {BIG_MULT_X}: GROUND$"
+	.string "对对方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：水、飞行\p"
+	.string "   {TRIANGLE}：电、草、龙\p"
+	.string "   {BIG_MULT_X}：地上$"
 
 Help_Text_TypeMatchupOwnPokemonElectric::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: GROUND\p"
-	.string "   {TRIANGLE}: ELECTRIC, FLYING, STEEL$"
+	.string "对方的招式对己方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：地上\p"
+	.string "   {TRIANGLE}：电、飞行、钢$"
 
 Help_Text_TypeMatchupOwnMovePoison::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: GRASS\p"
-	.string "   {TRIANGLE}: POISON, GROUND, ROCK, GHOST\p"
-	.string "   {BIG_MULT_X}: STEEL$"
+	.string "对对方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：草\p"
+	.string "   {TRIANGLE}：毒、超能力、岩石、幽灵\p"
+	.string "   {BIG_MULT_X}：钢$"
 
 Help_Text_TypeMatchupOwnPokemonPoison::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: GROUND, PSYCHIC\p"
-	.string "   {TRIANGLE}: GRASS, FIGHTING, POISON, BUG$"
+	.string "对方的招式对己方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：超能力、超能力\p"
+	.string "   {TRIANGLE}：草、格斗、毒、虫$"
 
 Help_Text_TypeMatchupOwnMoveDragon::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: DRAGON\p"
-	.string "   {TRIANGLE}: STEEL$"
+	.string "对对方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：龙\p"
+	.string "   {TRIANGLE}：钢$"
 
 Help_Text_TypeMatchupOwnPokemonDragon::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: ICE, DRAGON\p"
-	.string "   {TRIANGLE}: FIRE, WATER, ELECTRIC, GRASS$"
+	.string "对方的招式对己方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：冰、龙\p"
+	.string "   {TRIANGLE}：火、水、电、草$"
 
 Help_Text_TypeMatchupOwnMoveNormal::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {TRIANGLE}: ROCK, STEEL\p"
-	.string "   {BIG_MULT_X}: GHOST$"
+	.string "对对方宝可梦的效果：\p"
+	.string "   {TRIANGLE}：岩石、钢\p"
+	.string "   {BIG_MULT_X}：幽灵$"
 
 Help_Text_TypeMatchupOwnPokemonNormal::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: FIGHTING\p"
-	.string "   {BIG_MULT_X}: GHOST$"
+	.string "对方的招式对己方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：格斗\p"
+	.string "   {BIG_MULT_X}：幽灵$"
 
 Help_Text_TypeMatchupOwnMoveSteel::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: ICE, ROCK\p"
-	.string "   {TRIANGLE}: FIRE, WATER, ELECTRIC, STEEL$"
+	.string "对对方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：冰、岩石\p"
+	.string "   {TRIANGLE}：火、水、电、钢$"
 
 Help_Text_TypeMatchupOwnPokemonSteel::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: FIRE, FIGHTING, GROUND\n"
-	.string "   {TRIANGLE}: NORMAL, GRASS, ICE, FLYING,\l"
-	.string "       PSYCHIC, BUG, ROCK, GHOST,\l"
-	.string "       DRAGON, DARK, STEEL\l"
-	.string "   {BIG_MULT_X}: POISON$"
+	.string "对方的招式对己方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：火、格斗、地上\n"
+	.string "   {TRIANGLE}：一般、草、冰、飞行、\l"
+	.string "       超能力、虫、岩石、幽灵、\l"
+	.string "       龙、恶、钢\l"
+	.string "   {BIG_MULT_X}：毒$"
 
 Help_Text_TypeMatchupOwnMoveFlying::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: GRASS, FIGHTING, BUG\p"
-	.string "   {TRIANGLE}: ELECTRIC, ROCK, STEEL$"
+	.string "对对方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：草、格斗、虫\p"
+	.string "   {TRIANGLE}：电、岩石、钢$"
 
 Help_Text_TypeMatchupOwnPokemonFlying::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: ELECTRIC, ICE, ROCK\p"
-	.string "   {TRIANGLE}: GRASS, FIGHTING, BUG\p"
-	.string "   {BIG_MULT_X}: GROUND$"
+	.string "对方的招式对己方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：电、冰、岩石\p"
+	.string "   {TRIANGLE}：草、格斗、虫\p"
+	.string "   {BIG_MULT_X}：地上$"
 
 Help_Text_TypeMatchupOwnMoveFire::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: GRASS, ICE, BUG, STEEL\p"
-	.string "   {TRIANGLE}: FIRE, WATER, ROCK, DRAGON$"
+	.string "对对方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：草、冰、虫、钢\p"
+	.string "   {TRIANGLE}：火、水、岩石、龙$"
 
 Help_Text_TypeMatchupOwnPokemonFire::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: WATER, GROUND, ROCK\p"
-	.string "   {TRIANGLE}: FIRE, GRASS, ICE, BUG, STEEL$"
+	.string "对方的招式对己方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：水、超能力、岩石\p"
+	.string "   {TRIANGLE}：火、草、冰、虫、钢$"
 
 Help_Text_TypeMatchupOwnMoveWater::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: FIRE, GROUND, ROCK\p"
-	.string "   {TRIANGLE}: WATER, GRASS, DRAGON$"
+	.string "对对方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：火、超能力、岩石\p"
+	.string "   {TRIANGLE}：水、草、龙$"
 
 Help_Text_TypeMatchupOwnPokemonWater::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: ELECTRIC, GRASS\p"
-	.string "   {TRIANGLE}: FIRE, WATER, ICE, STEEL$"
+	.string "对方的招式对己方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：电、草\p"
+	.string "   {TRIANGLE}：火、水、冰、钢$"
 
 Help_Text_TypeMatchupOwnMoveBug::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: GRASS, PSYCHIC, DARK\p"
-	.string "   {TRIANGLE}: FIRE, FIGHTING, POISON,\n"
-	.string "       FLYING, GHOST, STEEL$"
+	.string "对对方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：草、超能力、恶\p"
+	.string "   {TRIANGLE}：火、格斗、毒、\n"
+	.string "       飞行、幽灵、钢$"
 
 Help_Text_TypeMatchupOwnPokemonBug::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: FIRE, FLYING, ROCK\p"
-	.string "   {TRIANGLE}: GRASS, FIGHTING, GROUND$"
+	.string "对方的招式对己方宝可梦的效果：\p"
+	.string "   {CIRCLE_DOT}：火、飞行、岩石\p"
+	.string "   {TRIANGLE}：草、格斗、地上$"
 

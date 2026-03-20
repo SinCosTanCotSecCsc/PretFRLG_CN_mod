@@ -1,10 +1,10 @@
 Text_WantToSurf::
-	.string "The water is dyed a deep blue…\n"
-	.string "Would you like to SURF?$"
+	.string "这里的水是深蓝深蓝的……\n"
+	.string "想要使用冲浪吗？$"
 
 Text_UsedSurf::
-	.string "{STR_VAR_1} used SURF!$"
+	.string "{B_COPY_VAR_1}使用了冲浪！$"
 
 Text_CurrentTooFast::
-	.string "The current is much too fast!\n"
-	.string "SURF can't be used here…$"
+	.string "这里的水流太急了！\n"
+	.string "不能在这里使用冲浪。$"

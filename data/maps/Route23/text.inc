@@ -1,4 +1,4 @@
 Route23_Text_VictoryRoadGateSign::
-    .string "VICTORY ROAD GATE -\n"
-    .string "POKéMON LEAGUE$"
+    .string "冠军之路入口处 -\n"
+    .string "宝可梦联盟$"
 

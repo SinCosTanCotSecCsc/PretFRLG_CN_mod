@@ -7,6 +7,7 @@
 #include "list_menu.h"
 #include "strings.h"
 #include "constants/songs.h"
+#include "chinese_text.h"
 
 #define ZERO 0
 
@@ -540,7 +541,16 @@ void HelpSystemRenderText(u8 fontId, u8 * dest, const u8 * src, u8 x, u8 y, u8 w
             }
             else
             {
+                if (IsChineseChar(curChar, src[0], fontId, FALSE))
+                {
+                    curChar = (curChar << 8) | src[0];
+                    src++;
+                    DecompressAndRenderGlyphChinese(fontId, curChar, &srcBlit, &destBlit, dest, x, y, width, height);
+                }
+                else
+                {
                 DecompressAndRenderGlyph(fontId, curChar, &srcBlit, &destBlit, dest, x, y, width, height);
+                }
                 if (fontId == FONT_SMALL)
                 {
                     x += gGlyphInfo.width;
@@ -570,6 +580,19 @@ void DecompressAndRenderGlyph(u8 fontId, u16 glyph, struct Bitmap *srcBlit, stru
     destBlit->width = width * 8;
     destBlit->height = height * 8;
     BlitBitmapRect4Bit(srcBlit, destBlit, 0, 0, x, y, gGlyphInfo.width, gGlyphInfo.height, 0);
+}
+
+void DecompressAndRenderGlyphChinese(u8 fontId, u16 glyph, struct Bitmap *srcBlit, struct Bitmap *destBlit, u8 *destBuffer, u8 x, u8 y, u8 width, u8 height)
+{
+    DecompressGlyph_Chinese(glyph, fontId);
+    srcBlit->pixels = gGlyphInfo.pixels;
+    srcBlit->width = 16;
+    srcBlit->height = 16;
+    destBlit->pixels = destBuffer;
+    destBlit->width = width * 8;
+    destBlit->height = height * 8;
+    BlitBitmapRect4Bit(srcBlit, destBlit, 0, 0, x, y, gGlyphInfo.width, gGlyphInfo.height, 0);
+    gGlyphInfo.height -= 1;
 }
 
 void HelpSystem_PrintTextInTopLeftCorner(const u8 * str)

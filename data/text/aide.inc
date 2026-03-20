@@ -1,15 +1,15 @@
 Aide_Text_HaventCaughtEnoughMonsForItem::
-	.string "Let's see…\n"
-	.string "Uh-oh! You have caught only\l"
-	.string "{STR_VAR_3} kinds of POKéMON!\p"
-	.string "You need {STR_VAR_1} kinds\n"
-	.string "if you want the {STR_VAR_2}.$"
+	.string "好吧，让我看看……\n"
+	.string "哎哟！你只抓到了\l"
+	.string "{B_COPY_VAR_3}种宝可梦！\p"
+	.string "如果你想要{B_COPY_VAR_2}的话\n"
+	.string "你需要抓到{B_COPY_VAR_1}种。$"
 
 Aide_Text_GetEnoughMonsComeBackForItem::
-	.string "…Oh. I see.\p"
-	.string "When you get {STR_VAR_1} kinds of POKéMON,\n"
-	.string "come back for the {STR_VAR_2}.$"
+	.string "……哦，这样。\p"
+	.string "当你抓到{B_COPY_VAR_1}种宝可梦的时候，\n"
+	.string "就可以回来找我要{B_COPY_VAR_2}。$"
 
 Aide_Text_DontHaveAnyRoomForItem::
-	.string "Oh! I see you don't have any\n"
-	.string "room for the {STR_VAR_2}.$"
+	.string "哦！我想你没有足够的\n"
+	.string "位置来放{B_COPY_VAR_2}。$"

@@ -1,43 +1,44 @@
 PokemonTower_6F_Text_AngelicaIntro::
-    .string "Give…me…\n"
-    .string "blood…$"
+    .string "给……我……\n"
+    .string "血……$"
 
 PokemonTower_6F_Text_AngelicaDefeat::
-    .string "Groan!$"
+    .string "咕哇！$"
 
 PokemonTower_6F_Text_AngelicaPostBattle::
-    .string "I feel anemic and weak…$"
+    .string "我感到乏力而虚弱……$"
 
 PokemonTower_6F_Text_EmiliaIntro::
-    .string "Urff…\n"
-    .string "Kwaah!$"
+    .string "呃……\n"
+    .string "嗬啊！$"
 
 PokemonTower_6F_Text_EmiliaDefeat::
-    .string "Something fell out!$"
+    .string "……有什么东西从\n"
+    .string "我身上离开了！$"
 
 PokemonTower_6F_Text_EmiliaPostBattle::
-    .string "My hair didn't fall out!\n"
-    .string "It was a malevolent spirit!$"
+    .string "我头发才没有掉出来！\n"
+    .string "那是一个邪恶的幽灵！$"
 
 PokemonTower_6F_Text_JenniferIntro::
-    .string "Ke…ke…ke…\n"
-    .string "ke…ke…ke!$"
+    .string "啊啊……啊……啊！\n"
+    .string "……啊、啊啊……啊啊！$"
 
 PokemonTower_6F_Text_JenniferDefeat::
-    .string "Keee!$"
+    .string "啊！$"
 
 PokemonTower_6F_Text_JenniferPostBattle::
-    .string "What's going on here?$"
+    .string "这儿发生了什么事？$"
 
 PokemonTower_6F_Text_BeGoneIntruders::
-    .string "Be gone…\n"
-    .string "Intruders…$"
+    .string "离开这里……\n"
+    .string "入侵者……$"
 
 PokemonTower_6F_Text_GhostWasCubonesMother::
-    .string "The ghost was the restless spirit\n"
-    .string "of CUBONE's mother!$"
+    .string "这个幽灵是卡拉卡拉母亲\n"
+    .string "不能安息的灵魂！$"
 
 PokemonTower_6F_Text_MothersSpiritWasCalmed::
-    .string "The mother's spirit was calmed.\p"
-    .string "It departed to the afterlife…$"
+    .string "母亲的灵魂平静了下来。\p"
+    .string "它转世投胎去了……$"
 
