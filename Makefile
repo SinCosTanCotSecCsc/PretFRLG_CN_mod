@@ -45,7 +45,19 @@ else
   CPP := $(PREFIX)cpp
 endif
 
-ROM := poke$(BUILD_NAME).gba
+ifeq ($(GAME_REVISION),10)
+ifeq ($(GAME_VERSION),FIRERED)
+  ROM := FireRed_e.gba
+else
+ifeq ($(GAME_VERSION),LEAFGREEN)
+  ROM := LeafGreen_e.gba
+else
+  $(error unknown version $(GAME_VERSION))
+endif
+endif
+else
+  ROM := poke$(BUILD_NAME).gba
+endif
 OBJ_DIR := $(BUILD_DIR)/$(BUILD_NAME)
 
 ELF := $(ROM:.gba=.elf)
