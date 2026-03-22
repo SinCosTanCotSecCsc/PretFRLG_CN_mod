@@ -1577,7 +1577,7 @@ static bool8 HasMonBeenRenamed(u8 idx)
     language = GetMonData(pokemon, MON_DATA_LANGUAGE, &language);
     if (language != LANGUAGE_ENGLISH)
         return TRUE;
-    else if (StringCompare(gSpeciesNames[GetMonData(pokemon, MON_DATA_SPECIES, NULL)], gStringVar1) != 0)
+    else if (StringCompare(gSpeciesNamesEnglish[GetMonData(pokemon, MON_DATA_SPECIES, NULL)], gStringVar1) != 0)
         return TRUE;
     else
         return FALSE;

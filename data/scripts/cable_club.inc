@@ -1323,17 +1323,17 @@ CableClub_Text_CantTradeEnigmaBerry::
 
 CableClub_Text_PleaseWaitBCancel::
 	.string "请稍等。\n"
-	.string "……B 键：取消$"
+	.string "……B键：取消$"
 
 CableClub_Text_WhenAllPlayersReadyAConfirmBCancel::
 	.string "当所有的玩家都准备好了……\n"
-	.string "A 键：确认\l"
-	.string "B 键：取消$"
+	.string "A键：确认\l"
+	.string "B键：取消$"
 
 CableClub_Text_StartLinkWithXPlayersAConfirmBCancel::
 	.string "开始与{B_COPY_VAR_1}玩家连接。\n"
-	.string "A 键：确认\l"
-	.string "B 键：取消$"
+	.string "A键：确认\l"
+	.string "B键：取消$"
 
 CableClub_Text_AwaitingLinkupBCancel::
 	.string "等待连接……\n"
@@ -1680,7 +1680,7 @@ CableClub_Text_EnjoyUnionRoom::
 
 CableClub_Text_FirstTimeRightThisWay::
 	.string "你好！\n"
-	.string "我叫小菜。\p"
+	.string "我叫青名。\p"
 	.string "你应该是\n"
 	.string "第一次来这里的吧！\p"
 	.string "我会告诉你无线\n"
@@ -1713,7 +1713,7 @@ CableClub_Text_ExplainWirelessClubFirstTime::
 
 CableClub_Text_AskAboutLinking::
 	.string "你好，{PLAYER}！\p"
-	.string "是我，小菜，\n"
+	.string "是我，青名，\n"
 	.string "宝可梦中心2楼的接待。\p"
 	.string "关于通信的事\n"
 	.string "你有需要问我的吗？$"

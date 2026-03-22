@@ -78,6 +78,7 @@ static void GiveBoxMonInitialMoveset(struct BoxPokemon *boxMon);
 static u16 GiveMoveToBoxMon(struct BoxPokemon *boxMon, u16 move);
 static u8 GetLevelFromMonExp(struct Pokemon *mon);
 static u16 CalculateBoxMonChecksum(struct BoxPokemon *boxMon);
+static void GetSpeciesNameEnglish(u8 *dest, u16 species);
 
 #include "data/battle_moves.h"
 
@@ -1806,7 +1807,7 @@ void CreateBoxMon(struct BoxPokemon *boxMon, u16 species, u8 level, u8 fixedIV, 
     checksum = CalculateBoxMonChecksum(boxMon);
     SetBoxMonData(boxMon, MON_DATA_CHECKSUM, &checksum);
     EncryptBoxMon(boxMon);
-    GetSpeciesName(speciesName, species);
+    GetSpeciesNameEnglish(speciesName, species);
     SetBoxMonData(boxMon, MON_DATA_NICKNAME, speciesName);
     SetBoxMonData(boxMon, MON_DATA_LANGUAGE, &gGameLanguage);
     SetBoxMonData(boxMon, MON_DATA_OT_NAME, gSaveBlock2Ptr->playerName);
@@ -3043,6 +3044,16 @@ u32 GetBoxMonData3(struct BoxPokemon *boxMon, s32 field, u8 *data)
                 data[retVal] = boxMon->nickname[retVal], retVal++){}
 
             data[retVal] = EOS;
+
+            i = GetBoxMonData(boxMon, MON_DATA_SPECIES, NULL);
+            if (StringCompare(data, gSpeciesNamesEnglish[i]) == 0)
+            {
+                for (retVal = 0;
+                    retVal < POKEMON_NAME_LENGTH;
+                    data[retVal] = gSpeciesNames[i][retVal], retVal++){}
+
+                data[retVal] = EOS;
+            }
         }
         break;
     }
@@ -3887,6 +3898,25 @@ void GetSpeciesName(u8 *name, u16 species)
             name[i] = gSpeciesNames[0][i];
         else
             name[i] = gSpeciesNames[species][i];
+
+        if (name[i] == EOS)
+            break;
+    }
+
+    name[i] = EOS;
+}
+
+void GetSpeciesNameEnglish(u8 *name, u16 species)
+{
+    s32 i;
+
+    // Hmm? FRLG has < while Ruby/Emerald has <=
+    for (i = 0; i < POKEMON_NAME_LENGTH; i++)
+    {
+        if (species > NUM_SPECIES)
+            name[i] = gSpeciesNamesEnglish[0][i];
+        else
+            name[i] = gSpeciesNamesEnglish[species][i];
 
         if (name[i] == EOS)
             break;
@@ -5347,8 +5377,8 @@ void EvolutionRenameMon(struct Pokemon *mon, u16 oldSpecies, u16 newSpecies)
     u8 language;
     GetMonData(mon, MON_DATA_NICKNAME, gStringVar1);
     language = GetMonData(mon, MON_DATA_LANGUAGE, &language);
-    if (language == GAME_LANGUAGE && !StringCompare(gSpeciesNames[oldSpecies], gStringVar1))
-        SetMonData(mon, MON_DATA_NICKNAME, gSpeciesNames[newSpecies]);
+    if (language == GAME_LANGUAGE && !StringCompare(gSpeciesNamesEnglish[oldSpecies], gStringVar1))
+        SetMonData(mon, MON_DATA_NICKNAME, gSpeciesNamesEnglish[newSpecies]);
 }
 
 // The below two functions determine which side of a multi battle the trainer battles on
