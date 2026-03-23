@@ -51,7 +51,11 @@ static const u8 sText_Trainer1RecallPkmn2[] = _("{B_TRAINER1_NAME}：回来吧�
 static const u8 sText_Trainer1RecallBoth[] = _("{B_TRAINER1_NAME}：回来吧！\n{B_OPPONENT_MON1_NAME}和{B_OPPONENT_MON2_NAME}。");
 static const u8 sText_Trainer2WinText[] = _("{B_TRAINER2_WIN_TEXT}");
 static const u8 sText_PkmnGainedEXP[] = _("{B_BUFF1}获得了{PLAYER}\n{B_BUFF3}点经验值！\p");
+#if XZONN_HACK
+static const u8 sText_EmptyString4[] = _("未出场的宝可梦也都\n各自获得了经验值！\p");
+#else
 static const u8 sText_EmptyString4[] = _("");
+#endif
 static const u8 sText_ABoosted[] = _("大量的");
 static const u8 sText_PkmnGrewToLv[] = _("{B_BUFF1}升到了\nLv.{B_BUFF2}！{WAIT_SE}\p");
 static const u8 sText_PkmnLearnedMove[] = _("{B_BUFF1}掌握了\n{PLAYER}！{WAIT_SE}\p");

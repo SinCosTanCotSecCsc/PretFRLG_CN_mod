@@ -74,3 +74,5 @@
 #endif // MODERN
 
 #endif // GUARD_CONFIG_H
+
+#define XZONN_HACK 1

@@ -3165,6 +3165,10 @@ static void Cmd_getexp(void)
 
             calculatedExp = gSpeciesInfo[gBattleMons[gBattlerFainted].species].expYield * gBattleMons[gBattlerFainted].level / 7;
 
+#if XZONN_HACK
+            *exp = calculatedExp;
+            gExpShareExp = 1;
+#else
             if (viaExpShare) // at least one mon is getting exp via exp share
             {
                 *exp = SAFE_DIV(calculatedExp / 2, viaSentIn);
@@ -3182,6 +3186,7 @@ static void Cmd_getexp(void)
                     *exp = 1;
                 gExpShareExp = 0;
             }
+#endif
 
             gBattleScripting.getexpState++;
             gBattleStruct->expGetterMonId = 0;
@@ -3198,7 +3203,11 @@ static void Cmd_getexp(void)
             else
                 holdEffect = ItemId_GetHoldEffect(item);
 
+#if XZONN_HACK
+            if (FALSE)
+#else
             if (holdEffect != HOLD_EFFECT_EXP_SHARE && !(gBattleStruct->sentInPokes & 1))
+#endif
             {
                 *(&gBattleStruct->sentInPokes) >>= 1;
                 gBattleScripting.getexpState = 5;
@@ -3225,10 +3234,16 @@ static void Cmd_getexp(void)
                     if (gBattleStruct->sentInPokes & 1)
                         gBattleMoveDamage = *exp;
                     else
+#if XZONN_HACK
+                        gBattleMoveDamage = (*exp) / 2;
+                        if (gBattleMoveDamage == 0)
+                            gBattleMoveDamage = 1;
+#else
                         gBattleMoveDamage = 0;
 
                     if (holdEffect == HOLD_EFFECT_EXP_SHARE)
                         gBattleMoveDamage += gExpShareExp;
+#endif
                     if (holdEffect == HOLD_EFFECT_LUCKY_EGG)
                         gBattleMoveDamage = (gBattleMoveDamage * 150) / 100;
                     if (gBattleTypeFlags & BATTLE_TYPE_TRAINER)
@@ -3241,7 +3256,11 @@ static void Cmd_getexp(void)
                     }
                     else
                     {
+#if XZONN_HACK
+                        i = STRINGID_DUMMY288;
+#else
                         i = STRINGID_EMPTYSTRING4;
+#endif
                     }
 
                     // get exp getter battlerId
@@ -3267,7 +3286,19 @@ static void Cmd_getexp(void)
                     PREPARE_STRING_BUFFER(gBattleTextBuff2, i);
                     PREPARE_WORD_NUMBER_BUFFER(gBattleTextBuff3, 5, gBattleMoveDamage);
 
+#if XZONN_HACK
+                    if (gBattleStruct->sentInPokes & 1)
+                    {
                     PrepareStringBattle(STRINGID_PKMNGAINEDEXP, gBattleStruct->expGetterBattlerId);
+                    }
+                    else if (gExpShareExp)
+                    {
+                        PrepareStringBattle(STRINGID_EMPTYSTRING4, gBattleStruct->expGetterBattlerId);
+                        gExpShareExp = 0;
+                    }
+#else
+                    PrepareStringBattle(STRINGID_PKMNGAINEDEXP, gBattleStruct->expGetterBattlerId);
+#endif
                     MonGainEVs(&gPlayerParty[gBattleStruct->expGetterMonId], gBattleMons[gBattlerFainted].species);
                 }
                 gBattleStruct->sentInPokes >>= 1;
