@@ -3453,8 +3453,16 @@ void SetBoxMonData(struct BoxPokemon *boxMon, s32 field, const void *dataArg)
     case MON_DATA_NICKNAME:
     {
         s32 i;
+        i = GetBoxMonData(boxMon, MON_DATA_SPECIES, NULL);
+        if (i > 0 && StringCompare(data, gSpeciesNames[i]) == 0)
+        {
+            s32 j;
+            for (j = 0; j < POKEMON_NAME_LENGTH; j++)
+                boxMon->nickname[j] = gSpeciesNamesEnglish[i][j];
+        } else {
         for (i = 0; i < POKEMON_NAME_LENGTH; i++)
             boxMon->nickname[i] = data[i];
+        }
         break;
     }
     case MON_DATA_LANGUAGE:
@@ -5377,7 +5385,7 @@ void EvolutionRenameMon(struct Pokemon *mon, u16 oldSpecies, u16 newSpecies)
     u8 language;
     GetMonData(mon, MON_DATA_NICKNAME, gStringVar1);
     language = GetMonData(mon, MON_DATA_LANGUAGE, &language);
-    if (language == GAME_LANGUAGE && !StringCompare(gSpeciesNamesEnglish[oldSpecies], gStringVar1))
+    if (language == GAME_LANGUAGE && (!StringCompare(gSpeciesNamesEnglish[oldSpecies], gStringVar1) || !StringCompare(gSpeciesNames[oldSpecies], gStringVar1)))
         SetMonData(mon, MON_DATA_NICKNAME, gSpeciesNamesEnglish[newSpecies]);
 }
 
