@@ -12,7 +12,7 @@ VermilionCity_House3_Text_DearPippiLetter::
     .string "枯叶似乎还安全。$"
 
 VermilionCity_House3_Text_SendMyPidgeyToUnionRoom::
-    .string "我想和各种各样的人通信。\p"
+    .string "我想和各种各样的人连接。\p"
     .string "我常把波波派去联盟交谊厅\n"
     .string "替我传递信件。$"
 

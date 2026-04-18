@@ -1315,11 +1315,11 @@ CableClub_Text_NeedTwoMonsForDoubleBattle::
 	.string "你必须至少拥有两只宝可梦。$"
 
 CableClub_Text_NeedTwoMonsToTrade::
-	.string "想要通信，你至少要有两只宝可梦。$"
+	.string "想要连接，你至少要有两只宝可梦。$"
 
 CableClub_Text_CantTradeEnigmaBerry::
 	.string "带着{B_COPY_VAR_1}\n"
-	.string "树果的宝可梦不能进行通信。$"
+	.string "树果的宝可梦不能进行连接。$"
 
 CableClub_Text_PleaseWaitBCancel::
 	.string "请稍等。\n"
@@ -1348,7 +1348,7 @@ CableClub_Text_PleaseEnter::
 	.string "请进。$"
 
 CableClub_Text_DirectYouToYourRoom::
-	.string "我会直接去你的房间。$"
+	.string "我现在带你去你的房间。$"
 
 CableClub_Text_SomeoneIsNotReadyToLink::
 	.string "你的朋友没有准备好。\p"
@@ -1356,11 +1356,11 @@ CableClub_Text_SomeoneIsNotReadyToLink::
 	.string "之后再来吧。$"
 
 CableClub_Text_LinkErrorPleaseReset::
-	.string "对不起，出现了通信错误……\n"
+	.string "对不起，出现了连接错误……\n"
 	.string "请重启然后再试一次。$"
 
 CableClub_Text_PlayersMadeDifferentSelections::
-	.string "通信的伙伴似乎\n"
+	.string "连接的伙伴似乎\n"
 	.string "有了不同的选择。$"
 
 CableClub_Text_PleaseVisitAgain::
@@ -1388,7 +1388,7 @@ CableClub_Text_PleaseConfirmNumberAndRestart::
 
 Text_TerminateLinkIfYouLeaveRoom::
 	.string "如果你离开这个房间\n"
-	.string "通信会被中止，这样可以吗？$"
+	.string "连接会被中止，这样可以吗？$"
 
 Text_TerminateLinkConfirmation::
 	.string "中断连接……\n"
@@ -1430,7 +1430,7 @@ CableClub_Text_NotSetUpForFarAwayRegion::
 	.string "我感到很抱歉。\p"
 	.string "我们现在还没有开设\n"
 	.string "与远方的训练家\l"
-	.string "的通信服务……$"
+	.string "的连接服务……$"
 
 CableClub_Text_OtherTrainerNotReady::
 	.string "另外的训练家没有准备好。$"
@@ -1696,7 +1696,7 @@ CableClub_Text_ExplainWirelessClubFirstTime::
 	.string "叫做联盟交谊厅。\p"
 	.string "你可以和其它\n"
 	.string "在你身边同样进入了\l"
-	.string "联盟交谊厅的训练家们通信。\p"
+	.string "联盟交谊厅的训练家们连接。\p"
 	.string "和他们在一起，\n"
 	.string "你可以做一些像聊天，交换，对战的事。\p"
 	.string "然后，在右边的这个房间\n"
@@ -1709,13 +1709,13 @@ CableClub_Text_ExplainWirelessClubFirstTime::
 	.string "如果是那样的话，\n"
 	.string "你必须得去直连房间了。\p"
 	.string "我希望你能在无线\n"
-	.string "通信系统里度过难忘的时光。$"
+	.string "连接系统里度过难忘的时光。$"
 
 CableClub_Text_AskAboutLinking::
 	.string "你好，{PLAYER}！\p"
 	.string "是我，青名，\n"
 	.string "宝可梦中心2楼的接待。\p"
-	.string "关于通信的事\n"
+	.string "关于连接的事\n"
 	.string "你有需要问我的吗？$"
 
 CableClub_Text_ExplainWirelessClub::
@@ -1727,7 +1727,7 @@ CableClub_Text_ExplainWirelessClub::
 	.string "叫做联盟交谊厅。\p"
 	.string "你可以和其它\n"
 	.string "在你身边同样进入了\l"
-	.string "联盟交谊厅的训练家通信。\p"
+	.string "联盟交谊厅的训练家连接。\p"
 	.string "和他们在一起，\n"
 	.string "你可以做一些像聊天，交换，对战的事。\p"
 	.string "然后，在右边的这个房间\n"
@@ -1739,8 +1739,8 @@ CableClub_Text_ExplainWirelessClub::
 	.string "如果是那样的话，\n"
 	.string "你必须得去直连房间了。\p"
 	.string "我希望你能在无线\n"
-	.string "通信系统里度过难忘的时光。$"
+	.string "连接系统里度过难忘的时光。$"
 
 CableClub_Text_HopeYouEnjoyWirelessSystem::
 	.string "我希望你能在无线\n"
-	.string "通信系统里度过难忘的时光。$"
+	.string "连接系统里度过难忘的时光。$"

@@ -31,7 +31,7 @@ CeladonCity_Condominiums_RoofRoom_Text_ExplainDirectCorner::
     .string "就去直连房间。\p"
     .string "宝可梦无线俱乐部右边的柜台就是。\p"
     .string "和你的朋友一起进入\n"
-    .string "通信房间或者大竞技场。$"
+    .string "连接房间或者大竞技场。$"
 
 CeladonCity_Condominiums_RoofRoom_Text_ExplainUnionRoom::
     .string "如果要和任意其他人通讯，\n"

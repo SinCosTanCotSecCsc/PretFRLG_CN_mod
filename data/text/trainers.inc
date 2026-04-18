@@ -367,7 +367,7 @@ Route14_Text_JanRematchIntro::
 	.string "让我们享受这到手的胜利！$"
 
 Route15_Text_KindraRematchIntro::
-	.string "我和这只通过通信\n"
+	.string "我和这只通过连接\n"
 	.string "得到的宝可梦一起不停战斗。$"
 
 Route15_Text_BeckyRematchIntro::

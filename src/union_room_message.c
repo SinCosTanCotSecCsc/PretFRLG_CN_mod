@@ -10,7 +10,7 @@ ALIGNED(4) const u8 gText_UR_ID[] = _("{ID}");
 ALIGNED(4) const u8 gText_UR_PleaseStartOver[] = _("请从起始的地方开始。");
 ALIGNED(4) const u8 gText_UR_WirelessSearchCanceled[] = _("无线连接系统\n搜索被取消了。");
 ALIGNED(4) static const u8 sText_AwaitingCommunucation2[] = _("ともだちからの れんらくを\nまっています");
-ALIGNED(4) const u8 gText_UR_AwaitingCommunication[] = _("{B_COPY_VAR_1}！等待\n其他玩家的通信。");
+ALIGNED(4) const u8 gText_UR_AwaitingCommunication[] = _("{B_COPY_VAR_1}！等待\n其他玩家的连接。");
 ALIGNED(4) const u8 gText_UR_AwaitingLinkPressStart[] = _("{B_COPY_VAR_1}！等待连接！\n当所有人准备完毕后按开始键。");
 
 ALIGNED(4) static const u8 sText_SingleBattle[] = _("シングルバトルを かいさいする");
@@ -91,7 +91,7 @@ ALIGNED(4) const u8 gText_UR_CancelModeWithTheseMembers[] = _("取消和其他�
 ALIGNED(4) const u8 gText_UR_AnOKWasSentToPlayer[] = _("“OK”被发送给\n{B_COPY_VAR_1}。");
 
 ALIGNED(4) static const u8 sText_OtherTrainerUnavailableNow[] = _("其他训练家好像\n现在不可见……\p");
-ALIGNED(4) static const u8 sText_CantTransmitTrainerTooFar[] = _("你不能和一个太远的\n训练家进行通信。\p");
+ALIGNED(4) static const u8 sText_CantTransmitTrainerTooFar[] = _("你不能和一个太远的\n训练家进行连接。\p");
 ALIGNED(4) static const u8 sText_TrainersNotReadyYet[] = _("其他训练家\n没有准备好。\p");
 
 const u8 *const gTexts_UR_CantTransmitToTrainer[] = {
@@ -158,8 +158,8 @@ static const u8 *const sDoYouWantModeTexts[] = {
 ALIGNED(4) static const u8 sText_CommunicatingPleaseWait[] = _("はなしかけています…\nしょうしょう おまちください"); // Unused
 ALIGNED(4) const u8 gText_UR_AwaitingPlayersResponseAboutTrade[] = _("等待{B_COPY_VAR_1}的\n交换响应……");
 
-ALIGNED(4) static const u8 sText_Communicating[] = _("通信中{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.\n{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.");
-ALIGNED(4) static const u8 sText_CommunicatingWithPlayer[] = _("与{B_COPY_VAR_1}通信中{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.\n{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.");
+ALIGNED(4) static const u8 sText_Communicating[] = _("连接中{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.\n{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.");
+ALIGNED(4) static const u8 sText_CommunicatingWithPlayer[] = _("与{B_COPY_VAR_1}连接中{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.\n{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.");
 ALIGNED(4) static const u8 sText_PleaseWaitAWhile[] = _("请稍等{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.\n{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.{PAUSE 0x0F}.");
 
 const u8 *const gTexts_UR_CommunicatingWait[] = {
