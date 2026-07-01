@@ -35,7 +35,7 @@ RockTunnel_B1F_Text_CooperPostBattle::
     .string "可以把它送给我吗？$"
 
 RockTunnel_B1F_Text_SteveIntro::
-    .string "嗯…你了解\n"
+    .string "嗯……你了解\n"
     .string "宝可梦cosplay吗？$"
 
 RockTunnel_B1F_Text_SteveDefeat::

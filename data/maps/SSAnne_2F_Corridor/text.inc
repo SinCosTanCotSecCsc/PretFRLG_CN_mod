@@ -9,7 +9,8 @@ SSAnne_2F_Corridor_Text_RivalIntro::
     .string "{PLAYER}！\p"
     .string "真没想到能在这里碰见你！\n"
     .string "{PLAYER}，你真的有被邀请吗？\p"
-    .string "另外你的宝可梦图鉴收集得怎么样了？\p"
+    .string "另外你的宝可梦图鉴\n"
+    .string "收集得怎么样了？\p"
     .string "我已经收服40种了。\n"
     .string "不同的地方有不同的宝可梦。\p"
     .string "要匍匐在草地里，\n"
@@ -26,7 +27,8 @@ SSAnne_2F_Corridor_Text_RivalVictory::
     .string "きたえた　ほうが　いいぜ！$"
 
 SSAnne_2F_Corridor_Text_RivalPostBattle::
-    .string "{B_OPPONENT_MON1_NAME}：我听说这船上有个居合劈大师。\p"
+    .string "{B_OPPONENT_MON1_NAME}：我听说\n"
+    .string "这船上有个居合劈大师。\p"
     .string "可他不过是一个爱晕船的老头！\p"
     .string "不过居合劈本身非常有用。\n"
     .string "没错，学会了它的话会非常方便。\p"

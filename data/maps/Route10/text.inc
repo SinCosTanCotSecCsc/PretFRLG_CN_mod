@@ -15,12 +15,12 @@ Route10_Text_ClarkIntro::
     .string "哈——哈！$"
 
 Route10_Text_ClarkDefeat::
-    .string "哈-啊啊！\n"
+    .string "哈——啊啊！\n"
     .string "不准笑！\l"
-    .string "啊啊-发烧了！啊啊-啊嚏！$"
+    .string "啊啊——发烧了！啊啊——啊嚏！$"
 
 Route10_Text_ClarkPostBattle::
-    .string "啊啊-啊嚏！\n"
+    .string "啊啊——啊嚏！\n"
     .string "啊嚏！\l"
     .string "抽鼻子，擦鼻涕。$"
 

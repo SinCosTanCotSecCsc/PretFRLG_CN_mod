@@ -396,10 +396,11 @@ void PSA_PrintMessage(u8 messageId)
     switch (messageId)
     {
     case 0: // Item was used on Mon
-        str = StringCopy(scene->textBuf, ItemId_GetName(itemId));
-        str = StringCopy(str, gText_WasUsedOn);
+        str = StringCopy(scene->textBuf, gText_Period);
         GetMonData(pokemon, MON_DATA_NICKNAME, str);
-        StringAppend(scene->textBuf, gText_Period);
+        str = StringCopy(str, gText_WasUsedOn);
+        str = StringCopy(str, ItemId_GetName(itemId));
+        StringAppend(scene->textBuf, gText_Period2);
         break;
     case 1: // Mon's level was elevated to level
         level = GetMonData(pokemon, MON_DATA_LEVEL);

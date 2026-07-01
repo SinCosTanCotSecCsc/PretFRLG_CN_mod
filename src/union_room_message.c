@@ -536,8 +536,8 @@ const u8 *const gTexts_UR_CardColor[] = {
     sText_ItsGoldCard
 };
 
-ALIGNED(4) const u8 gText_UR_TrainerCardInfoPage1[] = _("这是{DYNAMIC 0x00}{DYNAMIC 0x01}的\n训练家卡片……\l{DYNAMIC 0x02}\p图鉴：{DYNAMIC 0x03}\n时间：   {DYNAMIC 0x04}:{DYNAMIC 0x05}\p");
-ALIGNED(4) const u8 gText_UR_TrainerCardInfoPage2[] = _("对战：{DYNAMIC 0x00} 胜  {DYNAMIC 0x02} 负\n交换次数： {DYNAMIC 0x03} 次\p“{DYNAMIC 0x04} {DYNAMIC 0x05}\n{DYNAMIC 0x06} {DYNAMIC 0x07}”\p");
+ALIGNED(4) const u8 gText_UR_TrainerCardInfoPage1[] = _("这是{DYNAMIC 0x00}{DYNAMIC 0x01}的\n训练家卡片……\l{DYNAMIC 0x02}\p图鉴：{DYNAMIC 0x03}\n时间：  {DYNAMIC 0x04}:{DYNAMIC 0x05}\p");
+ALIGNED(4) const u8 gText_UR_TrainerCardInfoPage2[] = _("对战：{DYNAMIC 0x00} 胜  {DYNAMIC 0x02} 负\n交换次数：{DYNAMIC 0x03} 次\p“{DYNAMIC 0x04} {DYNAMIC 0x05}\n{DYNAMIC 0x06} {DYNAMIC 0x07}”\p");
 ALIGNED(4) static const u8 sText_GladToMeetYouMale[] = _("{DYNAMIC 0x01}：很高兴认识了你！{PAUSE 0x3C}");
 ALIGNED(4) static const u8 sText_GladToMeetYouFemale[] = _("{DYNAMIC 0x01}：很高兴认识你！{PAUSE 0x3C}");
 

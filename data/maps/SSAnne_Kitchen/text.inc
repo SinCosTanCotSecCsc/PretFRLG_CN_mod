@@ -30,7 +30,7 @@ SSAnne_Kitchen_Text_OnlyGetToPeelOnions::
 SSAnne_Kitchen_Text_IAmLeChefMainCourseIs::
     .string "没错！\n"
     .string "我就是主厨！\p"
-    .string "主菜是$"
+    .string "主菜是……$"
 
 SSAnne_Kitchen_Text_SalmonDuSalad::
     .string "三文鱼色拉！\p"

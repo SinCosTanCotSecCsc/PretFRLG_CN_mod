@@ -49,7 +49,7 @@ VermilionCity_PokemonFanClub_Text_ChairmansStory::
     .string "我要给你这个！$"
 
 VermilionCity_PokemonFanClub_Text_ReceivedBikeVoucherFromChairman::
-    .string "{PLAYER}从主席那里\n"
+    .string "{PLAYER}从会长那里\n"
     .string "得到了自行车兑换券。$"
 
 VermilionCity_PokemonFanClub_Text_ExplainBikeVoucher::
@@ -76,7 +76,7 @@ VermilionCity_PokemonFanClub_Text_MakeRoomForThis::
     .string "要腾出空间来放这个！$"
 
 VermilionCity_PokemonFanClub_Text_ChairmanVeryVocalAboutPokemon::
-    .string "我们的主席在说到\n"
+    .string "我们的会长在说到\n"
     .string "宝可梦时口才特别好。$"
 
 VermilionCity_PokemonFanClub_Text_ListenPolitelyToOtherTrainers::
@@ -87,6 +87,6 @@ VermilionCity_PokemonFanClub_Text_SomeoneBragsBragBack::
     .string "当有人在晒的时侯，给他晒回去！$"
 
 VermilionCity_PokemonFanClub_Text_ChairmanReallyAdoresHisMons::
-    .string "我们的主席真的很喜欢他的宝可梦。\p"
+    .string "我们的会长真的很喜欢他的宝可梦。\p"
     .string "但是我觉得更喜欢\n"
     .string "宝可梦的人是奈奈美。$"

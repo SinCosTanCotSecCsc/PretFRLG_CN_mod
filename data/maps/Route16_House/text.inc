@@ -6,7 +6,7 @@ Route16_House_Text_FoundMySecretRetreat::
 
 Route16_House_Text_ReceivedHM02FromGirl::
     .string "{PLAYER}从女孩那儿\n"
-    .string "获得了秘传学习器HM02。$"
+    .string "获得了秘传学习器02。$"
 
 Route16_House_Text_ExplainHM02::
     .string "秘传学习器02是飞翔。\n"

@@ -16,7 +16,7 @@ CeruleanCity_House4_Text_NewNewsInformativeHaveThis::
 
 CeruleanCity_House4_Text_IncredibleNewsHaveBerries::
     .string "噢，噢！\n"
-    .string "这-这条消息！\p"
+    .string "这——这条消息！\p"
     .string "嗯……\p"
     .string "令人震惊！\n"
     .string "多么不可思议的消息！\p"

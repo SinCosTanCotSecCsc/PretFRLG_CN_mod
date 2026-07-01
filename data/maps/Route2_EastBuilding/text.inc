@@ -5,7 +5,7 @@ Route2_EastBuilding_Text_GiveHM05IfSeen10Mons::
     .string "数据，我会给你\l"
     .string "一个小奖品。\p"
     .string "大木博士委托我带\n"
-    .string "HM05给你。\p"
+    .string "秘传学习器05给你。\p"
     .string "{PLAYER}，我问问你。\p"
     .string "你收集了十个不同\n"
     .string "的宝可梦数据了吗？$"
@@ -21,7 +21,7 @@ Route2_EastBuilding_Text_ReceivedHM05FromAide::
     .string "得到了秘传学习器05。$"
 
 Route2_EastBuilding_Text_ExplainHM05::
-    .string "招式学习器05包含了隐藏招式\n"
+    .string "秘传学习器05包含了隐藏招式\n"
     .string "闪光。\p"
     .string "闪光能照亮黑暗的洞穴\n"
     .string "和隧道。$"

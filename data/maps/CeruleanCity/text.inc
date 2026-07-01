@@ -60,7 +60,7 @@ CeruleanCity_Text_GruntDefeat::
     .string "我会马上离开的！$"
 
 CeruleanCity_Text_OkayIllReturnStolenTM::
-    .string "…好吧。\n"
+    .string "……好吧。\n"
     .string "我会把偷来的招式学习器还给你。$"
 
 CeruleanCity_Text_RecoveredTM28FromGrunt::

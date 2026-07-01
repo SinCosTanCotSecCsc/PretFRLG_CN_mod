@@ -61,7 +61,7 @@ CinnabarIsland_Text_MyPalsBoatArrived::
 
 CinnabarIsland_Text_IfYouHaveTriPassYouCanGoAgain::
     .string "这次的旅程有点长吧？\p"
-    .string "我伙伴阿锦似乎很喜欢\n"
+    .string "我伙伴锦辉似乎很喜欢\n"
     .string "和你在一起度过的时光。\p"
     .string "如果你再次拜访他，\n"
     .string "他肯定会很欢迎你的。\p"

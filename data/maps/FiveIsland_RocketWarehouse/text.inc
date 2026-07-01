@@ -80,7 +80,7 @@ FiveIsland_RocketWarehouse_Text_Admin2Defeat::
     .string "呃……\n"
     .string "你太强了……\p"
     .string "……\n"
-    .string "那-那是坂木的徽章！\p"
+    .string "那——那是坂木的徽章！\p"
     .string "传言是真的吗？\n"
     .string "火箭队真的解散了？$"
 

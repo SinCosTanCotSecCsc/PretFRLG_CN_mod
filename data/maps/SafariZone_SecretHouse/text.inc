@@ -10,7 +10,7 @@ SafariZone_SecretHouse_Text_CongratsYouveWon::
     .string "你赢了！$"
 
 SafariZone_SecretHouse_Text_ReceivedHM03FromAttendant::
-    .string "{PLAYER} 从服务员那里\n"
+    .string "{PLAYER}从服务员那里\n"
     .string "得到了秘传学习器03！$"
 
 SafariZone_SecretHouse_Text_ExplainSurf::

@@ -766,7 +766,7 @@ gFameCheckerPersonName_Bill:: @ 0x81B0A45
 gFameCheckerPersonQuote_Bill:: @ 0x81B0A50
 	.string "{COLOR 0x08}{SHADOW 0x09}正辉 (寄) \n"
 	.string "{PLAYER} (收) \p"
-	.string "{FONT_MALE}{COLOR 0x02}{SHADOW 0x03}哟，好久不见！阿锦除了夸你之外\n"
+	.string "{FONT_MALE}{COLOR 0x02}{SHADOW 0x03}哟，好久不见！锦辉除了夸你之外\n"
 	.string "再没有做过其它的什么了。\p"
 	.string "我听到后感到非常的高兴。\p"
 	.string "当你抓到珍贵的宝可梦时，\n"
@@ -1326,13 +1326,13 @@ gFameCheckerFlavorTextOriginObjectName_Bill2::
 	.string "老人$"
 
 gFameCheckerFlavorTextOriginObjectName_Bill3::
-	.string "阿锦$"
+	.string "锦辉$"
 
 gFameCheckerFlavorTextOriginObjectName_Bill4::
-	.string "阿锦$"
+	.string "锦辉$"
 
 gFameCheckerFlavorTextOriginObjectName_Bill5::
-	.string "阿锦$"
+	.string "锦辉$"
 
 gFameCheckerFlavorTextOriginObjectName_MrFuji0::
 	.string "小女孩$"

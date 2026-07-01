@@ -20,8 +20,8 @@ SSAnne_CaptainsOffice_Text_ThankYouHaveHMForCut::
     .string "你就能让它随时表演居合劈给你看了！$"
 
 SSAnne_CaptainsOffice_Text_ObtainedHM01FromCaptain::
-    .string "{PLAYER} 从船长那里\n"
-    .string "获得了秘传学习器HM01！$"
+    .string "{PLAYER}从船长那里\n"
+    .string "获得了秘传学习器01！$"
 
 SSAnne_CaptainsOffice_Text_ExplainCut::
     .string "使用居合劈，你就能砍掉小树。\p"

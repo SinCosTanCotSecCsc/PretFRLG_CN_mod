@@ -28,7 +28,7 @@ Text_LetMeConferUltimateMove::
     .string "你答应了？\p"
     .string "太好了，现在我就把\n"
     .string "{B_COPY_VAR_2}教给你的{B_COPY_VAR_1}。\p"
-    .string "哇哦-哇哦-$"
+    .string "哇哦——哇哦——$"
 
 Text_TaughtMove::
     .string "哈……哈……\p"

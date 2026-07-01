@@ -13,7 +13,7 @@ Route10_PokemonCenter_1F_Text_HeardGhostsHauntLavender::
     .string "紫苑镇。$"
 
 Route10_PokemonCenter_1F_Text_GiveEverstoneIfCaught20Mons::
-    .string "哦…… {PLAYER}!\n"
+    .string "哦……{PLAYER}！\n"
     .string "我一直在找你。\p"
     .string "是我，你经常会看到的\n"
     .string "大木博士的助手之一。\p"

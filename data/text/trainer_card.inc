@@ -30,7 +30,7 @@ FourIsland_House2_Text_GiveYouStickerIfYouBrag::
 	.string "哦，太棒了！\n"
 	.string "你可真是来对地方了！\p"
 	.string "快看，快看！\n"
-	.string "看到了吧！\n"
+	.string "看到了吧！\l"
 	.string "这些是我的贴纸！\l"
 	.string "你看，我得到了很多吧！\p"
 	.string "我猜你也想要一些。\n"

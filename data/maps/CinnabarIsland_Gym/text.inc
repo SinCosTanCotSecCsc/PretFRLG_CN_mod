@@ -145,7 +145,7 @@ CinnabarIsland_Gym_Text_GymStatuePlayerWon::
     .string "红莲宝可梦道馆\n"
     .string "馆主：夏伯\p"
     .string "优胜训练家：\n"
-    .string "{B_OPPONENT_MON1_NAME}, {PLAYER}$"
+    .string "{B_OPPONENT_MON1_NAME}，{PLAYER}$"
 
 CinnabarIsland_Gym_Text_PokemonQuizRules::
     .string "宝可梦竞答！\p"

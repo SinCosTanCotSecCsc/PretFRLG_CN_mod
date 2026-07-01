@@ -1,9 +1,9 @@
 OneIsland_PokemonCenter_1F_Text_BillHeyThereCelio::
     .string "正辉：哟，这边这边！\n"
-    .string "阿锦！$"
+    .string "锦辉！$"
 
 OneIsland_PokemonCenter_1F_Text_CelioCantBelieveYouCameOut::
-    .string "阿锦：正辉！\n"
+    .string "锦辉：正辉！\n"
     .string "你还真的来这儿了。$"
 
 OneIsland_PokemonCenter_1F_Text_BillHowsYourResearchComing::
@@ -12,19 +12,19 @@ OneIsland_PokemonCenter_1F_Text_BillHowsYourResearchComing::
     .string "……噢，等一下。$"
 
 OneIsland_PokemonCenter_1F_Text_ThisIsMyBuddyCelio::
-    .string "{PLAYER}，这是我的好友阿锦。\n"
+    .string "{PLAYER}，这是我的好友锦辉。\n"
     .string "他是个专业的电脑狂！$"
 
 OneIsland_PokemonCenter_1F_Text_PlayerIsRisingPokemonChamp::
-    .string "阿锦，这是{PLAYER}，一个向着\n"
+    .string "锦辉，这是{PLAYER}，一个向着\n"
     .string "宝可梦联盟发起冲击的新星！$"
 
 OneIsland_PokemonCenter_1F_Text_PlayerIsReigningPokemonChamp::
-    .string "阿锦，这是{PLAYER}，\n"
+    .string "锦辉，这是{PLAYER}，\n"
     .string "本届的宝可梦冠军！$"
 
 OneIsland_PokemonCenter_1F_Text_CelioThatsReallyImpressive::
-    .string "阿锦：这真让人印象深刻。\p"
+    .string "锦辉：这真让人印象深刻。\p"
     .string "我不喜欢这样说，不过\n"
     .string "我对战斗没有兴趣。\p"
     .string "怎样都好，幸会幸会。$"
@@ -34,7 +34,7 @@ OneIsland_PokemonCenter_1F_Text_BillBringMeUpToSpeed::
     .string "你的机器运行得怎样了？$"
 
 OneIsland_PokemonCenter_1F_Text_CelioPCsCantLinkWithYours::
-    .string "阿锦：它们工作正常，不过\n"
+    .string "锦辉：它们工作正常，不过\n"
     .string "我们这边比较偏僻。\p"
     .string "岛上的电脑跟你的电脑 \n"
     .string "连接不上。$"
@@ -67,7 +67,7 @@ OneIsland_PokemonCenter_1F_Text_AcceptedMeteoriteFromBill::
     .string "接过陨石。$"
 
 OneIsland_PokemonCenter_1F_Text_CelioPleaseTakeThis::
-    .string "阿锦：{PLAYER}，如果你要去\n"
+    .string "锦辉：{PLAYER}，如果你要去\n"
     .string "二之岛，带上这个吧。$"
 
 OneIsland_PokemonCenter_1F_Text_PassLetsYouTravelBetweenIslands::
@@ -98,7 +98,7 @@ OneIsland_PokemonCenter_1F_Text_GotPCWorkingStrollAWhileMore::
     .string "看到了吗？\n"
     .string "我们把电脑弄好了！\p"
     .string "我有点东西 \n"
-    .string "想给阿锦看看。\p"
+    .string "想给锦辉看看。\p"
     .string "你可以先到外面\n"
     .string "等等我吗？$"
 
@@ -123,33 +123,33 @@ OneIsland_PokemonCenter_1F_Text_BillWeGotItDone::
     .string "这些电脑都能正常运作了！$"
 
 OneIsland_PokemonCenter_1F_Text_CelioJobWentQuick::
-    .string "阿锦：这事处理得真快。\p"
+    .string "锦辉：这事处理得真快。\p"
     .string "正辉真是个了不起的家伙……$"
 
 OneIsland_PokemonCenter_1F_Text_BillYouveLearnedALot::
     .string "正辉：不，不！这没剩下\n"
     .string "什么我可以做的事了。\p"
-    .string "阿锦，这边交给你了。\n"
+    .string "锦辉，这边交给你了。\n"
     .string "相信你也学到了不少吧。$"
 
 OneIsland_PokemonCenter_1F_Text_CelioOhReallyEhehe::
-    .string "阿锦：噢，真的？\n"
+    .string "锦辉：噢，真的？\n"
     .string "嘿嘿……$"
 
 OneIsland_PokemonCenter_1F_Text_BillWeShouldHeadBackToKanto::
     .string "正辉：好了，就这么简单。\n"
     .string "我已经完成了我的工作了。\l"
     .string "我们回关都去吧。\p"
-    .string "阿锦，下次再见了。$"
+    .string "锦辉，下次再见了。$"
 
 OneIsland_PokemonCenter_1F_Text_CelioPromiseIllShowYouAroundSometime::
-    .string "阿锦：{PLAYER}，今天没能\n"
+    .string "锦辉：{PLAYER}，今天没能\n"
     .string "让你享受一下，真的很抱歉。\p"
     .string "我保证，下次你来的时候\n"
     .string "我会带你在这些岛上逛逛。$"
 
 OneIsland_PokemonCenter_1F_Text_CelioImModifyingMyNetworkMachine::
-    .string "阿锦：你好！\n"
+    .string "锦辉：你好！\n"
     .string "你看来跟平时一样的忙。\p"
     .string "我？\p"
     .string "嗯，我最近在调整\n"
@@ -159,7 +159,7 @@ OneIsland_PokemonCenter_1F_Text_CelioImModifyingMyNetworkMachine::
     .string "{PLAYER}。$"
 
 OneIsland_PokemonCenter_1F_Text_CelioCaughtMoreMonMaybeICanBeUseful::
-    .string "阿锦：{PLAYER}，\n"
+    .string "锦辉：{PLAYER}，\n"
     .string "你最近过的怎样？\p"
     .string "噢，这样？\n"
     .string "你最近抓到很多宝可梦。\p"
@@ -199,7 +199,7 @@ OneIsland_PokemonCenter_1F_Text_OhThats::
 
 OneIsland_PokemonCenter_1F_Text_HandedRubyToCelio::
     .string "{PLAYER}把红宝石\n"
-    .string "交给了阿锦。$"
+    .string "交给了锦辉。$"
 
 OneIsland_PokemonCenter_1F_Text_MayIAskOneMoreFavor::
     .string "谢谢你！\n"
@@ -241,10 +241,10 @@ OneIsland_PokemonCenter_1F_Text_PassLetYouGetToAllIslands::
 
 OneIsland_PokemonCenter_1F_Text_HandedSapphireToCelio::
     .string "{PLAYER}把蓝宝石\n"
-    .string "交给阿锦。$"
+    .string "交给锦辉。$"
 
 OneIsland_PokemonCenter_1F_Text_ThankYouGiveMeTime::
-    .string "阿锦：那么这就是能跟\n"
+    .string "锦辉：那么这就是能跟\n"
     .string "红宝石凑成一对的宝石……\p"
     .string "{PLAYER}，你为此付出了\n"
     .string "很多努力，对吧？\p"
@@ -281,7 +281,7 @@ OneIsland_PokemonCenter_1F_Text_WishYouBestOfLuck::
     .string "我祝你好运！$"
 
 OneIsland_PokemonCenter_1F_Text_CelioHearingRumorsAboutYou::
-    .string "阿锦：你好！\p"
+    .string "锦辉：你好！\p"
     .string "{PLAYER}，最近我常常听到\n"
     .string "有关你的传闻。$"
 
@@ -330,7 +330,7 @@ OneIsland_PokemonCenter_1F_Text_TradedWithFarAwayBoyfriend::
     .string "我跟我住很远的男朋友\n"
     .string "交换到宝可梦了！\p"
     .string "每个人都说我们\n"
-    .string "要感谢你跟阿锦。\p"
+    .string "要感谢你跟锦辉。\p"
     .string "所以，谢谢你！$"
 
 OneIsland_PokemonCenter_1F_Text_MachineUnderAdjustment::

@@ -907,11 +907,11 @@ const u8 gStartMenuDesc_Retire[] = _("退出狩猎地带游戏\n并回到登记�
 
 #include "data/text/quest_log.h"
 
-const u8 gText_WasUsedOn[] = _(" 被用于\n");
-const u8 gText_Period[] = _("。");
+const u8 gText_WasUsedOn[] = _("使用了\n");
+const u8 gText_Period[] = _("对");
 const u8 gText_LevelRoseTo[] = _("的等级升至\n");
 const u8 gText_Period2[] = _("。");
-const u8 gText_LevelUp_MaxHP[] = _("{FONT_SMALL}最大{FONT_NORMAL}HP");
+const u8 gText_LevelUp_MaxHP[] = _("最大HP");
 const u8 gText_LevelUp_Attack[] = _("攻击");
 const u8 gText_LevelUp_Defense[] = _("防御");
 const u8 gText_LevelUp_Speed[] = _("速度");
@@ -1221,7 +1221,7 @@ const u8 gText_WaitingForFriendToFinish[] = _("{COLOR 0x02}{HIGHLIGHT}À{SHADOW 
 const u8 gText_FriendWantsToTrade[] = _("你的朋友\n想交换宝可梦。");
 const u8 gText_XWillBeSentToY[] = _("{STR_VAR_2}将会\n被送给{STR_VAR_1}。");
 const u8 gText_ByeByeVar1[] = _("再见，{STR_VAR_2}！");
-const u8 gText_XSentOverY[] = _("把{STR_VAR_3}送给了{STR_VAR_1}。");
+const u8 gText_XSentOverY[] = _("{STR_VAR_1}送来了{STR_VAR_3}。");
 const u8 gText_TakeGoodCareOfX[] = _("好好照顾{STR_VAR_3}！");
 const u8 gText_From[] = _("来自");
 const u8 gText_Empty1[] = _("");

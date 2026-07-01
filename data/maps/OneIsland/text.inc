@@ -3,11 +3,11 @@ OneIsland_Text_BillLetsGoSeeCelio::
     .string "这里是一之岛。\p"
     .string "这附近还有好几个小岛，\n"
     .string "这个岛只是其中之一。\p"
-    .string "我的朋友阿锦派船来接我。\p"
+    .string "我的朋友锦辉派船来接我。\p"
     .string "他独自管理着\n"
     .string "岛上的电脑网络联结。\p"
     .string "……为什么我现在要告诉你这些？\n"
-    .string "我们先去见阿锦吧！$"
+    .string "我们先去见锦辉吧！$"
 
 Text_WhereDoYouWantToSail::
     .string "嘿，这里这里！\n"
@@ -15,14 +15,14 @@ Text_WhereDoYouWantToSail::
 
 OneIsland_Text_LuckyToHaveCelioHere::
     .string "我们来到了小岛的正中心。\p"
-    .string "有一个像阿锦这样出色的\n"
+    .string "有一个像锦辉这样出色的\n"
     .string "年轻人真是太幸运了。\p"
-    .string "我孙女作为阿锦的朋友\n"
+    .string "我孙女作为锦辉的朋友\n"
     .string "感到很幸福。\p"
     .string "一个有名的\n"
     .string "宝可梦狂？\p"
     .string "我不清楚这到底是什么意思，\n"
-    .string "但似乎阿锦就是那样的人。$"
+    .string "但似乎锦辉就是那样的人。$"
 
 OneIsland_Text_HavePCLinkageWithKanto::
     .string "我的孙女对于新的突破\n"
@@ -30,7 +30,7 @@ OneIsland_Text_HavePCLinkageWithKanto::
     .string "她说我们终于等来了\n"
     .string "电脑与关都的联动。\p"
     .string "我不确定这到底是什么意思，\n"
-    .string "但阿锦就是能做到这种事的人。$"
+    .string "但锦辉就是能做到这种事的人。$"
 
 OneIsland_Text_HavePCLinkageWithHoenn::
     .string "我的孙女对于新的突破\n"
@@ -38,7 +38,7 @@ OneIsland_Text_HavePCLinkageWithHoenn::
     .string "她说我们终于等来了\n"
     .string "电脑与丰缘的联动。\p"
     .string "我不清楚这到底是什么意思，\n"
-    .string "但阿锦真的做到了！\p"
+    .string "但锦辉真的做到了！\p"
     .string "对我孙女来说，\n"
     .string "他一定会成为一个好丈夫！$"
 

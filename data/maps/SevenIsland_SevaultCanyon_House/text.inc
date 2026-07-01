@@ -1,8 +1,8 @@
 SevenIsland_SevaultCanyon_House_Text_ChanseyDanceJoinIn::
     .string "跳跃吧，舞动吧！\n"
-    .string " 吉利蛋舞！\p"
+    .string "吉利蛋舞！\p"
     .string "你也一起来跳吧！\n"
-    .string " 跳跃吧，舞动吧！$"
+    .string "跳跃吧，舞动吧！$"
 
 SevenIsland_SevaultCanyon_House_Text_WouldYouLikeToDance::
     .string "你也要一起跳吗？$"

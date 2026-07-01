@@ -1,5 +1,5 @@
 FourIsland_IcefallCave_Back_Text_LoreleiKeepHandsOffMons::
-    .string "科拿： 把你肮脏的手从\n"
+    .string "科拿：把你肮脏的手从\n"
     .string "洞穴里的宝可梦中挪开！\p"
     .string "照我说的做，不然要你好看！$"
 
@@ -21,7 +21,7 @@ FourIsland_IcefallCave_Back_Text_LoreleiPlayerHelpMeKickPoachersOut::
     .string "你去对付他！$"
 
 FourIsland_IcefallCave_Back_Text_GruntIntro::
-    .string "什-什么？！\p"
+    .string "什——什么？！\p"
     .string "为啥我们不能用抓到的宝可梦\n"
     .string "做我们想做的事情？$"
 
@@ -38,7 +38,7 @@ FourIsland_IcefallCave_Back_Text_LoreleiWhereHaveYouTakenMons::
     .string "砸烂你的戒指！$"
 
 FourIsland_IcefallCave_Back_Text_NotTellingYouThat::
-    .string "没-没门！\n"
+    .string "没——没门！\n"
     .string "我不会告诉你的！$"
 
 FourIsland_IcefallCave_Back_Text_LoreleiWellDeepFreezeYou::

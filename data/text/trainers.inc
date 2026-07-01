@@ -411,7 +411,7 @@ Route15_Text_YazminRematchIntro::
 	.string "再玩一场？$"
 
 Route15_Text_MyaRematchIntro::
-	.string "阿力： 嗨，我们再谈谈。\n"
+	.string "阿力：嗨，我们再谈谈。\n"
 	.string "好吗？\p"
 	.string "能不能再帮我训练一下我的\n"
 	.string "弟弟？$"

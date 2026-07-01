@@ -34,7 +34,7 @@ VermilionCity_PokemonCenter_1F_Text_UseDeviceForRematches::
 VermilionCity_PokemonCenter_1F_Text_ExplainVSSeeker::
     .string "你是怎样使用对战搜寻器的？\n"
     .string "这没什么困难的。\p"
-    .string "使用时会发出哔-哔-嘟的声音，\n"
+    .string "使用时会发出哔——哔——嘟的声音，\n"
     .string "你再看看周围的训练家。\p"
     .string "如过任何训练家想再战，\n"
     .string "它会让你马上知道。\p"

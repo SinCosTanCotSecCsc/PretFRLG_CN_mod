@@ -6,7 +6,7 @@ SSAnne_2F_Room3_Text_SomeTreesCanBeCutDown::
     .string "小树可以用\n"
     .string "居合劈砍倒。\p"
     .string "但记住！\n"
-    .string "居合劈是一个秘传学习器的技巧。\p"
+    .string "居合劈是一个秘传招式。\p"
     .string "一旦学会，\n"
     .string "它是不能轻易被遗忘的。$"
 
