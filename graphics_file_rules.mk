@@ -84,10 +84,10 @@ $(FONTGFXDIR)/braille.fwjpnfont: $(FONTGFXDIR)/braille.png
 $(FONTGFXDIR)/japanese_bold.fwjpnfont: $(FONTGFXDIR)/japanese_bold.png
 	$(GFX) $< $@
 
-$(FONTGFXDIR)/chinese_small.latfont: $(FONTGFXDIR)/chinese_small.png
+$(FONTGFXDIR)/chinese_small.fwlatfont: $(FONTGFXDIR)/chinese_small.png
 	$(GFX) $< $@
 
-$(FONTGFXDIR)/chinese_normal.latfont: $(FONTGFXDIR)/chinese_normal.png
+$(FONTGFXDIR)/chinese_normal.fwlatfont: $(FONTGFXDIR)/chinese_normal.png
 	$(GFX) $< $@
 
 graphics/pokemon_jump/bg.4bpp: %.4bpp: %.png
