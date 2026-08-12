@@ -1,3 +1,19 @@
+# 《宝可梦 火红／叶绿》
+
+基于 [卧看微尘](https://github.com/Wokann) 的 GBA 中文显示代码及 [口袋群星 SP](https://www.pmcenter.cn/forum.php?mod=viewthread&tid=45552) 制作的 2012 汉化版制作，并依据最新中文译名更新。
+
+## 免责声明
+
+本项目基于开源代码制作，未包含完整的游戏 ROM。
+
+谢绝以下人士或团队转载：
+
+- 雪之舞神
+- 青山坤坤ing
+- 围炉Go
+
+----
+
 # Pokémon FireRed and LeafGreen
 
 This is a decompilation of English Pokémon FireRed and LeafGreen.
