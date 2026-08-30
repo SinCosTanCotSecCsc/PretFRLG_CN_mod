@@ -2560,7 +2560,7 @@ s32 CalculateBaseDamage(struct BattlePokemon *attacker, struct BattlePokemon *de
     if (type == TYPE_MYSTERY)
         damage = 0; // is ??? type. does 0 damage.
 
-    if (IS_TYPE_SPECIAL(type))
+    if (IS_MOVE_SPECIAL(gCurrentMove))
     {
         if (gCritMultiplier == 2)
         {
@@ -2608,11 +2608,7 @@ s32 CalculateBaseDamage(struct BattlePokemon *attacker, struct BattlePokemon *de
 
 
     }
-
-    return damage + 2;
-}
-
-        // Flash fire triggered
+            // Flash fire triggered
  if ((gBattleResources->flags->flags[battlerIdAtk] & RESOURCE_FLAG_FLASH_FIRE) && type == TYPE_FIRE)
             damage = (15 * damage) / 10;
 
@@ -2650,6 +2646,9 @@ if (WEATHER_HAS_EFFECT2)
                 }
             }
         }
+    return damage + 2;
+}
+
 
 u8 CountAliveMonsInBattle(u8 caseId)
 {
